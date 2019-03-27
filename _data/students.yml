@@ -8,9 +8,16 @@
 #  education3:
 #  education4:
 
-- name: Corne Koks
-  photo: rock.jpg
-  info: Master student
-  email: -@Physics.LeidenUniv.nl
-  number_educ: 0
-  education1:
+- name: Cody Rooks
+  photo: CodyRooks.jpg
+  info: Master student since Fall 2017
+  email: crooks2@vols.utk.edu
+  number_educ: 1
+  education1: BS in 2012, Vanderbilt University
+
+- name: Evan McKee
+  photo: EvanMcKee.jpg
+  info: Master student since Fall 2018
+  email: emckee5@vols.utk.edu
+  number_educ: 1
+  education1: BS in 2018, University of Tennessee

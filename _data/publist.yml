@@ -1,243 +1,1719 @@
-- title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
-  image: SFpub.png
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
-  link:
-    url: https://arxiv.org/abs/1901.00149
-    display:  arxiv:1901.00149
-  highlight: 1
-  news2:
+##   File: authors.yml
+##   Author: Harsha Kokel
+##   Last Updated: Sunday, February 18, 2018
+##
+##				----- Overview of available options: -----
+##
+##   publicationType             : "conference-papers" or "workshop-papers" or "journal-papers"
+##                                 "book-chapters" or "magazine-articles"
+##                                 Refer publication-type.yml for all available options
+##   authors                     : ["firstname lastname", "firstname lastname"]
+##   year                        : "year of publication"
+##   title                       : "Title of the paper"
+##   venue                       : "Where was it published?"
+##   keywords                    : ["Automatic Mode Construction", "Health Applications""]
+##   url                         : link to the paper (pdf)
+##   slide                       : link to slides
+##   video                       : link to video
+##   code                        : link to the code
+##   poster                      : link to poster
 
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
-  image: DomePub.png
-  description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
+- publicationType: "journal-papers"
+  image: MeanVar-Fang.png
+  description: This work optimizes the scheduling of energy storage considering price uncertainties. 
   link:
-    url: https://aip.scitation.org/doi/10.1063/1.5064442
-    display:  Rev. Sci. Instrum. 89, 123705 (2018)
-  highlight: 1
-  news2:
-
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-  image: Pub_BCl.png
-  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics 14, 1183 (2018)
-  highlight: 1
-  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
-
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
-  image: Fano.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
-  link:
-    url: https://aip.scitation.org/doi/10.1063/1.5043267
-    display:  Rev. Sci. Instrum. 89, 093709 (2018)
-  highlight: 0
-  news2:
-
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
-  link:
-    url: https://arxiv.org/abs/1712.08620
-    display:  arxiv:1712.08620 (2017)
-  highlight: 1
-  news2:
-
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
-  image: dummy.png
-  description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
-  highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
-
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
-  image: dummy.png
-  description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
-  link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
-  highlight: 0
-  news2:
-
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
-  description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
-  authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
-  link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
-
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
-  highlight: 0
-
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Mott_phase_sep.jpg
-  description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
-  authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
-
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
-  image: Pub_FP.png
-  description:
-    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
-  authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
-  link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
+    url: https://ieeexplore.ieee.org/document/8409961
+    display: IEEExplore
+  authors: ["Xin Fang", "Bri-Mathias Hodge", "Linquan Bai", "Hantao Cui", "Fangxing Li"]
+  year: "2018"
+  title: "Mean-Variance Optimization-Based Energy Storage Scheduling Considering Day-Ahead and Real-Time LMP Uncertainties"
+  venue: "IEEE Transactions on Power Systems"
   highlight: 1
   news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
-
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
-  image: dummy.png
-  description: ""
-  authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
-  link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
-  highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
   news2:
 
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-  image: Pub_CeCoIn5.png
-  description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
-  authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013)
-  highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
+- publicationType: "journal-papers"
+  authors: ["Qingxin Shi", "Fangxing Li", "Hantao Cui"]
+  year: "2018"
+  title: "Analytical Method to Aggregate Multi-Machine SFR Model with Applications in Power System Dynamic Studies"
+  venue: "IEEE Transactions on Power Systems"
 
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
-  image: Pub_327.png
-  description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
-  authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
-  link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013)
-  highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
+- publicationType: "journal-papers"
+  authors: ["Shunfu Lin", "Fangxing Li", "Erwei Tian", "Yang Fu", "Dongdong Li"]
+  year: "2018"
+  title: "Clustering Load Profiles for Demand Response Applications"
+  venue: "IEEE Transactions on Smarg Grid"
 
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
-  image: Pub_nemat2b.png
-  description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
-  authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1
-  link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
+- publicationType: "journal-papers"
+  authors: ["Linquan Bai", "Jianhui Wang", "Chengshan Wang", "chen Chen", "Fangxing Li"]
+  year: "2017"
+  title: "Distribution Locational Marginal Pricing (DLMP) for Congestion Management and Voltage Support"
+  venue: "IEEE Transactions on Power Systems"
 
-- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
-  image: Pub_LiFeAs.png
-  description:
-    In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
-  authors:
-    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
-  link:
-    url: http://www.sciencemag.org/content/336/6081/563
-    display: Science 336, 563 (2012)
-  highlight: 1
-  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
+- publicationType: "journal-papers"
+  authors: ["Chengshan Wang", "Tianyu Zhang", "Fengzhang Luo", "Fangxing Li", "Yanzhang Liu"]
+  year: "2018"
+  title: "Impacts of Cyber System on Microgrid Operational Reliability"
+  venue: "IEEE Transactions on Smart Grid"
 
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
-  image: dummy.png
-  description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
-  link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
-  highlight: 0
-  news2:
+- publicationType: "journal-papers"
+  authors: ["Tao Ding", "Cheng Li", "Can Huang", "Yongheng Yang", "Fangxing Li", "Frede Blaabjerg"]
+  year: "2018"
+  title: "A Hierarchical Modeling for Reactive Power Optimization With Joint Transmission and Distribution Networks by Curve Fitting"
+  venue: "IEEE Systems Journal"
 
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
-  image: Pub_nemat1.png
-  description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
-  authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
-  link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010)
-  highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+- publicationType: "journal-papers"
+  authors: ["Yang Li", "Yunwei Shen", "Lei Zhou", "Fangxing Li"]
+  year: "2018"
+  title: "Progressive Time-differentiated Peak Pricing (PTPP) for Aggregated Air-conditioning Load in Demand Response Programs"
+  venue: "International Transactions on Electrical Energy Systems (Wiley)"
 
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie
-  link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
-  highlight: 0
+- publicationType: "journal-papers"
+  authors: ["Xin Fang", "Linquan Bai", "Fangxing Li", "Bri-Mathias Hodge"]
+  year: "2018"
+  title: "Hybrid Component and Configuration Model for Combined-Cycle Units in the Unit Commitment Problem"
+  venue: "Journal of Modern Power Systems and Clean Energy"
 
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    We determine the Fermi surface of Sr327.
-  authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
-  link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
-  highlight: 0
+- publicationType: "journal-papers"
+  authors: ["Yan Du", "Zhiwei Wang", "Guangyi Liu", "Xi Chen", "Haoyu Yuan", "Yanli Wei", "Fangxing Li"]
+  year: "2018"
+  title: "A cooperative game approach for coordinating multi-microgrid operation within distribution systems"
+  venue: "Applied Energy"
 
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
-  link:
-    url: http://www.nanoscalereslett.com/content/2/2/94
-    display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
+- publicationType: "journal-papers"
+  authors: ["Haoyu Yuan", "Fangxing Li", "Hantao Cui", "Xiao Lu", "Di Shi", "Zhiwei Wang"]
+  year: "2018"
+  title: "A measurement-based VSI for voltage dependent loads using angle difference between tangent lines of load and PV curves"
+  venue: "Electric Power Systems Research"
 
-- title: Photoelectron Diffraction for a Look inside Nanostructures
-  image: dummy.png
-  description: ""
-  authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
-  link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
-  highlight: 0
+- publicationType: "journal-papers"
+  authors: ["Jun Xiao", "Ting Zhang", "Guoqiang Zu", "Fangxing Li", "Chengshan Wang"]
+  year: "2018"
+  title: "TSC-based Method to Enhance Asset Utilization of Interconnected Distribution Systems"
+  venue: "IEEE Transactions on Smart Grid"
+
+- publicationType: "journal-papers"
+  authors: ["Hao Chen", "Fangxing Li", "Yurong Wang"]
+  year: "2018"
+  title: "Wind power forecasting based on outlier smooth transition autoregressive GARCH model"
+  venue: "Journal of Modern Power Systems and Clean Energy"
+
+- publicationType: "journal-papers"
+  authors: ["Hantao Cui", "Fangxing Li", "Xin Fang", "Hao Chen", "Honggang Wang"]
+  year: "2018"
+  title: "Bi-Level Arbitrage Potential Evaluation for Grid-Scale Energy Storage Considering Wind Power and LMP Smoothing Effect"
+  venue: "IEEE Transactions on Sustainable Energy"
+
+- publicationType: "magazine-papers"
+  authors: ["Fangxing Li", "Yan Du"]
+  year: "2018"
+  title: "From AlphaGo to Power System AI"
+  venue: "IEEE Power & Energy Magazine"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Ding", "Kai Sun", "Can Huang", "Zhaohong Bie", "Fangxing Li"]
+  year: "2018"
+  title: "Mixed Integer Linear Programming Based Splitting Strategies for Power System Islanding Operation Considering Network Connectivity"
+  venue: "IEEE Systems Journal"
+
+- publicationType: "journal-papers"
+  authors: ["Xue Li", "Hantao Cui", "Tao Jiang", "Yao Xu", "Hongjie Jia", "Fangxing Li"]
+  year: "2018"
+  title: "Multichannel continuous wavelet transform approach to estimate electromechanical oscillation modes, mode shapes and coherent groups from synchrophasors in bulk power grids"
+  venue: "International Journal of Electrical Power and Energy Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Linquan Bai", "Tao Jiang", "Fangxing Li", "Houhe Chen", "Xue Li"]
+  year: "2018"
+  title: "Distributed energy storage planning in soft open point based active distribution networks incorporating network reconfiguration and DG reactive power capability"
+  venue: "Applied Energy"
+
+- publicationType: "journal-papers"
+  authors: ["Qingxin Shi", "Fangxing Li", "Qinran Hu", "Zhiwei Wang"]
+  year: "2018"
+  title: "Dynamic Demand Control for System Frequency Regulation: Concept Review, Algorithm Comparison, and Future Vision"
+  venue: "Electric Power Systems Research"
+
+- publicationType: "journal-papers"
+  authors: ["Qinran Hu", "Fangxing Li", "Xin Fang", "Linquan Bai"]
+  year: "2018"
+  title: "A Framework of Residential Demand Aggregation with Financial Incentives"
+  venue: "IEEE Transactions on Smart Grid"
+
+- publicationType: "journal-papers"
+  authors: ["Haoyu Yuan", "Fangxing Li", "Yanli Wei", "Jinxiang Zhu"]
+  year: "2018"
+  title: "Novel Linearized Power Flow and Linearized OPF Models for Active Distribution Networks with Application in Distribution LMP"
+  venue: "IEEE Transactions on Smart Grid"
+
+- publicationType: "journal-papers"
+  authors: ["Houhe Chen", "Xin Fang", "Rufeng Zhang", "Tao Jiang", "Guoqing Li", "Fangxing Li"]
+  year: "2018"
+  title: "Available Transfer Capability Evaluation in a Deregulated Electricity Market Considering Correlated Wind Power"
+  venue: "IET Generation, Transmission and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Riyasat Azim", "Fangxing Li", "Sonny Xue", "Michael Starke", "Honggang Wang"]
+  year: "2017"
+  title: "An Islanding Detection Methodology Combining Decision Trees and Sandia Frequency Shift for Inverter Based Distributed Generations"
+  venue: "IET Generation, Transmission and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Yang Fu", "Lisha Huang", "Hengyi Zhang", "Yang Mi", "Jingjing Zhao", "Fangxing Li"]
+  year: "2017"
+  title: "DFIG Virtual Inertia Control in Micro-grid Based on Setting Trigger Condition and ZN Method for Parameters Optimization"
+  venue: "IET Generation, Transmission and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Haiteng Han", "Shan Gao", "Qingxin Shi", "Hantao Cui", "Fangxing Li"]
+  year: "2017"
+  title: "Security-Based Active Demand Response Strategy Considering Uncertainties in Power Systems"
+  venue: "IEEE Access"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Ding", "Cheng Li", "Chao Yan", "Fangxing Li", "Chaohong Bie"]
+  year: "2017"
+  title: "A Bi-Level Optimization Model for Risk Assessment and Contingency Ranking in Transmission System Reliability Evaluation"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Xue Li", "Fangxing Li", "Haoyu Yuan", "Hantao Cui", "Qinran Hu"]
+  year: "2017"
+  title: "GPU-based Fast Decoupled Power Flow with Preconditioned Iterative Solver and Inexact Newton Method"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Shurong Wei", "Lu Zhang", "Yao Xu", "Yang Fu", "Fangxing Li"]
+  year: "2017"
+  title: "Hierarchical Optimization for the Double-Sided Ring Structure of the Collector System Planning of Large Offshore Wind Farms"
+  venue: "IEEE Transactions on Sustainable Energy"
+
+- publicationType: "journal-papers"
+  authors: ["Jun Xiao", "Guoqiang Zu", "Xiaoxu Gong", "Fangxing Li"]
+  year: "2017"
+  title: "Observation of Security Region Boundary for Smart Distribution Grid"
+  venue: "IEEE Transactions on Smart Grid"
+
+- publicationType: "journal-papers"
+  authors: ["Qingxin Shi", "Hantao Cui", "Fangxing Li", "Yilu Liu", "Wenyun Ju", "Yonghui Sun"]
+  year: "2017"
+  title: "A Hybrid Dynamic Demand Control Strategy for Power System Frequency Regulation"
+  venue: "CSEE Journal of Power and Energy Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Houhe Chen", "Tao Jiang", "Haoyu Yuan", "Hongjie Jia", "Linquan Bai", "Fangxing Li"]
+  year: "2017"
+  title: "Wide-area measurement-based voltage stability sensitivity and its application in voltage control"
+  venue: "International Journal of Electric Power and Energy Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Ding", "Cheng Li", "Fangxing Li", "Tianen Chen", "Ruifeng Liu"]
+  year: "2017"
+  title: "A Bi-Objective DC-Optimal Power Flow Model Using Linear Relaxation-Based Second Order Cone Programming and Its Pareto Frontier"
+  venue: "International Journal of Electric Power and Energy Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Jiang", "Haoyu Yuan", "Guoqing Li", "Hongjie Jia", "Fangxing Li"]
+  year: "2017"
+  title: "Spatial-temporal decomposition approach for systematically tracking dominant modes, mode shapes and coherent groups in power systems"
+  venue: "IET Generation, Transmission, and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Jiang", "Linquan Bai", "Haoyu Yuan", "Hongjie Jia", "Fangxing Li"]
+  year: "2017"
+  title: "QV interaction evaluation and pilot voltage-reactive power coupling area partitioning in bulk power systems"
+  venue: "IET Science, Measurement & Technology"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Jiang", "Linquan Bai", "Hongjie Jia", "Fangxing Li"]
+  year: "2017"
+  title: "Spectral Clustering Based Partitioning of Volt/VAR Control Areas in Bulk Power Systems"
+  venue: "IET Generation, Transmission and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Linquan Bai", "Fangxing Li", "Tao Jiang", "Hongjie Jia"]
+  year: "2017"
+  title: "Robust Scheduling for Wind Integrated Energy Systems Considering Gas Pipeline and Power Transmission N-1 Contingencies"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Jun Li", "Fangxing Li", "Xianyun Li", "Haitao Liu", "Fan Chen", "Bailiang Liu"]
+  year: "2016"
+  title: "S-shaped Droop Control Method with Secondary Frequency Characteristics for Inverters in Microgrid"
+  venue: "IET Generation, Transmission and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Xiangyu Kong", "Linquan Bai", "Qinran Hu", "Fangxing Li", "Chengshan Wang"]
+  year: "2016"
+  title: "Day-ahead optimal scheduling method for grid-connected microgrid based on energy storage control strategy"
+  venue: "Journal of Modern Power Systems and Clean Energy"
+
+- publicationType: "journal-papers"
+  authors: ["Jingjing Zhao", "Xue Lyu", "Yang Fu", "Xiaoguang Hu", "Fangxing Li"]
+  year: "2016"
+  title: "Coordinated Microgrid Frequency Regulation Based on DFIG Variable Coefficient Using Virtual Inertia and Primary Frequency Control"
+  venue: "IEEE Transactions on Energy Conversion"
+
+- publicationType: "journal-papers"
+  authors: ["Yao Xu", "Fangxing Li", "Zhiqiang Jin", "Maryam Variani"]
+  year: "2016"
+  title: "Dynamic Gain-Tuning Control (DGTC) Approach for AGC with Effects of Wind Power"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Can Huang", "Fangxing Li", "Yuming Jiang", "Tao Ding", "Jiahui Guo", "Yilu Liu"]
+  year: "2016"
+  title: "A Bounded Model of the Communication Delay for System Integrity Protection Schemes"
+  venue: "IEEE Transactions on Power Delivery"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Jiang", "Linquan Bai", "Fangxing Li", "Hongjie Jia", "Qinran Hu", "Xiaolong Jin"]
+  year: "2016"
+  title: "Synchrophasor Measurement-Based Correlation Approach for Dominant Mode Identification in Bulk Power Systems"
+  venue: "IET Generation, Transmission, and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Hantao Cui", "Fangxing Li", "Qinran Hu", "Linquan Bai", "Xin Fang"]
+  year: "2016"
+  title: "Day-ahead Coordinated Operation of Utility-Scale Electricity and Natural Gas Networks Considering Demand Response Based Virtual Power Plants"
+  venue: "IET Generation, Transmission, and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Ding", "Jiajun Lv", "Rui Bo", "Zhaohong Bie", "Fangxing Li"]
+  year: "2016"
+  title: "Lift-and-Project MVEE Based Convex Hull for Robust SCED with Wind Power Integration Using Historical Data-Driven Modeling Renewable Energy"
+  venue: "Renewable Energy (Elsevier)"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Jiang", "Hongjie Jia", "Haoyu Yuan", "Ning Zhou", "Fangxing Li"]
+  year: "2016"
+  title: "Projection Pursuit: A General Methodology of Wide-Area Coherency Detection in Bulk Power Grid"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Xin Fang", "Fangxing Li", "Yanli Wei", "Qinran Hu"]
+  year: "2016"
+  title: "Strategic CBDR Bidding Considering FTR and Wind Power"
+  venue: "IET Generation, Transmission and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Can Huang", "Fangxing Li", "Dao Zhou", "Jiahui Guo", "Zhuohong Pan", "Yong Liu", "Yilu Liu"]
+  year: "2016"
+  title: "Data quality issues for synchrophasor applications Part I: a review"
+  venue: "Journal of Modern Power Systems and Clean Energy (Springer)"
+
+- publicationType: "journal-papers"
+  authors: ["Can Huang", "Fangxing Li", "Lingwei Zhan", "Yao Xu", "Qinran Hu", "Dao Zhou", "Yilu Liu"]
+  year: "2016"
+  title: "Data quality issues for synchrophasor applications Part II: problem formulation and potential solutions"
+  venue: "Journal of Modern Power Systems and Clean Energy (Springer)"
+
+- publicationType: "journal-papers"
+  authors: ["Xin Fang", "Yanli Wei", "Fangxing Li"]
+  year: "2016"
+  title: "Evaluation of LMP Intervals Considering Wind Uncertainty"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Jiang", "Linquan Bai", "Hongjie Jia", "Haoyu Yuan", "Fangxing Li"]
+  year: "2016"
+  title: "Identification of Voltage Stability Critical Injection Region in Bulk Power Systems based on the Relative Gain of Voltage Coupling"
+  venue: "IET Generation, Transmission and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Jun Xiao", "Shisong Liu", "Zhensheng Li", "Fangxing Li"]
+  year: "2016"
+  title: "Loadability Formulation and Calculation for Interconnected Distribution Systems Considering N-1 Security"
+  venue: "International Journal of Electrical Power and Energy Systems (Elsevier)"
+
+- publicationType: "journal-papers"
+  authors: ["Houhe Chen", "Rufeng Zhang", "Guoqing Li", "Linquan Bai", "Fangxing Li"]
+  year: "2016"
+  title: "Economic dispatch of wind integrated power systems with energy storage considering composite operating costs"
+  venue: "IET Generation, Transmission and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Xin Fang", "Fangxing Li", "Yanli Wei", "Hantao Cui"]
+  year: "2016"
+  title: "Strategic Scheduling of Energy Storage for Load Serving Entities in Locational Marginal Pricing Market"
+  venue: "IET Generation, Transmission and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Linquan Bai", "Fangxing Li", "Hantao Cui","Tao Jiang", "Hongbin Sun", "Jinxiang Zhu"]
+  year: "2016"
+  title: "Interval Optimization based Operating Strategy for Gas-Electricity Integrated Energy Systems Considering Demand Response and Wind Uncertainty"
+  venue: "Applied Energy (Elsevier)"
+
+- publicationType: "journal-papers"
+  authors: ["Shunfu Lin", "Lunjia Zhao", "Fangxing Li", "Qingqiang Liu", "Dongdong Li", "Yang Fu"]
+  year: "2016"
+  title: "A Nonintrusive Load Identification Method for Residential Applications based on Quadratic Programming"
+  venue: "Electric Power Systems Research (Elsevier)"
+
+- publicationType: "journal-papers"
+  authors: ["Li Guo", "Wenjian Liu", "Xialin Li", "Yixin Liu", "Bingqi Jiao", "Wei Wang", "Chengshan Wang", "Fangxing Li"]
+  year: "2016"
+  title: "Energy Management System for Stand-Alone Wind-Powered-Desalination Microgrid"
+  venue: "IEEE Transactions on Smart Grid"
+
+- publicationType: "journal-papers"
+  authors: ["Xin Fang", "Qinran Hu", "Fangxing Li", "Beibei Wang", "Yang Li"]
+  year: "2016"
+  title: "Coupon-Based Demand Response Considering Wind Power Uncertainty: A Strategic Bidding Model for Load Serving Entities"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Ding", "Rui Bo", "Fangxing Li", "Hongbin Sun"]
+  year: "2016"
+  title: "Optimal Power Flow with the Consideration of Flexible Transmission Line Impedance"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Li Guo", "Zhouzi Yu", "Chengshan Wang", "Fangxing Li", "Schiettekatte Jean", "Jean-Claude Deslauriers", "Linquan Bai"]
+  year: "2016"
+  title: "Optimal design of battery energy storage system for a wind-diesel off-grid power system in a remote Canadian community"
+  venue: "IET Generation, Transmission and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Xue Li", "Fangxing Li"]
+  year: "2016"
+  title: "Estimation of the Largest Eigenvalue in Chebyshev Preconditioner for Parallel Conjugate Gradient Method based Power Flow Computation"
+  venue: "IET Generation, Transmission and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Ding", "Zhaohong Bie", "Linquan Bai", "Fangxing Li"]
+  year: "2016"
+  title: "An Adjustable Robust Optimal Power Flow with the Price of Robustness for Large-scale Power Systems"
+  venue: "IET Generation, Transmission and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Ding", "Rui Bo", "Hongbin Sun", "Fangxing Li", "Qinglai Guo"]
+  year: "2016"
+  title: "A Robust Two-Level Coordinated Static Voltage Security Region for Centrally Integrated Wind Farms"
+  venue: "IEEE Transactions on Smart Grid"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Ding", "Haoyu Yuan", "Hongjie Jia", "Ning Zhou", "Fangxing Li"]
+  year: "2015"
+  title: "Stochastic subspace identification-based approach for tracking inter-area oscillatory modes in bulk power system utilising synchrophasor measurements"
+  venue: "IET Generation, Transmission and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Ding", "Fangxing Li", "Xue Li", "Hongbin Sun", "Rui Bo"]
+  year: "2015"
+  title: "Interval Radial Power Flow Using Extended DistFlow Formulation and Krawczyk Iteration Method with Sparse Approximate Inverse Preconditioner"
+  venue: "IET Generation, Transmission and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Xin Fang", "Fangxing Li", "Yanli Wei", "Riyasat Azim", "Yan Su"]
+  year: "2015"
+  title: "Reactive Power Planning under High Penetration of Wind Energy using Benders Decomposition"
+  venue: "IET Generation, Transmission and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Sarina Adhikari", "Fangxing Li", "Huijuan Li"]
+  year: "2015"
+  title: "P-Q and P-V Control of Photovoltaic Generators in Distribution Systems"
+  venue: "IEEE Transactions on Smart Grid"
+
+- publicationType: "journal-papers"
+  authors: ["Hao Huang", "Fangxing Li", "Yateendra Mishra"]
+  year: "2015"
+  title: "Modeling Dynamic Demand Response Using Monte Carlo Simulation and Interval Mathematics for Boundary Estimation"
+  venue: "IEEE Transactions on Smart Grid"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Ding", "Rui Bo", "Fangxing Li", "Hongbin Sun"]
+  year: "2015"
+  title: "A Bi-level Branch and Bound Method for Economic Dispatch with Disjoint Prohibited Zones Considering Network Losses"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Yang Li", "Beibei Wang", "Fangxing Li"]
+  year: "2015"
+  title: "Outlook and Thinking of Flexible and Interactive Utilization of Intelligent Power"
+  venue: "Automation of Electric Power Systems (in Chinese)"
+
+- publicationType: "journal-papers"
+  authors: ["C. Vivekananthan", "Y. Mishra", "Fangxing Li"]
+  year: "2015"
+  title: "Real-Time Price Based Home Energy Management Scheduler"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Ding", "Rui Bo", "Fangxing Li", "Qinglai Guo", "Hongbin Sun"]
+  year: "2015"
+  title: "Exact Penalty Function Based Constraint Relaxation Method for Optimal Power Flow Considering Wind Generation Uncertainty"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Haoyu Yuan", "Fangxing Li"]
+  year: "2015"
+  title: "Hybrid Voltage Stability Assessment (VSA) for N-1 Contingency"
+  venue: "Eletric Power Systems Research (Elsevier)"
+
+- publicationType: "journal-papers"
+  authors: ["Yao Xu", "Fangxing Li", "Zhiqiang Jin", "Can Huang"]
+  year: "2015"
+  title: "Flatness-based Adaptive Control (FBAC) for STATCOM"
+  venue: "Eletric Power Systems Research (Elsevier)"
+
+- publicationType: "journal-papers"
+  authors: ["Can Huang", "Fangxing Li", "Zhiqiang Jin"]
+  year: "2015"
+  title: "Maximum Power Point Tracking Strategy for Large-scale Wind Generation Systems Considering Wind Turbine Dynamics"
+  venue: "IEEE Transactions on Industrial Electronics"
+
+- publicationType: "journal-papers"
+  authors: ["Hao Huang", "Fangxing Li"]
+  year: "2015"
+  title: "Bidding strategy for wind generation considering conventional generation and transmission constraints"
+  venue: "Journal of Modern Power Systems and Clean Energy"
+
+- publicationType: "journal-papers"
+  authors: ["Qinran Hu", "Fangxing Li", "Chien-fei Chen"]
+  year: "2015"
+  title: "A Smart Home Test Bed for Undergraduate Education to Bridge the Curriculum Gap Between Traditional Power Systems and Modernized Smart Grids"
+  venue: "IEEE Transactions on Education"
+
+- publicationType: "journal-papers"
+  authors: ["Jun Xiao", "Xin Li", "Wenzhuo Gu", "Fangxing Li", "Chengshan Wang"]
+  year: "2015"
+  title: "Model of distribution system total supply capability considering feeder and substation transformer contingencies"
+  venue: "International Journal of Electrical Power and Energy Systems (Elsevier)"
+
+- publicationType: "journal-papers"
+  authors: ["Fan Chen", "Fangxing Li", "Zhinong Wei", "Guoqiang Sun", "Jun Li"]
+  year: "2015"
+  title: "Reliability Models of Wind Farms Considering Wind Speed Correlation and WTG Outage"
+  venue: "Electric Power Systems Research (Elsevier)"
+
+- publicationType: "journal-papers"
+  authors: ["Can Huang", "Fangxing Li", "Tao Ding", "Zhiqiang Jin"]
+  year: "2015"
+  title: "Second-order Cone Programming-based Optimal Control Strategy for Wind Energy Conversion Systems over Complete Operating Regions"
+  venue: "IEEE Transactions on Sustainable Energy"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Ding", "Rui Bo", "Fangxing Li", "Qinglai Guo", "Hongbin Sun", "Wei Gu", "Gan Zhou"]
+  year: "2015"
+  title: "Interval Power Flow Analysis Using Linear Relaxation and Optimality-based Bounds Tightening (OBBT) Methods"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Ding", "Rui Bo", "Hongbin Sun", "Can Huang", "Fangxing Li"]
+  year: "2015"
+  title: "Robust Mean-Variance Optimization for Self-scheduling of Thermal Producer and Its Price of Robustness"
+  venue: "Proceedings of Chinese Society of Electrical Engineering (in Chinese)"
+
+- publicationType: "journal-papers"
+  authors: ["Tao Ding", "Rui Bo", "Qinglai Guo", "Hongbin Sun", "Can Huang", "Fangxing Li"]
+  year: "2014"
+  title: "Identification of Inactive Constraints for SCED Model Considering Uncertain Power Injection"
+  venue: "Proceedings of Chinese Society of Electrical Engineering (in Chinese)"
+
+- publicationType: "journal-papers"
+  authors: ["Xue Li", "Fangxing Li"]
+  year: "2014"
+  title: "GPU-based Power Flow Analysis with Chebyshev Preconditioner and Conjugate Gradient Method"
+  venue: "Electric Power Systems Research (Elsevier)"
+
+- publicationType: "journal-papers"
+  authors: ["Jun Xiao", "Linquan Bai", "Fangxing Li", "Haishen Liang", "Chengshan Wang"]
+  year: "2014"
+  title: "Sizing of Energy Storage and Diesel Generators in an Isolated Microgrid using Discrete Fourier Transform (DFT)"
+  venue: "IEEE Transactions on Sustainable Energy"
+
+- publicationType: "journal-papers"
+  authors: ["Yao Xu", "Fangxing Li"]
+  year: "2014"
+  title: "Adaptive PI Control of STATCOM for Voltage Regulation"
+  venue: "IEEE Transactions on Power Delivery"
+
+- publicationType: "journal-papers"
+  authors: ["Sarina Adhikari", "Fangxing Li"]
+  year: "2014"
+  title: "Coordinated V-f and P-Q Control of Solar Photovoltaic Generators with MPPT and Battery Storage in Microgrids"
+  venue: "IEEE Transactions on Smart Grid"
+
+- publicationType: "journal-papers"
+  authors: ["Zhiqiang Jin", "Fangxing Li", "Xiao Ma", "Seddik Djouadi"]
+  year: "2014"
+  title: "Semi-Definite Programming for Power Output Control in Wind Energy Conversion System"
+  venue: "IEEE Transactions on Sustainable Energy"
+
+- publicationType: "journal-papers"
+  authors: ["C. Vivekananthan", "Y. Mishra", "G. Ledwich", "Fangxing Li"]
+  year: "2014"
+  title: "Demand Response for Residential Appliances via Customer Reward Scheme"
+  venue: "IEEE Transactions on Sustainable Energy"
+
+- publicationType: "journal-papers"
+  authors: ["Xue Tong", "Jordan Deyton", "Jinyuan Sun", "Fangxing Li"]
+  year: "2013"
+  title: "S3A: A Secure Data Sharing Mechanism for Situation Awareness in The Power Grid"
+  venue: "IEEE Transactions on Smart Grid"
+
+- publicationType: "journal-papers"
+  authors: ["Qinran Hu", "Fangxing Li"]
+  year: "2013"
+  title: "Hardware Design of Smart Home Energy Management System with Dynamic Price Response"
+  venue: "IEEE Transactions on Smart Grid"
+
+- publicationType: "journal-papers"
+  authors: ["Yao Xu", "Qinran Hu", "Fangxing Li"]
+  year: "2013"
+  title: "Probabilistic Model of Payment Cost Minimization Considering Wind Power and its Uncertainty"
+  venue: "IEEE Transactions on Sustainable Energy"
+
+- publicationType: "journal-papers"
+  authors: ["Hao Huang", "Fangxing Li"]
+  year: "2013"
+  title: "Sensitivity Analysis of Load-Damping Characteristic in Power System Frequency Regulation"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Huijuan Li", "Fangxing Li", "Yan Xu", "D. Tom Rizy", "Sarina Adhikari"]
+  year: "2013"
+  title: "Autonomous and Adaptive Voltage Control using Multiple Distributed Energy Resources"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Rui Bo", "Fangxing Li", "Kevin Tomsovic"]
+  year: "2012"
+  title: "Prediction of critical load levels for AC optimal power flow dispatch model"
+  venue: "International Journal of Electrical Power and Energy Systems (Elsevier)"
+
+- publicationType: "journal-papers"
+  authors: ["Jun Xiao", "Wenzhong Gu", "Chengshan Wang", "Fangxing Li"]
+  year: "2012"
+  title: "Distribution System Security Region (DSSR): Definition, Model and Security Assessment"
+  venue: "IET Generation, Transmission and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Yanli Wei", "Fangxing Li", "Kevin Tomsovic"]
+  year: "2012"
+  title: "Measuring the Volatility of Wholesale Electricity Prices Caused by the Wind Power Uncertainty with a Correlation Model"
+  venue: "IET Renewable Power Generation"
+
+- publicationType: "journal-papers"
+  authors: ["Rui Bo", "Fangxing Li"]
+  year: "2012"
+  title: "Probabilistic LMP Forecasting under AC Optimal Power Flow Framework: Theory and Applications"
+  venue: "Electric Power Systems Research (Elsevier)"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li", "Yanli Wei"]
+  year: "2012"
+  title: "A Probability-Driven Multilayer Framework for Scheduling Intermittent Renewable Energy"
+  venue: "IEEE Transactions on Sustainable Energy"
+
+- publicationType: "journal-papers"
+  authors: ["Y. Mishra", "S. Mishra", "Fangxing Li"]
+  year: "2012"
+  title: "Coordinated Tuning of DFIG Based Wind Turbines and Batteries Using Bacteria Foraging Technique for Maintaining Constant Grid Power Output"
+  venue: "IEEE Systems Journal"
+
+- publicationType: "journal-papers"
+  authors: ["Yan Yang", "Yao Zhang", "Fangxing Li", "Haoyong Chen"]
+  year: "2012"
+  title: "Computing All Nash Equilibria of Multiplayer Games in Electricity Markets by Solving Polynomial Equations"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Hairong Qi", "Xiaorui Wang", "Leon Tolbert", "Fangxing Li", "Fang Z. Peng", "Peng Ning", "Massoud Amin"]
+  year: "2011"
+  title: "A Resilient Real-Time System Design for a Secure and Reconfigurable Power Grid"
+  venue: "IEEE Transactions on Smart Grid"
+
+- publicationType: "journal-papers"
+  authors: ["Jun Xiao", "Wenzhuo Gu", "Xiaodan Guo", "Chengshan Wang", "Fangxing Li"]
+  year: "2011"
+  title: "A supply capability model for distribution systems"
+  venue: "Automation of Electric Power Systems (in Chinese)"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li"]
+  year: "2011"
+  title: "Fully Reference-Independent LMP Decomposition Using Reference-Independent Loss Factors"
+  venue: "Electric Power Systems Research (Elsevier)"
+
+- publicationType: "journal-papers"
+  authors: ["Rui Bo", "Fangxing Li"]
+  year: "2011"
+  title: "Efficient Estimation of Critical Load Levels Using Variable Substitution Method"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Yurong Wang", "Fangxing Li", "Qiulan Wan", "Hao Chen"]
+  year: "2011"
+  title: "Reactive Power Planning based on Fuzzy Clustering, Gray Code and Simulated Annealing"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Yan Yang", "Haoyong Chen", "Yao Zhang", "Fangxing Li", "Zhaoxia Jing", "Yurong Wang"]
+  year: "2011"
+  title: "An electricity market model with distributed generation and interruptible load under incomplete information"
+  venue: "Proceedings of the Chinese Society of Electrical Engineering (in Chinese)"
+
+- publicationType: "journal-papers"
+  authors: ["Jun Xiao", "Fangxing Li", "Wenzhang Gu", "Chengshan Wang", "Pei Zhang"]
+  year: "2011"
+  title: "Total supply capability and its extended indices for distribution systems: definition, model calculation and applications"
+  venue: "IET Generation, Transmission and and Distribution"
+
+- publicationType: "journal-papers"
+  authors: ["Wenjuan Zhang", "Fangxing Li", "Leon M. Tolbert"]
+  year: "2011"
+  title: "Interpolation Approximation of Voltage Stability Constrained OPF (VSCOPF) for Reactive Power Planning"
+  venue: "European Transactions on Electric Power"
+
+- publicationType: "journal-papers"
+  authors: ["Arif Karakas", "C. Kocatepe", "Fangxing Li"]
+  year: "2011"
+  title: "Using Learning Automata for Multi-objective Generation Dispatch Considering Cost, Voltage Stability and Power Losses"
+  venue: "Turkish Journal Of Electrical Engineering & Computer Sciences"
+
+- publicationType: "journal-papers"
+  authors: ["Pei Zhang", "Fangxing Li", "Navin Bhatt"]
+  year: "2010"
+  title: "Next-Generation Monitoring, Analysis and Control for the Future Smart Control Center"
+  venue: "IEEE Transactions on Smart Grid"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li", "Wei Qiao", "Hongbin Sun", "Hui Wan", "Jianhui Wang", "Yan Xia", "Zhao Xu", "Pei Zhang"]
+  year: "2010"
+  title: "Smart Transmission Grid: Vision and Framework"
+  venue: "IEEE Transactions on Smart Grid"
+
+- publicationType: "journal-papers"
+  authors: ["Huijuan Li", "Fangxing Li", "Yan Xu", "D. Tom Rizy", "John D. Kueck"]
+  year: "2010"
+  title: "Adaptive Voltage Control with Distributed Energy Resources: Algorithm, Theoretical Analysis, Simulation and Field Test Verification"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li", "Yanli Wei", "Sarina Adhikari"]
+  year: "2010"
+  title: "Improving an Unjustified Common Practice in Ex Post LMP Calculation"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Y. Mishra", "S. Mishra", "Fangxing Li", "Z. Y. Dong", "R. C. Bansal"]
+  year: "2009"
+  title: "Small-Signal Stability Analysis of a DFIG-Based Wind Power System Under Different Modes of Operation"
+  venue: "IEEE Transactions on Energy Conversion"
+
+- publicationType: "journal-papers"
+  authors: ["Rui Bo", "Fangxing Li"]
+  year: "2009"
+  title: "Probabilistic LMP Forecasting Considering Load Uncertainty"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li", "Nura Sabir"]
+  year: "2009"
+  title: "Assessment of Reliability Improvement with Utility-Connected DG"
+  venue: "International Review on Modeling and Simulation"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li", "Rui Bo"]
+  year: "2009"
+  title: "Congestion and Price Prediction under Load Variation"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Jie Yu", "Fangxing Li", "Yang Li", "Anbang Xia"]
+  year: "2009"
+  title: "A Coordinated Optimization Strategy for Multi-Objective Generation Dispatch in Interconnected Areas"
+  venue: "Automation of Electric Power Systems (in Chinese)"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li"]
+  year: "2009"
+  title: "Application of Ordinal Optimization to Distribution Reconfiguration for Loss Minimization"
+  venue: "International Journal on Power System Optimization"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li", "Wenjuan Zhang", "Leon M. Tolbert", "John D. Kueck", "D. Tom Rizy"]
+  year: "2008"
+  title: "A Framework to Quantify the Economic Benefit from Local VAR Compensation"
+  venue: "International Review of Electrical Engineering"
+
+- publicationType: "journal-papers"
+  authors: ["Yan Xu", "Fangxing Li", "Huijuan Li", "D. Tom Rizy", "John. D. Kueck"]
+  year: "2008"
+  title: "Using Distributed Energy Resources to Supply Reactive Power for Dynamic Voltage Regulation"
+  venue: "International Review of Electrical Engineering"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li"]
+  year: "2008"
+  title: "Smoothing out Step Changes of LMP"
+  venue: "The Electricity Journal (Elsevier)"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li"]
+  year: "2007"
+  title: "Continuous Locational Marginal Pricing (CLMP)"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li", "Rui Bo"]
+  year: "2007"
+  title: "DCOPF-based LMP Simulation: Algorithm, Comparison with ACOPF, and Sensitivity"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Wenjuan Zhang", "Fangxing Li", "Leon M. Tolber"]
+  year: "2007"
+  title: "Review of Reactive Power Planning: Objectives, Constraints, and Algorithms"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["John D. Kueck", "Brendan Kirby", "D. Tom Rizy", "Fangxing Li", "Ndeye Fall"]
+  year: "2006"
+  title: "Reactive Power from Distributed Energy"
+  venue: "The Electricity Journal (Elsevier)"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li"]
+  year: "2005"
+  title: "Distributed Processing of Reliability Index Assessment and Reliability-Based Network Reconfiguration in Power Distribution Systems"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li"]
+  year: "2004"
+  title: "Databases Technology and Database-Driven Web Applications for Power Utilities"
+  venue: "Strategic Planning for Energy and the Environment Journal"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li", "Robert P. Broadwater"]
+  year: "2004"
+  title: "Software Framework Concepts for Power Distribution System Analysis"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["David Green", "Fangxing Li"]
+  year: "2004"
+  title: "Utility Data Web Page Design - Learning Technologies"
+  venue: "Strategic Planning for Energy and the Environment Journal"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li", "Richard E. Brown"]
+  year: "2004"
+  title: "A Cost-Effective Approach of Prioritizing Distribution Maintenance Based on System Reliability"
+  venue: "IEEE Transactions on Power Delivery"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li"]
+  year: "2003"
+  title: "Web Tool Opens up Power System Visualization"
+  venue: "IEEE Power & Energy magazine"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li", "Richard E. Brown", "Lavelle A.A. Freeman"]
+  year: "2003"
+  title: "A Linear Contribution Factor Model of Distribution Reliability Indices and its Applications in Monte Carlo Simulation and Sensitivity Analysis"
+  venue: "IEEE Transactions on Power Systems"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li", "Robert P. Broadwater"]
+  year: "2003"
+  title: "Distributed Algorithms with Theoretic Scalability Analysis of Radial and Looped Load Flows for Power Distribution Systems"
+  venue: "Electric Power Systems Research (Elsevier)"
+
+- publicationType: "journal-papers"
+  authors: ["Fangxing Li", "Lavelle A.A. Freeman", "Richard E. Brown"]
+  year: "2003"
+  title: "Web-Enabling Applications for Outsourced Computing"
+  venue: "IEEE Power & Energy magazine"
+
+- publicationType: "book-chapters"
+  authors: ["Fangxing Li", "Pei Zhang", "Sarina Adhikari", "Yanli Wei", "Qinran Hu"]
+  year: "2012"
+  title: "Vision of Future Control Centers in Smart Grids"
+  venue: "Smart Grid Infrastructure & Networking"
+
+- publicationType: "book-chapters"
+  authors: ["Sukumar Mishra", "Yateendra Mishra", "Fangxing Li", "Z. Y. Dong"]
+  year: "2010"
+  title: "Application of TS-Fuzzy Controller for Active Power and DC Capacitor Voltage Control in DFIG-based Wind Energy Conversion Systems"
+  venue: "Wind Power Systems: Applications of Computational Intelligence"
+
+- publicationType: "book-chapters"
+  authors: ["Sukumar Mishra", "Yateendra Mishra", "Fangxing Li", "Z. Y. Dong"]
+  year: "2010"
+  title: "Eigenvalue Analysis of a DFIG Based Wind Power System Under Different Modes of Operations"
+  venue: "Wind Power Systems: Applications of Computational Intelligence"
+
+- publicationType: "book-chapters"
+  authors: ["Fangxing Li"]
+  year: "2005"
+  title: "Chapter 14, Web-Enabled GIS Platform with Open Architecture for Electric Power Utility Networks"
+  venue: "Web Based Energy Information And Control Systems: Case Studies And Applications"
+
+- publicationType: "book-chapters"
+  authors: ["David Green", "Fangxing Li"]
+  year: "2005"
+  title: "Chapter 23, Utility Data Web Page Design - Learning Technologies"
+  venue: "Information Technology for Energy Managers Volume I - Understanding Web Based Energy Information and Control Systems"
+
+- publicationType: "book-chapters"
+  authors: ["Fangxing Li"]
+  year: "2003"
+  title: "Chapter 21, Databases Technology and Database-Driven Web Applications for Power Utilities"
+  venue: "Information Technology for Energy Managers Volume I - Understanding Web Based Energy Information and Control Systems"
+
+- publicationType: "conference-papers"
+  authors: ["Hantao Cui", "Fangxing Li", "Haoyu Yuan"]
+  year: "2017"
+  title: "Control and Limit Enforcements for VSC Multi-Terminal HVDC in Newton Power Flow"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Qingxin Shi", "Hao Liang", "Tianyi Hou", "Linquan Bai", "Wilsun Xu", "Fangxing Li"]
+  year: "2017"
+  title: "Passive Filter Installation for Harmonic Mitigation in Residential Distribution Systems"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Yan Du", "Fangxing Li", "Xiao Kou", "Wei Pei"]
+  year: "2017"
+  title: "Coordinating Multi-microgrid Operation within Distribution System: A Cooperative Game Approach"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Yao Xu", "Can Huang", "Fangxing Li", "Xue Li", "Qinran Hu"]
+  year: "2017"
+  title: "Gain Tuning Control Strategy for DFIG-Based Wind Farms"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Houhe Chen", "Tao Jiang", "Xue Li", "Guoqing Li", "Xu He", "Xiao Kou", "Linquan Bai", "Fangxing Li", "Xin Fang"]
+  year: "2017"
+  title: "Available Transfer Capability Calculations Considering Demand Response"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Jun Xiao", "Guoqiang Zu", "B. Zhang", "Fangxing Li"]
+  year: "2017"
+  title: "Distribution System Security Region for Real-Time Monitoring: Model and Topological Characteristics"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Riyasat Azim", "Hantao Cui", "Fangxing Li"]
+  year: "2016"
+  title: "Power management strategy combining energy storage and demand response for microgrid emergency autonomous operation"
+  venue: "2016 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC)"
+
+- publicationType: "conference-papers"
+  authors: ["Xin Fang", "Fangxing Li", "Hantao Cui", "Linquan Bai", "Haoyu Yuan", "Qinran Hu", "Beibei Wang"]
+  year: "2016"
+  title: "Risk Constrained Scheduling of Energy Storage for Load Serving Entities Considering Load and LMP Uncertainties"
+  venue: "IFAC and CIGRE/CIRED Workshop on Control of Transmission and Distribution Smart Grids"
+
+- publicationType: "conference-papers"
+  authors: ["Tao Jiang", "Linquan Bai", "Xue Li", "Hongjie Jia", "Fangxing Li", "Yao Xu"]
+  year: "2016"
+  title: "Volt-VAR Interaction Evaluation in Bulk Power Systems (Best Conference Papers)"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Haoyu Yuan", "Xue Li", "Fangxing Li", "Qinran Hu", "Xin Fang", "Hantao Cui"]
+  year: "2016"
+  title: "Mitigate Overestimation of Voltage Stability Margin by Coupled Single-Port Circuit Models (Best Conference Papers)"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Linquan Bai", "Tao Jiang", "Xue Li", "Fangxing Li", "Yao Xu", "Hongjie Jia"]
+  year: "2016"
+  title: "Partitioning Voltage Stability Critical Injection Regions via Electrical Network Response and Dynamic Relative Gain"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Jun Xiao", "Wei Guo", "Guoqiang Zu", "Xiaoxu Gong", "Fangxing Li", "Linquan Bai"]
+  year: "2016"
+  title: "An Observation Method Based on N-1 Simulation for Distribution System Security Region"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Linquan Bai", "Fangxing Li", "Qinran Hu", "Hantao Cui", "Xin Fang"]
+  year: "2016"
+  title: "Application of Battery-Supercapacitor Energy Storage System for Smoothing Wind Power Output: An Optimal Coordinated Control Strategy"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Hao Chen", "Fangxing Li", "Yurong Wang"]
+  year: "2016"
+  title: "Auto-regressive Conditional Density Model for Wind Power Forecasting"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Linquan Bai", "Tao Jiang", "Fangxing Li", "Hongjie Jia", "Qingxin Shi", "Houhe Chen", "Guoqing Li"]
+  year: "2016"
+  title: "Confidence Interval Estimates for Loading Margin Sensitivity for Voltage Stability Monitoring in the Presence of Renewable Energy"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Riyasat Azim", "Fangxing Li"]
+  year: "2016"
+  title: "A decision tree based approach for controlled islanding of microgrids"
+  venue: "2016 IEEE PES Transmission and Distribution Conference and Exposition (T&D)"
+
+- publicationType: "conference-papers"
+  authors: ["Kumaraguru Prabakar", "Fangxing Li", "Bailu Xiao"]
+  year: "2016"
+  title: "Controller hardware-in-loop testbed setup for multi-objective optimization based tuning of inverter controller parameters in a microgrid setting"
+  venue: "Clemson University Power Systems Conference (PSC)"
+
+- publicationType: "conference-papers"
+  authors: ["Kumaraguru Prabakar", "Fangxing Li"]
+  year: "2015"
+  title: "Proportional integral controller gain tuning using real time digital simulation models and multi-objective optimization based co-simulation"
+  venue: "9th IFAC Symposium on Control of Power and Energy Systems (CPES 2015)"
+
+- publicationType: "conference-papers"
+  authors: ["Can Huang", "Yao Xu", "Chad Harley", "Drew Masters", "Fangxing Li"]
+  year: "2015"
+  title: "LabVIEW FPGA based Electromagnetic Transient Simulator Using Nodal Analysis Methods and State-space Analysis Methods"
+  venue: "5th international conference on Electric Utility Deregulation and Restructuring and Power Technologies (DRPT 2015)"
+
+- publicationType: "conference-papers"
+  authors: ["Riyasat Azim", "Fangxing Li", "Xiayang Zhao"]
+  year: "2015"
+  title: "A Hybrid Islanding Detection Technique for Inverter Based Distributed Generations"
+  venue: "2015 Electrical Power and Energy Conference (EPEC 2015)"
+
+- publicationType: "conference-papers"
+  authors: ["Xin Fang", "Fangxing Li", "Qinran Hu", "Ningchao Gao"]
+  year: "2015"
+  title: "System Load Margin Evaluation using Mixed-Integer Conic Optimization"
+  venue: "47th North American Power Symposium (NAPS2015)"
+
+- publicationType: "conference-papers"
+  authors: ["Xin Fang", "Fangxing Li", "Qinran Hu", "Yanli Wei", "Ningchao Gao"]
+  year: "2015"
+  title: "The Impact of FTR on LSE's Strategic Bidding Considering Coupon Based Demand Response"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Hantao Cui", "Fangxing Li", "Xin Fang", "Runsha Long"]
+  year: "2015"
+  title: "Distribution Network Reconfiguration with Aggregated Electric Vehicle Charging Strategy"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Linquan Bai", "Tao Ding", "Qinran Hu", "Fangxing Li", "Hongbin Sun"]
+  year: "2015"
+  title: "Robust Mean-Variance Optimization Model for Grid-Connected Microgrids"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Xue Li", "Fangxing Li"]
+  year: "2015"
+  title: "GPU-based Two-Step Preconditioning for Conjugate Gradient Method in Power Flow"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Qinran Hu", "Xin Fang", "Fangxing Li", "Xiaojing Xu", "Chien-fei Chen", "Haolu Hu"]
+  year: "2015"
+  title: "An Approach to Assess the Responsive Residential Demand to Financial Incentives"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Haoyu Yuan", "Tao Jiang", "Hongjie Jia", "Fangxing Li", "Yateendra Mishra", "Houhe Chen", "Guoqing Li"]
+  year: "2015"
+  title: "Real-Time Wide-area Loading Margin Sensitivity (WALMS) in Power Systems"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Fengzhang Luo", "Tianyu Zhang", "Zhaofeng Mi", "Fangxing Li", "Linquan Bai", "Guangyi Liu", "Qiang Sun", "Xue Wang"]
+  year: "2015"
+  title: "Study on Low-carbon Comprehensive Benefits of Grid-connected Photovoltaic Generation"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Yurong Wang", "Hao Chen", "Fangxing Li"]
+  year: "2015"
+  title: "Reactive Power Planning with Transient Process Stability Constraint"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Tao Ding", "Kai Sun", "Fangxing Li", "Hongbin Sun"]
+  year: "2015"
+  title: "Graph Theory-based Splitting Strategies for Power System Islanding Operation"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Tao Ding", "Can Huang", "Rui Bo", "Runxin Li", "Zhigang Yang", "Fangxing Li", "Hongbin Sun"]
+  year: "2015"
+  title: "Interval arithmetic based optimal curtailment for infeasible SCED considering wind power uncertainties"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Hao Chen", "Fangxing Li", "Yurong Wang"]
+  year: "2015"
+  title: "Component GARCH-M Type Models for Wind Power Forecasting"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Jun Xiao", "Guoqiang Zu", "Qibo He", "Fangxing Li"]
+  year: "2015"
+  title: "A New DMS with Real-Time Security Analysis and Control based on Security Region"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Jun Xiao", "Buyun Su", "Shisong Liu", "Fangxing Li"]
+  year: "2015"
+  title: "N-1 Loadability for Distribution Systems"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Riyasat Azim", "Kai Sun", "Fangxing Li", "Yongli Zhu", "Hira Amna Saleem", "Di Shi", "Ratnesh Sharma"]
+  year: "2015"
+  title: "A Comparative Analysis of Intelligent Classifiers for Passive Islanding Detection in Microgrids"
+  venue: "IEEE PES PowerTech"
+
+- publicationType: "conference-papers"
+  authors: ["Riyasat Azim", "Yongli Zhu", "Hira Amna Saleem", "Kai Sun", "Fangxing Li", "Di Shi", "Ratnesh Sharma"]
+  year: "2015"
+  title: "A Decision Tree Based Approach for Microgrid Islanding Detection"
+  venue: "IEEE PES Innovative Smart Grid Technologies (ISGT) 2015"
+
+- publicationType: "conference-papers"
+  authors: ["Qinran Hu", "Jason Chan", "Fangxing Li", "Donghong Chen"]
+  year: "2014"
+  title: "A Comprehensive User Interactive Simulation Tool for Smart Home Application"
+  venue: "2014 Australasian University Power Engineering Conference (AUPEC)"
+
+- publicationType: "conference-papers"
+  authors: ["Hao Huang", "Fangxing Li"]
+  year: "2014"
+  title: "Sensitivity Analysis of Load-Damping, Generator Inertia And Governor Speed Characteristics in Hydraulic Power System Frequency Regulation"
+  venue: "2014 Australasian University Power Engineering Conference (AUPEC)"
+
+- publicationType: "conference-papers"
+  authors: ["Haoyu Yuan", "Fangxing Li"]
+  year: "2014"
+  title: "A Comparative Study of Measurement-Based Thevenin Equivalents Identification Methods"
+  venue: "46th North American Power Symposium"
+
+- publicationType: "conference-papers"
+  authors: ["Tao Ding", "Hongbin Sun", "Chad Harley", "Fangxing Li", "Rui Bo"]
+  year: "2014"
+  title: "Bi-level Linear Programming Based Interval Optimization for SCED in the Presence of Wind Power Uncertainty"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Xin Fang", "Fangxing Li", "Ningchao Gao", "Qiang Guo"]
+  year: "2014"
+  title: "Available Transfer Capability of Photovoltaic Generation Incorporated System"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Xin Fang", "Fangxing Li", "Ningchao Gao"]
+  year: "2014"
+  title: "Probabilistic Available Transfer Capability Evaluation for Power Systems with High-Penetration Wind Power"
+  venue: "13th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)"
+
+- publicationType: "conference-papers"
+  authors: ["Kumaraguru Prabakar", "Fangxing Li", "D. Tom Rizy"]
+  year: "2014"
+  title: "A Study on the Effect of ZIP Loads on Air Conditioner Motor Stall using Real Time Simulator"
+  venue: "IEEE T&D Conf. and Expo."
+
+- publicationType: "conference-papers"
+  authors: ["Xin Fang", "Fangxing Li", "Yan Xu"]
+  year: "2014"
+  title: "Reactive Power Planning Considering High Penetration of Wind Energy"
+  venue: "IEEE T&D Conf. and Expo."
+
+- publicationType: "conference-papers"
+  authors: ["Xue Li", "Fangxing Li", "Joshua Clark"]
+  year: "2013"
+  title: "Exploration of Multifrontal Method with GPU in Power Flow Computation"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Haoyu Yuan", "Fangxing Li"]
+  year: "2013"
+  title: "LMP Step Pattern Detection based on Real-Time Data"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Hao Chen", "Qiulan Wan", "Fangxing Li", "Yurong Wang"]
+  year: "2013"
+  title: "GARCH in Mean Type Models for Wind Power Forecasting"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Jun Xiao", "Wenzhuo Gu", "Fangxing Li", "Changxin Zhou", "Jiancheng Yu"]
+  year: "2013"
+  title: "Total Supply Capability (TSC): approach to formulate security and efficiency of distribution systems"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Kumarguru Prabakar", "Fangxing Li"]
+  year: "2012"
+  title: "Application of genetic algorithm for the improved performance of boost converters"
+  venue: "8th IFAC PP&PSC (Power Plant and Power System Control) Symposium"
+
+- publicationType: "conference-papers"
+  authors: ["Huijuan Li", "Yan Xu", "Sarina Adhikari", "D. Tom Rizy", "Fangxing Li", "Philip Irminger"]
+  year: "2012"
+  title: "Real and Reactive Power Control of a Three-Phase Single-Stage PV System and PV Voltage Stability"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Hao Chen", "Qiulan Wan", "Fangxing Li", "Yurong Wang"]
+  year: "2012"
+  title: "Short Term Load Forecasting based on Improved ESTAR GARCH Model"
+  venue: "IEEE PES General Meeting "
+
+- publicationType: "conference-papers"
+  authors: ["Philip Irminger", "D. Tom Rizy", "Huijuan Li", "Travis Smith", "Keith Rice", "Fangxing Li", "Sarina Adhikari"]
+  year: "2012"
+  title: "Air Conditioning Stall Phenomenon Testing, Model Development and Simulation"
+  venue: "IEEE PES T&D Conf. and Expo"
+
+- publicationType: "conference-papers"
+  authors: ["Chanwit Boonchuay", "Kevin Tomsovic", "Fangxing Li", "Weerakorn Ongsakul"]
+  year: "2012"
+  title: "Robust Optimization-Based Dc Optimal Power Flow For Managing Wind Generation Uncertainty"
+  venue: "6th Global Conference on Power Control and Optimization (PCO)"
+
+- publicationType: "conference-papers"
+  authors: ["Sarina Adhikari", "Fangxing Li", "Qinran Hu", "Zhenyuan Wang"]
+  year: "2011"
+  title: "Heuristic optimal restoration based on constructive algorithms for future smart grids"
+  venue: "16th International Conference on Intelligent System Application to Power Systems (ISAP)"
+
+- publicationType: "conference-papers"
+  authors: ["Sarina Adhikari", "Yan Xu", "Fangxing Li", "et al"]
+  year: "2011"
+  title: "Utility-Side Voltage and PQ Control with Inverter-based Photovoltaic Systems"
+  venue: "18th World Congress of International Federation of Automatic Control (IFAC)"
+
+- publicationType: "conference-papers"
+  authors: ["Rui Bo", "Fangxing Li"]
+  year: "2011"
+  title: "A Piece-Wise Linear Model for Approximating LMP-Load Curve Based on Critical Load Levels"
+  venue: "17th Power Systems Computation Conference (PSCC)"
+
+- publicationType: "conference-papers"
+  authors: ["Rui Bo", "Fangxing Li"]
+  year: "2011"
+  title: "A Case Study On Reactive Power Impact On Determination Of Critical Load Levels"
+  venue: "17th Power Systems Computation Conference (PSCC)"
+
+- publicationType: "conference-papers"
+  authors: ["Hao Chen", "Fangxing Li", "Qiulan Wan", "Yurong Wang"]
+  year: "2011"
+  title: "Short Term Load Forecasting using Regime-Switching GARCH Models"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Yurong Wang", "Fangxing Li", "Qiulan Wan", "Hao Chen"]
+  year: "2011"
+  title: "Hybrid Momentum TAR GARCH Models for Short-term Load Forecasting"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["D. Tom Rizy", "Yan Xu", "Huijuan Li", "Fangxing Li", "Phil Irminger"]
+  year: "2011"
+  title: "Volt/Var Control Using Inverter-based Distributed Energy Resources"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["D. Tom Rizy", "Huijuan Li", "Fangxing Li", "et al"]
+  year: "2011"
+  title: "Impacts of Varying Penetration of Distributed Resources with & without Volt/Var Control: Case Study of Varying Load Types"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Robert Armistead", "Fangxing Li"]
+  year: "2011"
+  title: "Parallel Computing of Sparse Linear Systems using Matrix Condensation Algorithm"
+  venue: "IEEE PES PowerTech"
+
+- publicationType: "conference-papers"
+  authors: ["Yan Yang", "Haoyong Chen", "Yao Zhang", "Zhiqiang Jin", "Fangxing Li"]
+  year: "2011"
+  title: "Searching for Electricity Market Equilibrium Using Coevolutionary Computation Approach"
+  venue: "2011 Asia-Pacific Power and Energy Engineering Conference (APPEEC)"
+
+- publicationType: "conference-papers"
+  authors: ["Rui Bo", "Fangxing Li"]
+  year: "2011"
+  title: "Marginal Unit Generation Sensitivity and its Applications in Transmission Congestion Prediction and LMP Calculation"
+  venue: "IEEE PES Power Systems Conference and Exposition (PSCE)"
+
+- publicationType: "conference-papers"
+  authors: ["Hairong Qi", "Yilu Liu", "Fangxing Li", "et al"]
+  year: "2011"
+  title: "Increasing the Resolution of Wide-Area Situational Awareness of the Power Grid through Event Unmixing"
+  venue: "HICSS-44"
+
+- publicationType: "conference-papers"
+  authors: ["Ashwini Chegu", "Fangxing Li"]
+  year: "2010"
+  title: "High Order Contingency Selection based on Particle Swarm Optimization and Branch Reordering"
+  venue: "9th International Power and Energy Conference (IPEC 2010)"
+
+- publicationType: "conference-papers"
+  authors: ["Yurong Wang", "Fangxing Li", "Qiulan Wan", "Hao Chen"]
+  year: "2010"
+  title: "Multi-objective Reactive Power Planning based on Fuzzy Clustering and Learning Automata"
+  venue: "2010 International Conference on Power System Technology (PowerCon)"
+
+- publicationType: "conference-papers"
+  authors: ["John Kueck", "Aaron Snyder", "Isabelle Snyder", "Fangxing Li"]
+  year: "2010"
+  title: "Use of Responsive Load to Supply Ancillary Services in the Smart Grid: Challenges and Approach"
+  venue: "1st IEEE International Conference on Smart Grid Communications (SmartGridComm)"
+
+- publicationType: "conference-papers"
+  authors: ["Hao Chen", "Qiulan Wan", "Fangxing Li", "Yurong Wang"]
+  year: "2010"
+  title: "Kurtosis Analysis of the Wind Speed Time Series in Wind Farms"
+  venue: "4th China International Conference on Electricity Distribution (CICED 2010)"
+
+- publicationType: "conference-papers"
+  authors: ["Yan Xu", "Huijuan Li", "D. Tom Rizy", "Fangxing Li", "John D. Kueck", "Chester L. Coomer"]
+  year: "2010"
+  title: "Instantaneous Active Power and Nonactive Power Control of Distributed Energy Resources with a Current Limiter"
+  venue: "2nd IEEE Energy Conversion Congress and Exposition (ECCE)"
+
+- publicationType: "conference-papers"
+  authors: ["Fangxing Li", "Yanli Wei", "Sarina Adhikari"]
+  year: "2010"
+  title: "Improving an Unjustified Common Practice in Ex Post LMP Calculation: An Expanded Version"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["D. Tom Rizy", "Fangxing Li", "Huijuan Li", "Sarina Adhikari", "John D. Kueck"]
+  year: "2010"
+  title: "Properly Understanding the Impacts of Distributed Resources on Distribution Systems"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Yurong Wang", "Fangxing Li", "Qiulan Wan"]
+  year: "2010"
+  title: "Reactive Power Planning Based on Fuzzy Clustering and Multivariate Linear Regression"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Fangxing Li", "Rui Bo"]
+  year: "2010"
+  title: "Short-term Load Forecasting Based on Asymmetric ARCH Models"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Fangxing Li", "Rui Bo"]
+  year: "2010"
+  title: "Small Test Systems for Power System Economic Studies"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Fangxing Li", "Eugene Litvinov", "Tongxin Zheng"]
+  year: "2010"
+  title: "A Combined LMP Model Considering Reference Independent Decomposition and Fictitious Nodal Demand"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Ashiwini Chegu", "Fangxing Li", "Xiaokang Xu"]
+  year: "2010"
+  title: "An Overview of the Analysis of Cascading Failures and High-Order Contingency Events"
+  venue: "2010 Asia-Pacific Power and Energy Engineering Conference (APPEEC)"
+
+- publicationType: "conference-papers"
+  authors: ["Fangxing Li", "Ashwini Chegu"]
+  year: "2009"
+  title: "High Order Contingency Selection Using Particle Swarm Optimization and Tabu Search"
+  venue: "The 15th International Conference on Intelligent System Applications to Power Systems (ISAP09)"
+
+- publicationType: "conference-papers"
+  authors: ["Arif Karakas", "Celal Kocatepe", "Fangxing Li"]
+  year: "2009"
+  title: "A New Multi-objective Optimization Technique for Generation Dispatch"
+  venue: "North American Power Symposium (NAPS)"
+
+- publicationType: "conference-papers"
+  authors: ["Huijuan Li", "Fangxing Li", "Sarina Adhikari", "Yan Xu", "D. Tom Rizy", "John D. Kueck"]
+  year: "2009"
+  title: "An Adaptive Voltage Control Algorithm with Multiple Distributed Energy Resources"
+  venue: "North American Power Symposium (NAPS)"
+
+- publicationType: "conference-papers"
+  authors: ["Y. Mishra", "S. Mishra", "Fangxing Li", "Z. Y. Dong"]
+  year: "2009"
+  title: "Eigenvalue analysis of a DFIG based wind power system with tuned damping controller under Super/Sub-synchronous mode of operation"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["S. Mishra", "Y. Mishra", "Fangxing Li", "Z. Y. Dong"]
+  year: "2009"
+  title: "TS-Fuzzy Controlled DFIG Based Wind Energy Conversion Systems"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Zhenhua Jiang", "Fangxing Li", "Wei Qiao", "Pei Zhang", "et al"]
+  year: "2009"
+  title: "A Vision of Smart Transmission Grids"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Fangxing Li", "Hui Yuan", "Kevin Tomsovic"]
+  year: "2009"
+  title: "Integrated Generation and Transmission Planning Tools under Competitive Energy Markets: An Academic Perspective"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Sarina Adhikari", "Fangxing Li", "Zhenyuan Wang"]
+  year: "2009"
+  title: "Constructive back-feed algorithm for online power restoration in distribution systems"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Ernst Camm", "Reigh Walling", "Nadar Samaan", "Travis Smith", "Fangxing Li", "et al"]
+  year: "2009"
+  title: "Characteristics of Wind Turbine Generators for Wind Power Plant"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Ernst Camm", "Reigh Walling", "Nadar Samaan", "Travis Smith", "Fangxing Li", "et al"]
+  year: "2009"
+  title: "Wind Power Plant Collector System Design Considerations"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Ernst Camm", "Reigh Walling", "Nadar Samaan", "Travis Smith", "Fangxing Li", "et al"]
+  year: "2009"
+  title: "Wind Power Plant Substation and Collector System Redundancy, Reliability, and Economics"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Ernst Camm", "Reigh Walling", "Nadar Samaan", "Travis Smith", "Fangxing Li", "et al"]
+  year: "2009"
+  title: "Wind Plant Grounding, Overvoltage Protection, and Insulation Coordination"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Ernst Camm", "Reigh Walling", "Nadar Samaan", "Travis Smith", "Fangxing Li", "et al"]
+  year: "2009"
+  title: "Reactive Power Compensation for Wind Power Plants"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Ming Chen", "Clinton Nolan", "Xiaorui Wang", "Sarina Adhikari", "Fangxing Li", "Hairong Qi"]
+  year: "2009"
+  title: "Hierarchical Utilization Control for Real-Time and Resilient Power Grid"
+  venue: "21st Euromicro Conference on Real-Time Systems (ECRTS 09)"
+
+- publicationType: "conference-papers"
+  authors: ["Sarina Adhikari", "Fangxing Li", "Huijuan Li", "Yan Xu", "John D. Kueck", "D. Tom Rizy"]
+  year: "2009"
+  title: "Preventing Delayed Voltage Recovery with Voltage-Regulating Distributed Energy Resources"
+  venue: "PowerTech Conference"
+
+- publicationType: "conference-papers"
+  authors: ["Huijuan Li", "Fangxing Li", "Pei Zhang", "Xiayang Zhao"]
+  year: "2009"
+  title: "Optimal Utilization of Transmission Capacity to Reduce Congestion with Distributed FACTS"
+  venue: "PowerTech Conference"
+
+- publicationType: "conference-papers"
+  authors: ["Hairong Qi", "Leon Tolbert", "Fangxing Li", "Xiaorui Wang", "Kevin Tomsovic", "Fang Z. Peng", "Peng Ning", "Massoud Amin"]
+  year: "2009"
+  title: "Securing the Power Grid with Collaborative Embedded Intelligence"
+  venue: "New Research Directions for Future Cyber-Physical Energy Systems"
+
+- publicationType: "conference-papers"
+  authors: ["Rui Bo", "Fangxing Li"]
+  year: "2009"
+  title: "Impact of Load Forecast Uncertainty on LMP"
+  venue: "IEEE PES Power Systems Conf. and Expo. (PSCE)"
+
+- publicationType: "conference-papers"
+  authors: ["Fangxing Li"]
+  year: "2009"
+  title: "Application of Ordinal Optimization for Distribution Reconfiguration"
+  venue: "IEEE PES Power Systems Conf. and Expo. (PSCE)"
+
+- publicationType: "conference-papers"
+  authors: ["Arif Karakas", "Fangxing Li","Sarina Adhikari"]
+  year: "2009"
+  title: "Aggregation of Multiple Induction Motors using MATLAB-based Software Package"
+  venue: "IEEE PES Power Systems Conf. and Expo. (PSCE)"
+
+- publicationType: "conference-papers"
+  authors: ["Christopher Tufon", "Alan Isemonger", "Brendan Kirby", "John Kueck", "Fangxing Li"]
+  year: "2009"
+  title: "A Tariff for Reactive Power"
+  venue: "IEEE PES Power Systems Conf. and Expo. (PSCE)"
+
+- publicationType: "conference-papers"
+  authors: ["Pei Zhang", "Zhenyu Huang", "Fangxing Li", "et al"]
+  year: "2009"
+  title: "Vulnerability Assessment for Cascading Failures in Electric Power Systems"
+  venue: "IEEE PES Power Systems Conf. and Expo. (PSCE)"
+
+- publicationType: "conference-papers"
+  authors: ["Zhe Chen", "Fangxing Li", "Lingling Fan", "Pei Zhang"]
+  year: "2008"
+  title: "Review of PMU-based Online Applications for Dynamic Simulation, Fault Detection, and Cascading Failure Prevention"
+  venue: "The 8th WSEAS International Conference on Electric Power Systems, High Voltages, Electric Machines (Power'08)"
+
+- publicationType: "conference-papers"
+  authors: ["Fangxing Li", "Nura Sabir"]
+  year: "2008"
+  title: "Monte Carlo Simulation to Evaluate the Reliability Improvement with DG connected to Distribution Systems"
+  venue: "The 8th WSEAS International Conference on Electric Power Systems, High Voltages, Electric Machines (Power'08)"
+
+- publicationType: "conference-papers"
+  authors: ["Fangxing Li", "Zhe Chen", "Lingling Fan", "Pei Zhang"]
+  year: "2008"
+  title: "Toward a Self-Healing Protection and Control System"
+  venue: "The 40th North American Power Symposium (NAPS)"
+
+- publicationType: "conference-papers"
+  authors: ["Rui Bo", "Fangxing Li"]
+  year: "2008"
+  title: "Power Flow Studies Using Principle Component Analysis"
+  venue: "The 40th North American Power Symposium (NAPS)"
+
+- publicationType: "conference-papers"
+  authors: ["Yan Xu", "Fangxing Li", "D. Tom Rizy", "John D. Kueck"]
+  year: "2008"
+  title: "Active Power and Nonactive Power Control of Distributed Energy Resources"
+  venue: "The 40th North American Power Symposium (NAPS)"
+
+- publicationType: "conference-papers"
+  authors: ["A. Nagari", "I. Elhanany", "B. Thompson", "Fangxing Li", "T. King"]
+  year: "2008"
+  title: "A Parallel Processing Architecture for Solving Large-Scale Linear Systems"
+  venue: "2008 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA'08)"
+
+- publicationType: "conference-papers"
+  authors: ["Pei Zhang", "Ian Dobson", "Fangxing Li", "et al"]
+  year: "2008"
+  title: "Initial Review of Methods for Cascading Failure in Electric Power Transmission Systems"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Huijuan Li", "Fangxing Li", "Yan Xu", "Tom Rizy", "John Kueck"]
+  year: "2008"
+  title: "Interaction of Multiple Distributed Energy Resouces in Voltage Regulation"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Michael Starke", "Fangxing Li", "Leon M. Tolbert", "Burak Ozpineci"]
+  year: "2008"
+  title: "AC vs. DC: Maximum Transfer Capability"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Rui Bo", "Fangxing Li", "Chaoming Wang"]
+  year: "2008"
+  title: "Congestion Prediction for ACOPF Framework Using Quadratic Interpolation"
+  venue: "IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Shawn Henry", "D. Tom Rizy", "Thomas L. Baldwin", "John D. Kueck", "Fangxing Li"]
+  year: "2008"
+  title: "The application of droop-control in distributed energy resources to extend the voltage collapse margin"
+  venue: "IEEE IAS Industrial and Commercial Power Systems Technical Conference (ICPS 2008)"
+
+- publicationType: "conference-papers"
+  authors: ["Shawn Henry", "D. Tom Rizy", "Thomas L. Baldwin", "John D. Kueck", "Fangxing Li"]
+  year: "2008"
+  title: "The application of droop-control in distributed energy resources to extend the voltage collapse margin"
+  venue: "IEEE IAS Industrial and Commercial Power Systems Technical Conference (ICPS 2008)"
+
+- publicationType: "conference-papers"
+  authors: ["Wenjuan Zhang", "Fangxing Li", "Leon M. Tolbert"]
+  year: "2008"
+  title: "Voltage Stability Constrained Optimal Power Flow (VSCOPF) with Two Sets of Variables (TSV) for Reactive Power Planning"
+  venue: "IEEE PES Transmission and Distribution Conf and Expo"
+
+- publicationType: "conference-papers"
+  authors: ["Wenjuan Zhang", "Fangxing Li", "Leon M. Tolbert"]
+  year: "2008"
+  title: "Sensitivity of Var Compensation Economic Benefits Considering Generator Marginal Cost"
+  venue: "The 3rd IEEE International Conference on Electric Utility Deregulation, Restructuring, and Power Technologies (DRPT2008)"
+
+- publicationType: "conference-papers"
+  authors: ["Rui Bo", "Fangxing Li"]
+  year: "2008"
+  title: "Sensitivity of LMP Using an Iterative DCOPF Model"
+  venue: "The 3rd IEEE International Conference on Electric Utility Deregulation, Restructuring, and Power Technologies (DRPT2008)"
+
+- publicationType: "conference-papers"
+  authors: ["Rui Bo", "Fangxing Li"]
+  year: "2008"
+  title: "Comparison of LMP Simulation Using Two DCOPF Algorithms and the ACOPF Algorithm"
+  venue: "The 3rd IEEE International Conference on Electric Utility Deregulation, Restructuring, and Power Technologies (DRPT2008)"
+
+- publicationType: "conference-papers"
+  authors: ["Wenjuan Zhang", "Fangxing Li", "Leon M. Tolbert"]
+  year: "2007"
+  title: "Analysis of Var Benefits with Application to Var Planning"
+  venue: "Proceedings of the 8th International Power Engineering Conference (IPEC)"
+
+- publicationType: "conference-papers"
+  authors: ["Yan Xu", "Fangxing Li", "John D. Kueck", "D. Tom Rizy"]
+  year: "2007"
+  title: "Experiment and Simulation of Dynamic Voltage Regulation with Multiple Distributed Energy Resources"
+  venue: "IREP Symposium 2007 - Bulk Power System Dynamics and Control"
+
+- publicationType: "conference-papers"
+  authors: ["Yan Xu", "D. Tom Rizy", "Fangxing Li", "John D. Kueck"]
+  year: "2007"
+  title: "Dynamic Voltage Regulation Using Distributed Energy Resources"
+  venue: "Proceedings of CIRED"
+
+- publicationType: "conference-papers"
+  authors: ["Wenjuan Zhang", "Fangxing Li", "Leon M. Tolbert"]
+  year: "2006"
+  title: "Optimal Allocation of Shunt Dynamic Var Source SVC and STATCOM: A Survey"
+  venue: "Proceedings of the 7th IEE International Conference on Advances in Power System Control,Operation and Management"
+
+- publicationType: "conference-papers"
+  authors: ["Fangxing Li", "Wenjuan Zhang", "Leon M. Tolbert", "John D. Kueck", "D. Tom Rizy"]
+  year: "2006"
+  title: "Assessment of the Economic Benefits from Reactive Power Compensation"
+  venue: "Proceeding of the IEEE Power Systems Conference and Exposition"
+
+- publicationType: "conference-papers"
+  authors: ["Fangxing Li", "Rui Bo", "Wenjuan Zhang"]
+  year: "2006"
+  title: "Comparison of Different LMP Calculations in Power Market Simulation"
+  venue: "Proceedings of the 5th IEEE International Conference on Power System Technology"
+
+- publicationType: "conference-papers"
+  authors: ["Henry Chao", "Fangxing Li"]
+  year: "2006"
+  title: "Assessment of Quick Start Resource Requirements in Market Operations"
+  venue: "Proceedings of the IEEE PES Transmission and Distribution Conference and Expo"
+
+- publicationType: "conference-papers"
+  authors: ["Henry Chao", "Fangxing Li"]
+  year: "2004"
+  title: "Resource Adequacy Assessment Considering Transmission and Generation via Market Simulations"
+  venue: "Proceedings of the IEEE PES Transmission and Distribution Conference and Expo 2004-2005 Latin America"
+
+- publicationType: "conference-papers"
+  authors: ["Henry Chao", "Fangxing Li", "Lan H. Trinh", "Jiuping Pan", "Murale Gopinathan", "Don Pillo"]
+  year: "2004"
+  title: "Market Based Transmission Planning Considering Reliability and Economic Performance"
+  venue: "Proceeding of the 8th IEEE International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)"
+
+- publicationType: "conference-papers"
+  authors: ["Fangxing Li", "Jiuping Pan", "Henry Chao"]
+  year: "2004"
+  title: "Marginal Loss Calculation in Competitive Electrical Energy Markets"
+  venue: "Proceedings of the 2004 IEEE International Conference on Deregulation,Restructuring and Power Technologies (DRPT)"
+
+- publicationType: "conference-papers"
+  authors: ["Jiuping Pan", "Xiaoming Feng", "Yuan Liao", "Fangxing Li"]
+  year: "2004"
+  title: "Regional Market Simulation with Inter-Market Bilateral Transactions"
+  venue: "Proceedings of the 2004 IEEE International Conference on Deregulation,Restructuring and Power Technologies (DRPT)"
+
+- publicationType: "conference-papers"
+  authors: ["Fangxing Li"]
+  year: "2003"
+  title: "A Fast Approach of Monte Carlo Simulation Based on Linear Contribution Factors to Distribution Reliability Indices"
+  venue: "Proceedings of IEEE PES Transmission and Distribution Conference"
+
+- publicationType: "conference-papers"
+  authors: ["Jian Yang", "Fangxing Li", "Lavelle A.A. Freeman"]
+  year: "2003"
+  title: "A Market Simulation Program for the Standard Market Design and Generation/Transmission Planning"
+  venue: "Proceedings of IEEE PES General Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Fangxing Li", "Lavelle A.A. Freeman"]
+  year: "2003"
+  title: "Using Client-side Technologies to Develop Web-based Applications for Power Distribution Analysis"
+  venue: "Proceedings of DistribuTech Conference"
+
+- publicationType: "conference-papers"
+  authors: ["Jorgen Hasselstrom", "David Lubkeman", "Fangxing Li", "Yuan Liao", "John Wang"]
+  year: "2003"
+  title: "Web-based Asset Management Tools"
+  venue: "Proceedings of DistribuTech Conference"
+
+- publicationType: "conference-papers"
+  authors: ["Fangxing Li", "Robert P. Broadwater", "Al Sargent"]
+  year: "2001"
+  title: "Cable Impedance Calculations with Parallel Circuits and Multi-neutral Returns in Distribution Networks"
+  venue: "Proceedings of IEEE-PES Winter Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Fangxing Li", "Robert P. Broadwater", "Jeffery Thompson", "Frank Goodman"]
+  year: "2000"
+  title: "Analysis of Distributed Resources Operating in Unbalanced Distribution Circuits"
+  venue: "Proceedings of IEEE-PES Summer Meeting"
+
+- publicationType: "conference-papers"
+  authors: ["Yang Li", "Fangxing Li"]
+  year: "1997"
+  title: "A New Method to Evaluate the Benefit of Distribution Network Automations (in Chinese)"
+  venue: "Proceedings of National Symposium on Power Systems"
+
+- publicationType: "conference-papers"
+  authors: ["Fangxing Li", "Yang Li"]
+  year: "1996"
+  title: "Reclosers and Their Applications in Distribution Automations (in Chinese)"
+  venue: "Proceedings of National Conference in EMS and DMS"
+
+- publicationType: "other-publications"
+  authors: ["Fangxing Li, Yao Xu"]
+  year: "2014"
+  title: "Book Review: Sustainable electricity - a look at the green Azores islands"
+  venue: "IEEE Power and Energy Magazine"
+
+- publicationType: "other-publications"
+  authors: ["Youngsun Baek", "Stanton W. Hadley", "Rocio Uria-Martinez", "Gbadebo Oladosu", "Alexander M. Smith", "Fangxing Li", "Paul N. Leiby", "Russell Lee"]
+  year: "2012"
+  title: "Eastern Interconnection Demand Response Potential"
+  venue: "DOE Technical Report (ORNL/TM-2012/303)"
+
+- publicationType: "other-publications"
+  authors: ["Fangxing Li", "Pei Zhang"]
+  year: "2009"
+  title: "Next Generation Monitoring and Control for Power Systems"
+  venue: "EPRI Report"
+
+- publicationType: "other-publications"
+  authors: ["Fangxing Li", "Lingling Fan", "Pei Zhang"]
+  year: "2009"
+  title: "A Vision of Self-Healing Protection and Control"
+  venue: "EPRI Report"
+
+- publicationType: "other-publications"
+  authors: ["John Kueck", "Tom Rizy", "Fangxing Li", "Yan Xu", "Huijuan Li", "Sarina Adhikari", "Phil Irminger"]
+  year: "2008"
+  title: "Local Dynamic Reactive Power for Correction of System Voltage Problems"
+  venue: "DOE Technical Report"
+
+- publicationType: "other-publications"
+  authors: ["Christopher Tufon", "Alan G. Isemonger", "Brendan Kirby", "John Kueck", "Fangxing Li"]
+  year: "2008"
+  title: "A Tariff for Reactive Power"
+  venue: "DOE Technical Report"
+
+- publicationType: "other-publications"
+  authors: ["Fangxing Li", "John D. Kueck", "D. Tom Rizy", "Tom J. King", "N. Fall"]
+  year: "2006"
+  title: "A Preliminary Analysis of the Economics of Using Distributed Energy as a Source of Reactive Power Supply"
+  venue: "DOE Technical Report"
+
+- publicationType: "other-publications"
+  authors: ["Robert P. Broadwater", "Fangxing Li", "Jeffery Thompson"]
+  year: "1999"
+  title: "Generic Analytical Models for Assessing Distribution System Design Implications of Distributed Generations and Storage"
+  venue: "EPRI Report (WO 5781-02)"

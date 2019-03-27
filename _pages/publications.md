@@ -1,17 +1,17 @@
 ---
-title: "Allan Lab - Publications"
+title: "Enliten Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Enliten Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
 
 
 # Publications
+See also the [full list](#full-list) or check out [Google Scholar](https://scholar.google.com/citations?user=Xlzr3HMAAAAJ&hl=en) and [Researchgate](https://www.researchgate.net/profile/Fangxing_Li).
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -28,7 +28,7 @@ permalink: /publications/
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
+  <p>{% for author in publi.authors %}{% if forloop.last %}& {% endif %} <em> {% assign l_name = author | split: ' ' | last %}{% assign f_name = author | split: ' ' | pop %}{{ l_name }}, {%for name in f_name%}{{name | split:'' | first}}.{% endfor%}, {% endfor %} </em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
@@ -57,7 +57,8 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% for author in publi.authors %} {% if forloop.last %}& {% endif %} <em> {% assign l_name = author | split: ' ' | last %}{% assign f_name = author | split: ' ' | pop %}{{ l_name }}, {%for name in f_name%}{{name | split:'' | first}}.{% endfor%}, {% endfor %} </em>
+  {{publi.venue}}, {{publi.year}}
+  <br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
-

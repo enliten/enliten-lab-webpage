@@ -1,13 +1,13 @@
 ---
-title: "Allan Lab - Home"
+title: "Enliten Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Enliten Lab at University of Tennessee."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
-
+The Enliten Lab is a research group at the [University of Tennessee](https://eecs.utk.edu). Our goal is to enhance the secure and economic operation of electric power
+systems using cutting-edge machine learning, optimization, and control techniques.  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -52,17 +52,15 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
   </a>
 </div>
 
+Our lab develops mathematical optimization models for generation scheduling and flexible load management. We apply state-of-the-art machine learning
+algorithms for power flow calculation, contingency screening, voltage stability analysis, and cyber security vulnerability mitigation. We also develop large-scale
+power system testbeds for research verification and demonstration (see [Research](research)).
 
+We are with the Department of Electrical Engineering and Computer Science (EECS), UTK, which is located within driving distances to Nashville, Atlanta, and the Great Smoky Mountains. We are part of [CURENT](https://curent.utk.edu), an Education Research Center funded by the National Science Foundation (NSF) and Department of Energy (DOE).
 
+ **We have openings for new PhD students, Postdocs, and Master students!** [(details)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We are grateful for funding from [UTK](https://www.utk.edu), [NSF](https://www.nsf.gov), [DOE](https://www.doe.gov), [ORNL](https://www.ornl.gov), [EPRI](https://www.epri.com), [ISO-NE](https://www.iso-ne.com), [GEIRI-NA](https://geirina.sgcc.com.cn) and multiple funding sources. See the list of funded projects here.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
