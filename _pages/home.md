@@ -30,16 +30,16 @@ systems using cutting-edge machine learning, optimization, and control technique
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LTBScreenshot.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/cake_web.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/PowerSystemAI.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/logos.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LTBScreenshot.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/tamagochi.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/PowerSystemAI.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Group2015_red.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LTBScreenshot.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -60,11 +60,19 @@ We are with the Department of Electrical Engineering and Computer Science (EECS)
 
  **We have openings for new PhD students, Postdocs, and Master students!** [(details)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
-We are grateful for funding from [UTK](https://www.utk.edu), [NSF](https://www.nsf.gov), [DOE](https://www.doe.gov), [ORNL](https://www.ornl.gov), [EPRI](https://www.epri.com), [ISO-NE](https://www.iso-ne.com), [GEIRI-NA](https://geirina.sgcc.com.cn) and multiple funding sources. See the list of funded projects here.
+We are grateful for funding from [NSF](https://www.nsf.gov), [DOE](https://www.doe.gov), [ORNL](https://www.ornl.gov), [EPRI](https://www.epri.com), [ISO-NE](https://www.iso-ne.com), [GEIRI-NA](https://geirina.sgcc.com.cn) and multiple funding sources. See the list of funded projects here.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DOE.png" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ORNL.png" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF.png" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EPRI.png" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DVP.png" style="height: 60px"> <br>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GCEP2.gif" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GCEP.gif" style="height: 60px"> <br>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EPRI.png" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DVP.png" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GEIRINA.jpg" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ISONE.jpg" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LLNL.png" style="height: 50px">
 </figure>
