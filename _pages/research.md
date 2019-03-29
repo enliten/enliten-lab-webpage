@@ -8,18 +8,36 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+## From AlphaGo to Power System Artificial Intelligence
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high?
+Funded by the [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1809458), This project mainly focuses on utilizing the latest artificial intelligence (AI) techniques to solve the most complicated power system problems, like electricity market bidding and cascading outage screening. We are now living in an era that has witnessed the tremendous success of the deep learning (DL) technology in multiple fields like medical imaging, machine translation, and auto pilot, etc.  The DL method is like a black box. It “learns” the mapping between different variables via massive data mining and can automatically generate a proximate model representation without referring to analytical solution. Such data-driven method is especially desired when the problem is difficult to model due to hidden information or is computationally intractable due to high dimension or nonconvexity. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+The application of deep learning in the power system is still at an initial stage. Like human board games, the power system engineers face quantities of practical grid planning and operation scenarios that are with extreme modelling complexity and computation overhead, where the data-driven deep learning method can serve as a highly reliable and efficient alternative way to overcome the above difficulties.  We have been working on implementing the deep convolutional neural network (deep CNN) for N-1 security assessment under uncertain operation scenarios, and the deep reinforcement learning (deep RL) for optimizing energy management for multi-microgrid and day-ahead market bidding strategy of GENCOs and have gained some promising results. We believe that there is high potential for the deep learning method to continue to outshine in future power system researches.
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
+![]({{ site.url }}{{ site.baseurl }}/images/respic/DuAlphaGoPowerAi.png){: style="width: 800px; float: center; border: 10px"}
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
+_Summary provided by Yan Du_
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
 
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
+## A Distributed Energy Management Approach for Residential Demand Response
 
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
+Existing demand response (DR) research has primarily focused on the deployments for industrial customers. However, residential load accounts for 37% of the total electricity consumption in the United States (2013) and suggest a significant missed opportunity. Unlike industrial load, the residential load is composed of numerous low-power home appliances, and the electricity consumption habits of residential customers are highly varied and dynamic.
+
+In this project, a distributed control scheme to coordinate large-scale residential demand response is proposed through coordination of Home Energy Management Systems (HEMS). In the proposed framework, end-use customers do not have to release the operating status of their home appliances to the load aggregator or their neighbors, which considerably protects the privacy and reduces the communication burden. Also, the distributed algorithm ensures the computational burden of the load aggregator and ensures the feasibility of the proposed algorithm for large-scale residential DR applications.
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/XiaoDR.png){: style="width: 600px; float: right; border: 10px"}
+
+_Summary provided by Xiao Kou_
+
+
+## Thermostatic load control for frequency regulation considering daily demand profile and progressive recovery
+
+In recent years, the increasing penetration of renewable energy sources challenges power system frequency stability. Thermostatic loads can be controlled for frequency regulation with little impact on customers’ comfort. This research proposes a thermostatic load control (TLC) strategy, in which electric water heaters (EWHs) are utilized for primary frequency regulation (PFR) and heating, ventilation and air-conditioners (HVACs) are for secondary frequency regulation (SFR).
+
+The innovation of this research includes two aspects. First, the demand profile modeling of the EWH and HVAC indicates that these two loads are complementary in the daytime. Therefore, they can provide a relatively stable frequency reserve. Second, the progressive load recovery is considered in the control scheme so that the load rebound effect can be avoided. With TLC strategy, the load aggregator can organize a large population of loads for the provision of a frequency reserve. Consequently, the requirement of generator spinning reserve is reduced.
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ShiThermostatLoad.tif){: style="width: 600px; float: left; border: 10px"}
+
+_Summary provided by Qingxin Shi_
+
+
