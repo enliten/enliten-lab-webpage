@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   ENLITEN Lab is a research group in University of Tennessee, Knoxville,
   focusing on Electric Network and Intelligent Transactive Energy.
 baseurl: ""
-url: ""
+url: https://enliten.utk.edu
 
 include:
   - .htaccess
