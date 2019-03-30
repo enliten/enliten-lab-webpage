@@ -41,3 +41,11 @@ In recent years, the increasing penetration of renewable energy sources challeng
 
 The innovation of this research includes two aspects. First, the demand profile modeling of the EWH and HVAC indicates that these two loads are complementary in the daytime. Therefore, they can provide a relatively stable frequency reserve. Second, the progressive load recovery is considered in the control scheme so that the load rebound effect can be avoided. With TLC strategy, the load aggregator can organize a large population of loads for the provision of a frequency reserve. Consequently, the requirement of generator spinning reserve is reduced.
 
+## Cyber-attack on electricity market operation
+
+_Summary provided by Qiwei Zhang_
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ZhangCybersecurity.png){: style="width: 500px; float: center; border: 10px"}
+
+We are studying how potentially profitable cyber-attacks will impact electricity market operations. The secure operation of today’s smart grids highly depends on the accuracy of measurements from state estimators. Independent system operators (ISOs) will retrieve these measurements to organize the electricity market. The strong coupling of power system cyber operations and physical operations will incite hackers to perform attack for monetary benefits.
+

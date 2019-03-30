@@ -167,6 +167,8 @@ Navigate to [faculty, staff, and PhD students](#Faculty,-Staff-and-PhD-Students)
 
 
 <table align="center" style="width:100%">
+<col width="75%">
+<col width="25%">
  <tr>
     <th>Visitors</th>
     <th>Past Undergraduate Students</th>
