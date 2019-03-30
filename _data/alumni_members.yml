@@ -1,5 +1,5 @@
 - name: Riyasat Azim
-  photo:
+  photo: RiyasatAzim.jpg
   duration: December 2016
   employment: DNV GL, Dallas, TX
   alumni_role: Ph.D.
@@ -16,7 +16,7 @@
   education1: MS and BS, Tianjin University
 
 - name: Haoyu Yuan
-  photo:
+  photo: HaoyuYuan.jpg
   duration: August 2016
   employment: National Renewable Energy Laboratory (NREL)
   alumni_role: Ph.D.
@@ -24,7 +24,7 @@
   education1:
 
 - name: Can Huang
-  photo:
+  photo: CanHuang.jpg
   duration: July 2016
   employment: Lawrence Livermore National Laboratory, Livermore, CA
   alumni_role: Ph.D.
@@ -32,7 +32,7 @@
   education1:
 
 - name: Xin Fang
-  photo:
+  photo: XinFang.jpg
   duration: June 2016
   employment: National Renewable Energy Laboratory (NREL)
   alumni_role: Ph.D.
