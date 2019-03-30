@@ -1,3 +1,11 @@
+- name: Riyasat Azim
+  photo:
+  duration: December 2016
+  employment: DNV GL, Dallas, TX
+  alumni_role: Ph.D.
+  number_educ: 0
+  education1:
+
 - name: Linquan Bai
   photo: LinquanBai.jpg
   duration: Fall 2013 - Fall 2016
@@ -5,4 +13,191 @@
   alumni_role: PhD
   email: linquanbai@uncc.edu
   number_educ: 1
-  education2: MS and BS, Tianjin University
+  education1: MS and BS, Tianjin University
+
+- name: Haoyu Yuan
+  photo:
+  duration: August 2016
+  employment: National Renewable Energy Laboratory (NREL)
+  alumni_role: Ph.D.
+  number_educ: 0
+  education1:
+
+- name: Can Huang
+  photo:
+  duration: July 2016
+  employment: Lawrence Livermore National Laboratory, Livermore, CA
+  alumni_role: Ph.D.
+  number_educ: 0
+  education1:
+
+- name: Xin Fang
+  photo:
+  duration: June 2016
+  employment: National Renewable Energy Laboratory (NREL)
+  alumni_role: Ph.D.
+  number_educ: 0
+  education1:
+
+- name: Xue Li
+  photo:
+  duration: Ocotber 2015
+  employment: Northeastern Dianli University (Jilin, China)
+  alumni_role: Ph.D.
+  number_educ: 0
+  education1:
+
+- name: Kumaraguru Prabakar
+  photo:
+  duration: Ocotber 2015
+  employment: National Renewable Energy Laboratory (NREL)
+  alumni_role: Ph.D.
+  number_educ: 0
+  education1:
+
+- name: Dr. Yao Xu
+  photo: YaoXu.jpg
+  duration: December 2014
+  employment: Purdue University Northwest Campus
+  alumni_role: Ph.D.
+  number_educ: 0
+  education1:
+
+- name: Qinran Hu
+  photo:
+  duration: August 2015
+  employment: Southeast University
+  alumni_role: Ph.D.
+  number_educ: 0
+  education1:
+
+- name: Hao Huang
+  photo:
+  duration: December 2013
+  employment: Customzied Energy Solutions
+  alumni_role: Ph.D.
+  number_educ: 0
+  education1:
+
+- name: Zhiqiang Jin
+  photo:
+  duration: July 2013
+  employment: Western Digital
+  alumni_role: Ph.D.
+  number_educ: 0
+  education1:
+
+- name: Sarina Adhikari
+  photo:
+  duration: April 2013
+  employment: EnerNex at Knoxville
+  alumni_role: Ph.D.
+  number_educ: 0
+  education1:
+
+- name: Yanli Wei
+  photo:
+  duration: December 2012
+  employment: Southern California Edison
+  alumni_role: Ph.D.
+  number_educ: 0
+  education1:
+
+- name: Huijuan Li
+  photo:
+  duration: September 2010
+  employment: EPRI, Knoxville, TN
+
+  alumni_role: Ph.D.
+  number_educ: 0
+  education1:
+
+- name: Rui Bo
+  photo:
+  duration: August 2009
+  employment: Missouri University of Science and Technology
+  alumni_role: Ph.D.
+  number_educ: 0
+  education1:
+
+- name: Wenjuan (Wendy) Zhang
+  photo:
+  duration: September 2007
+  employment: California ISO, Folsom, CA, now with PG&E in San Francisco
+  alumni_role: Ph.D. (Co-advised with Dr. Leon M. Tolbert)
+  number_educ: 0
+  education1:
+
+- name: Le Yu
+  photo:
+  duration: May 2018
+  employment: ADP, Atlanta, GA
+  alumni_role: M.S.
+  number_educ: 0
+  education1:
+
+- name: T. Ben Ollis
+  photo:
+  duration: April 2014
+  employment: Oak Ridge National Laboratory (ORNL)
+  alumni_role: M.S.
+  number_educ: 0
+  education1:
+
+- name: Qinran Hu
+  photo:
+  duration: December 2013
+  employment: continue his PhD study at UTK
+  alumni_role: M.S.
+  number_educ: 0
+  education1:
+
+- name: Brian Miller
+  photo:
+  duration: December 2010
+  employment: Air Force Institute of Technology, Ohio
+  alumni_role: M.S
+  number_educ: 0
+  education1:
+
+- name: Ashwini Chegu
+  photo:
+  duration: August 2010
+  employment:
+  alumni_role: M.S
+  number_educ: 0
+  education2:
+
+- name: Robin Armistead
+  photo:
+  duration: November 2009
+  employment: Bechtel, Pittsburgh, PA.
+  alumni_role: M.S.
+  number_educ: 0
+  education2:
+
+- name: Truong Quang
+  photo:
+  duration: November 2009
+  employment: continuing employment at TVA, Knoxville, TN.
+  alumni_role: M.S. (part-time)
+  number_educ: 0
+  education1:
+
+- name: Nura Sabir
+  photo:
+  duration: August 2008
+  employment: Engineering Planning and Management (EPM), Knoxville, TN.
+  alumni_role:  M.S.
+  number_educ: 0
+  education1:
+
+
+
+- name: Quincy Styke IV
+  photo: LinquanBai.jpg
+  duration: July 2007
+  employment: Enterprenuer running his own company
+  alumni_role: Dual MS/MBA (Project Option)
+  number_educ: 0
+  education2:
