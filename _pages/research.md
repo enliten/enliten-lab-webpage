@@ -41,6 +41,14 @@ In recent years, the increasing penetration of renewable energy sources challeng
 
 The innovation of this research includes two aspects. First, the demand profile modeling of the EWH and HVAC indicates that these two loads are complementary in the daytime. Therefore, they can provide a relatively stable frequency reserve. Second, the progressive load recovery is considered in the control scheme so that the load rebound effect can be avoided. With TLC strategy, the load aggregator can organize a large population of loads for the provision of a frequency reserve. Consequently, the requirement of generator spinning reserve is reduced.
 
+## Deep Learning Based Voltage Stability Assessment
+
+_Summary provided by Mariana Magdy Mounir Kamel_
+
+Voltage stability and voltage collapse have been a highly active research topic for decades. Even though voltage collapse has a low probability of occurrence, it certainly has a very high impact. Several major blackouts were reported to have been caused by voltage collapse.  In general, voltage instability problems would normally occur in heavily loaded systems where a small disturbance such as a line outage may result in a situation where the system is no longer able to meet its load power demand. Early detection of voltage instability is necessary to prevent the system from collapsing. Several voltage stability assessment techniques have been proposed in the literature in an attempt to assess proximity to voltage collapse.  However, a number of limitations have been reported in regards to those methods. One of the major issues which might render a given assessment method inapplicable is its computational complexity. This is true especially when the intention is to implement the assessment method in a real-time framework. As a matter of fact, till this day, devising a method which provides both fast and reliable assessment of system voltage stability remains to be a challenge. 
+
+This project aims at developing a deep learning based voltage stability assessment method which would be suitable for real-time implementation. Deep learning techniques, with their learning capabilities, offer high speed performance and therefore can be suitable for use in real-time applications. The proposed method would not only assess system stability and quantify its proximity to voltage collapse, but it should also optimize the decision on when, where, and which type of corrective measures to take in order to prevent the system from collapsing.
+
 ## Cyber-attack on electricity market operation
 
 _Summary provided by Qiwei Zhang_
