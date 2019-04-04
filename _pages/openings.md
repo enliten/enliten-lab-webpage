@@ -1,9 +1,9 @@
 ---
-title: "Enliten Lab - Vacancies"
+title: "Enliten Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies/
+permalink: /openings/
 ---
 
 # Open Positions
