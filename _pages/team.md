@@ -148,7 +148,7 @@ Navigate to [faculty, staff, and PhD students](#Faculty,-Staff-and-PhD-Students)
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   {% endif %}
   <h4>{{ member.name }}</h4>
-  <i>  {{member.employment }} <br>  {{ member.alumni_role }} Alumni<br> {{ member.duration }} 
+  <i>  {{member.employment }} <br>  {{ member.alumni_role }} Alumni<br> {{ member.duration }}
   {% if member.email %} <br>email: <{{ member.email }}> {% endif %} </i>
   <ul style="overflow: hidden">
 
@@ -229,7 +229,7 @@ Navigate to [faculty, staff, and PhD students](#Faculty,-Staff-and-PhD-Students)
     <td>Jason Chan: Summer 2013</td>
   </tr>
   <tr>
-    <td>Dr. Houhe Chen (March 2014 - April 2015), Visiting Scholar from Northeastern University of Electric Power</td>
+    <td>Dr. Houhe Chen (March 2014 - April 2015), Visiting Scholar from Northeast Electric Power University, China</td>
     <td>Daniel Cash: Spring 2013</td>
   </tr>
   <tr>

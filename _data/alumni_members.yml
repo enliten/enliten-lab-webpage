@@ -42,7 +42,7 @@
 - name: Xue Li
   photo: XueLi.jpg
   duration: Ocotber 2015
-  employment: Northeastern Dianli University (Jilin, China)
+  employment: Northeast Electric Power University (Jilin, China)
   alumni_role: Ph.D.
   number_educ: 0
   education1:
@@ -55,7 +55,7 @@
   number_educ: 0
   education1:
 
-- name: Dr. Yao Xu
+- name: Yao Xu
   photo: YaoXu.jpg
   duration: December 2014
   employment: Purdue University Northwest Campus
@@ -64,7 +64,7 @@
   education1:
 
 - name: Qinran Hu
-  photo:
+  photo: QinranHu.png
   duration: August 2015
   employment: Southeast University
   alumni_role: Ph.D.
@@ -113,7 +113,7 @@
   education1:
 
 - name: Rui Bo
-  photo:
+  photo: RuiBo.jpg
   duration: August 2009
   employment: Missouri University of Science and Technology
   alumni_role: Ph.D.
@@ -137,7 +137,7 @@
   education1:
 
 - name: T. Ben Ollis
-  photo:
+  photo: BenOllis.jpg
   duration: April 2014
   employment: Oak Ridge National Laboratory (ORNL)
   alumni_role: M.S.
@@ -145,7 +145,7 @@
   education1:
 
 - name: Qinran Hu
-  photo:
+  photo: QinranHu.jpg
   duration: December 2013
   employment: continue his PhD study at UTK
   alumni_role: M.S.
@@ -191,8 +191,6 @@
   alumni_role:  M.S.
   number_educ: 0
   education1:
-
-
 
 - name: Quincy Styke IV
   photo:
