@@ -70,9 +70,8 @@ We are grateful for funding from [NSF](https://www.nsf.gov), [DOE](https://www.d
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DVP.png" style="height: 60px"> <br>
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GCEP2.gif" style="height: 60px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GCEP.gif" style="height: 60px"> <br>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EPRI.png" style="height: 60px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DVP.png" style="height: 60px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GEIRINA.jpg" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UTRC.png" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GEIRINA.png" style="height: 60px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ISONE.jpg" style="height: 60px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LLNL.png" style="height: 50px">
 </figure>
