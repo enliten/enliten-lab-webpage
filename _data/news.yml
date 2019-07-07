@@ -3,7 +3,11 @@
 #
 # - date: 17. June 2015
 #   headline: "Maarten wins the LION image award! Check out his <a href='https://www.physics.leidenuniv.nl/index.php?id=11573&news=757&type=lion&ln=EN'>submission</a>.<img src='/images/newspic/Contest.jpg' class='img-responsive' style='max-width:192px' />"
-
+- date: 5 July 2019
+  headline: Qingxin Shi successfully defended his dissertation. Congratulations to Dr. Shi.
+  link: https://calendar.utk.edu/event/defense_of_a_phd_dissertation-_qingxin_shi#.XSH1JlxKi00
+  link_text: Defense of a Ph.D. Dissertation
+  
 - date: 6 May 2019
   headline: Our paper "Achieving 100x Acceleration for N-1 Contingency Screening with Uncertain Scenarios using Deep Convolutional Neural Network" has been published by the IEEE Transactionsons on Power Systems.  <br> Congratulations to the authors.
   link: https://ieeexplore.ieee.org/document/8705389
