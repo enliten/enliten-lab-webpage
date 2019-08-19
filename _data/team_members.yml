@@ -20,7 +20,7 @@
   photo: QingxinShi.jpg
   info: Research Assistant Professor since Summer 2019
   email: qshi1@vols.utk.edu
-  number_educ: 2
+  number_educ: 3
   education1: PhD, the Enliten Lab, UTK
   education2: MS in 2014, Unversity of Alberta
   education3: BS in 2011, Zhejiang University, China
@@ -85,15 +85,8 @@
   photo: HaoyuanSun.png
   info: PhD student since Fall 2019
   email: hsun19@vols.utk.edu
-  number_educ: 2
+  number_educ: 1
   education1: BS in 2019, Xi'an Jiao Tong University
-
-- name: Ian Schomer
-  photo: IanSchomer.jpg
-  info: MS student since Fall 2019
-  email: ischomer@vols.utk.edu
-  number_educ: 2
-  education1: BS in 2019, Maryville College
   
 - name: Mingshen Wang
   photo: MingshenWang.jpg
