@@ -18,11 +18,12 @@
 
 - name: Qingxin Shi
   photo: QingxinShi.jpg
-  info: PhD student since Fall 2015
+  info: Research Assistant Professor since Summer 2019
   email: qshi1@vols.utk.edu
   number_educ: 2
-  education1: MS in 2014, Unversity of Alberta
-  education2: BS in 2011, Zhejiang University, China
+  education1: PhD, the Enliten Lab, UTK
+  education2: MS in 2014, Unversity of Alberta
+  education3: BS in 2011, Zhejiang University, China
 
 - name: Xiao Kou
   photo: XiaoKou.jpg
@@ -71,14 +72,29 @@
   number_educ: 2
   education1: MS in 2014, the Enliten Lab, UTK
   education2: Full time staff with ORNL
+  
+- name: Xiaofei Wang
+  photo: XiaofeiWang.jpg
+  info: PhD student since Fall 2019
+  email: xwang158@vols.utk.edu
+  number_educ: 2
+  education1: MS in 2017, Wuhan University
+  education2: BS in 2014, North China Electric Power University
+  
+- name: Haoyuan Sun
+  photo: HaoyuanSun.png
+  info: PhD student since Fall 2019
+  email: hsun19@vols.utk.edu
+  number_educ: 2
+  education1: BS in 2019, Xi'an Jiao Tong University
 
-- name: Yunwei Shen
-  photo: YunweiShen.jpg
-  info: Visiting PhD student since Fall 2017
-  email: yshen26@vols.utk.edu
-  number_educ: 1
-  education1: PhD student in Southeast University, China
-
+- name: Ian Schomer
+  photo: IanSchomer.jpg
+  info: MS student since Fall 2019
+  email: ischomer@vols.utk.edu
+  number_educ: 2
+  education1: BS in 2019, Maryville College
+  
 - name: Mingshen Wang
   photo: MingshenWang.jpg
   info: Visiting PhD student since Fall 2017
