@@ -3,6 +3,21 @@
 #
 # - date: 17. June 2015
 #   headline: "Maarten wins the LION image award! Check out his <a href='https://www.physics.leidenuniv.nl/index.php?id=11573&news=757&type=lion&ln=EN'>submission</a>.<img src='/images/newspic/Contest.jpg' class='img-responsive' style='max-width:192px' />"
+- date: 12 December 2019
+  headline: Qingxing, Cody, and Evan graduated. Congratulations!
+  #link: https://calendar.utk.edu/event/defense_of_a_phd_dissertation-_qingxin_shi#.XSH1JlxKi00
+  #link_text: Defense of a Ph.D. Dissertation
+ 
+- date: 26 November 2019
+  headline: Several Alumni of ENLITEN received Highly Cited Paper Award. Congratulations!
+  link: http://www.eecs.utk.edu/eecs-curent-alum-and-two-faculty-members-receive-highly-cited-paper-award/ 
+  link_text: Highly Cited Paper
+
+- date: 26 November 2019
+  headline: Several Alumni of ENLITEN received Prize Paper Award. Congratulations!
+  link: http://www.eecs.utk.edu/two-eecs-curent-alumni-and-eecs-curent-professor-receive-ieee-pes-technical-committee-prize-paper-award/
+  link_text: Prize Paper Award
+ 
 - date: 5 July 2019
   headline: Qingxin Shi successfully defended his dissertation. Congratulations to Dr. Shi.
   link: https://calendar.utk.edu/event/defense_of_a_phd_dissertation-_qingxin_shi#.XSH1JlxKi00

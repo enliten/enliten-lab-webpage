@@ -88,19 +88,19 @@
   number_educ: 1
   education1: BS in 2019, Xi'an Jiao Tong University
   
-- name: Mingshen Wang
-  photo: MingshenWang.jpg
-  info: Visiting PhD student since Fall 2017
-  email: mwang38@vols.utk.edu
-  number_educ: 1
-  education1: PhD student in Tianjin University, China
+#- name: Mingshen Wang
+#  photo: MingshenWang.jpg
+#  info: Visiting PhD student since Fall 2017
+#  email: mwang38@vols.utk.edu
+#  number_educ: 1
+#  education1: PhD student in Tianjin University, China
  
-- name: Jing Tu
-  photo: JingTu.jpg
-  info: Visiting PhD student since Fall 2018
-  email: tujing.128@gmail.com
-  number_educ: 1
-  education1: PhD student in North China Electric Power University, China
+#- name: Jing Tu
+# photo: JingTu.jpg
+#  info: Visiting PhD student since Fall 2018
+#  email: tujing.128@gmail.com
+#  number_educ: 1
+#  education1: PhD student in North China Electric Power University, China
 
 - name: "This could be you !"
   photo: rock.jpg

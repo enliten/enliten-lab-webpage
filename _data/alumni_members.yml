@@ -128,6 +128,22 @@
   number_educ: 0
   education1:
 
+- name: Cody Rooks
+  photo: CodyRooks.jpg
+  duration: December 2019
+  employment: 
+  alumni_role: M.S.
+  number_educ: 0
+  education1: 
+
+- name: Evan McKee
+  photo: EvanMcKee.jpg
+  duration: December 2019
+  employment:
+  alumni_role: M.S.
+  number_educ: 0
+  education1: 
+
 - name: Le Yu
   photo:
   duration: May 2018
