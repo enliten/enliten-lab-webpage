@@ -87,7 +87,24 @@
   email: hsun19@vols.utk.edu
   number_educ: 1
   education1: BS in 2019, Xi'an Jiao Tong University
-  
+
+- name: Buxin She
+  photo: BuxinShe.png
+  info: PhD student since Spring 2020
+  email: bshe@vols.utk.edu
+  number_educ: 2
+  education1: BS in 2017, Tianjin University
+  education2: MS in 2020, Tianjin University
+
+- name: Jinning Wang
+  photo: JinningWang.jpg
+  info: PhD student since Spring 2020
+  email: jwang175@vols.utk.edu
+  number_educ: 3
+  education1: BS in 2017, Taiyuan University of Technology
+  education2: MS in 2020, Taiyuan University of Technology
+  education3: MS in 2020, University of West Florida
+
 #- name: Mingshen Wang
 #  photo: MingshenWang.jpg
 #  info: Visiting PhD student since Fall 2017
