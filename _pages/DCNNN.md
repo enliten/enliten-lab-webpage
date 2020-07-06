@@ -14,17 +14,17 @@ The main idea behind DCNNN is to train a deep CNN for classifying system securit
 
 There are two types of output from deep CNN: the first is a matrix containing bus voltage magnitude and bus voltage angle; the second is the system security status. It can be observed that the proposed deep CNN can realize two functions simultaneously: as an AC power flow (ACPF) regression tool to get system state parameters and as a classifier for system security assessment under N-1 contingency, which is a multi-task learning model. The system security status evaluates the system as whole, while the bus voltage can reflect the local vulnerability.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNNstructure.jpg){: style="width: 800px; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNNstructure.jpg){: style="width: 1000px; float: center; border: 10px"}
 
 To validate the efficiency and accuracy of DCNNN, we compare the screening results and the calculation time from DCNNN with that of the model-based ACPF method, as shown in the following tables.
 
 In Table 1, the errors of sita and v are the per unit mean absolute value over the test set compared with the results from model-based ACPF calculation. The classification accuracy is the ratio between the number of test samples that have been correctly classified based on their security status and the total number of test samples. As the table shows, DCNNN model possesses considerably high accuracy for ACPF calculation, even for large-scale power systems. Also, the training time is within an acceptable range given that the training is completed off-line.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNNtable1.png){: style="width: 600px; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNNtable1.png){: style="width: 500px; float: center; border: 10px"}
 
 In Table 2, the last column shows the acceleration based on the computing time of DCNNN and the model-based ACPF method. The DCNNN approach is from 129 to 240 times faster than the latter, with an average of 205 times faster. This is because the well-trained DCNNN has high generalization to unseen test cases, and it can automatically generate AC power flow results and classify system security status under the new given input without iterative calculation of power flows.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNNtable2.png){: style="width: 600px; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNNtable2.png){: style="width: 400px; float: center; border: 10px"}
 
 Useful links:
 1. [A short letter for deep CNN-based contingency screening](https://ieeexplore.ieee.org/abstract/document/8705389)
