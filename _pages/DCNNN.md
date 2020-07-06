@@ -20,7 +20,7 @@ To validate the efficiency and accuracy of DCNNN, we compare the screening resul
 
 In Table 1, the errors of  and v are the per unit mean absolute value over the test set compared with the results from model-based ACPF calculation. The classification accuracy is the ratio between the number of test samples that have been correctly classified based on their security status and the total number of test samples. As the table shows, DCNNN model possesses considerably high accuracy for ACPF calculation, even for large-scale power systems. Also, the training time is within an acceptable range given that the training is completed off-line.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNNtable1.png){: style="width: 350px; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNNtable1.png){: style="width: 400px; float: center; border: 10px"}
 
 In Table 2, the last column shows the acceleration based on the computing time of DCNNN and the model-based ACPF method. The DCNNN approach is from 129 to 240 times faster than the latter, with an average of 205 times faster. This is because the well-trained DCNNN has high generalization to unseen test cases, and it can automatically generate AC power flow results and classify system security status under the new given input without iterative calculation of power flows.
 
