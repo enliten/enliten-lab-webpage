@@ -1,6 +1,6 @@
 ---
 title: "Enliten Lab - DCNNN"
-layout: textlay
+layout: pagelay
 excerpt: "Enliten Lab -- DCNNN"
 sitemap: false
 permalink: /DCNNN/
