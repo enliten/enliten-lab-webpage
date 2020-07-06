@@ -55,6 +55,7 @@ systems using cutting-edge machine learning, optimization, and control technique
 Our lab develops mathematical optimization models for generation scheduling and flexible load management. We apply state-of-the-art machine learning
 algorithms for power flow calculation, contingency screening, voltage stability analysis, and cyber security vulnerability mitigation. We also develop large-scale
 power system testbeds for research verification and demonstration (see [Research](research)).
+[DCNNN](DCNNN)
 
 We are with the Department of Electrical Engineering and Computer Science (EECS), UTK, which is located within driving distances to Nashville, Atlanta, and the Great Smoky Mountains. We are part of [CURENT](https://curent.utk.edu), an Education Research Center funded by the National Science Foundation (NSF) and Department of Energy (DOE).
 
