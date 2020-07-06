@@ -29,7 +29,7 @@ In Table 2, the last column shows the acceleration based on the computing time o
 Useful links:
 1. [A short letter for deep CNN-based contingency screening](https://ieeexplore.ieee.org/abstract/document/8705389)
 2. [A full paper for cascading outage screening using deep CNN and depth-first search algorithm](https://ieeexplore.ieee.org/abstract/document/8972476)
-3. [DCNNN toolbox user manual](user_manual)
+3. [DCNNN toolbox user manual](C:/enliten/downloads/DCNNN_User_Manual.pdf)
 
 Contact Info:
 Dr. Fangxing Li, University of Tennessee, Knoxville, fli6@utk.edu
