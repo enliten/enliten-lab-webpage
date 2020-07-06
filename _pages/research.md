@@ -16,7 +16,7 @@ Based on the latest developed deep convolutional neural network (deep CNN), we d
 
 The proposed DCNNN has been tested on several standard IEEE test systems and a large-scale European system, and it has also been compared with the model-based AC power flow calculation methods and traditional ANN to verify its accuracy. The data-driven DCNNN has been proved to be 100x times faster than the model-based method. The simulation results prove its potential for working as a fast power system contingency screening tool in real-time applications.
 
-More details of this project can be referred to: [DCNNN](DCNNN) introduction. 
+More details of this project can be referred to: [DCNNN](DCNNN.html) introduction. 
 
 
 ## From AlphaGo to Power System Artificial Intelligence
