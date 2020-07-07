@@ -6,9 +6,9 @@ sitemap: false
 permalink: /research/DCNNN/
 ---
 
-# DCNNN 
+# DCNNN [(back)](https://enliten.utk.edu/research/)
 
-## DCNNN Toolbox for Contingency Screening with 100x Acceleration [(back)](https://enliten.utk.edu/research/)
+## DCNNN Toolbox for Contingency Screening with 100x Acceleration 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNNtoolbox.jpg){: style="width: 600px; float: center; border: 10px"}
 
