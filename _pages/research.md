@@ -12,6 +12,8 @@ permalink: /research/
 
 _Summary provided by Yan Du_
 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNNtoolbox.jpg){: style="width: 600px; float: center; border: 10px"}
+
 Based on the latest developed deep convolutional neural network (deep CNN), we design a novel data-driven toolbox for power system security assessment, named as deep convolutional neural network for N-1 contingency screening, or DCNNN. The increasing penetration of renewable energy makes the traditional N-1 contingency screening highly challenging when a large number of uncertain scenarios need to be combined with contingency screening. The proposed DCNNN extracts the main features from power system raw data in a way similar to image processing, and it formulates a regression model for AC power flow calculation with high accuracy. Once the deep CNN is well-trained, it will obtain high generalization and can work in a nearly computation-free fashion for unseen instances such as topological changes in the N-1 cases and uncertain renewable scenarios, which is highly desirable for large-scale power system contingency screening.
 
 The proposed DCNNN has been tested on several standard IEEE test systems and a large-scale European system, and it has also been compared with the model-based AC power flow calculation methods and traditional ANN to verify its accuracy. The data-driven DCNNN has been proved to be 100x times faster than the model-based method. The simulation results prove its potential for working as a fast power system contingency screening tool in real-time applications.
@@ -23,8 +25,6 @@ More details of this project can be referred to: [DCNNN](DCNNN) introduction.
 ## From AlphaGo to Power System Artificial Intelligence
 
 _Summary provided by Yan Du_
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNNtoolbox.jpg){: style="width: 600px; float: center; border: 10px"}
 
 Funded by the [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1809458), this project mainly focuses on utilizing the latest artificial intelligence (AI) techniques to solve the most complicated power system problems, like electricity market bidding and cascading outage screening. We are now living in an era that has witnessed the tremendous success of the deep learning (DL) technology in multiple fields like medical imaging, machine translation, and auto pilot, etc.  The DL method is like a black box. It “learns” the mapping between different variables via massive data mining and can automatically generate a proximate model representation without referring to analytical solution. Such data-driven method is especially desired when the problem is difficult to model due to hidden information or is computationally intractable due to high dimension or nonconvexity.
 
