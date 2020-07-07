@@ -6,9 +6,11 @@ sitemap: false
 permalink: /research/DCNNN/
 ---
 
-# DCNNN
+# DCNNN [back](research)
 
 ## DCNNN Toolbox for Contingency Screening with 100x Acceleration
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/DuAlphaGoPowerAi.png){: style="width: 600px; float: center; border: 10px"}
 
 The main idea behind DCNNN is to train a deep CNN for classifying system security status as well as obtaining system state parameters. Fig. 1. explains how the DCNNN toolbox works for fast contingency screening. Given a power system, the bus active/reactive power injection, and the bus self-susceptance elements are selected as the input to deep CNN. The deep CNN consists of two convolutional (Conv) layers and three fully-connected (FC) layer. The function of the convolutional layers is to extract features from the input power system raw data. The function of the fully-connected layer is to map the extracted features to the desired output.
 
