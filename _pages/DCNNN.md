@@ -32,7 +32,7 @@ Useful links:
   
 · [DCNNN User Manual]({{ site.url }}{{ site.baseurl }}/downloads/DCNNN_User_Manual.pdf)
   
-· [A short letter for deep CNN-based contingency screening：](https://ieeexplore.ieee.org/abstract/document/8705389) Yan Du, Fangxing Li, Jiang Li, and Tongxin Zheng, "Achieving 100x Acceleration for N-1 Contingency Screening with Uncertain Scenarios using Deep Convolutional Neural Network," IEEE Transactions on Power Systems, vol. 34, no. 4, pp. 3303-3305, Jul. 2019.
+· [A short letter for deep CNN-based contingency screening：](https://ieeexplore.ieee.org/abstract/document/8705389) Yan Du, Fangxing Li, Jiang Li, and Tongxin Zheng, "Achieving 100x Acceleration for N-1 Contingency Screening with Uncertain Scenarios using Deep Convolutional Neural Network," IEEE Transactions on Power Systems, vol. 34, no. 4, pp. 3303-3305, July 2019.
   
 · [A full paper for cascading outage screening using deep CNN and depth-first search algorithm：](https://ieeexplore.ieee.org/abstract/document/8972476) Yan Du, Fangxing Li, Tongxin Zheng, Jiang Li, "Fast Cascading Outage Screening based on Deep Convolutional Neural Network and Depth-First Search," IEEE Transactions on Power Systems, vol. 35, no. 4, pp. 2704-2715, July 2020.
 
