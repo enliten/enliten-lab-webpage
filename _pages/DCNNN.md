@@ -30,7 +30,7 @@ In Table 2, the last column shows the acceleration based on the computing time o
 
 Useful links:
   
-· [DCNNN toolbox user manual]({{ site.url }}{{ site.baseurl }}/downloads/DCNNN_User_Manual.pdf)
+· [DCNNN User Manual]({{ site.url }}{{ site.baseurl }}/downloads/DCNNN_User_Manual.pdf)
   
 · [A short letter for deep CNN-based contingency screening：](https://ieeexplore.ieee.org/abstract/document/8705389) Yan Du, Fangxing Li, Jiang Li, and Tongxin Zheng, "Achieving 100x Acceleration for N-1 Contingency Screening with Uncertain Scenarios using Deep Convolutional Neural Network," IEEE Transactions on Power Systems, vol. 34, no. 4, pp. 3303-3305, Jul. 2019.
   
