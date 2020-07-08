@@ -29,9 +29,9 @@ In Table 2, the last column shows the acceleration based on the computing time o
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNNtable2.png){: style="width: 400px; float: center; border: 10px"}
 
 Useful links:
-1. [A short letter for deep CNN-based contingency screening](https://ieeexplore.ieee.org/abstract/document/8705389)
-2. [A full paper for cascading outage screening using deep CNN and depth-first search algorithm](https://ieeexplore.ieee.org/abstract/document/8972476)
-3. [DCNNN toolbox user manual]({{ site.url }}{{ site.baseurl }}/downloads/DCNNN_User_Manual.pdf)
+· [DCNNN toolbox user manual]({{ site.url }}{{ site.baseurl }}/downloads/DCNNN_User_Manual.pdf)
+· [A short letter for deep CNN-based contingency screening：](https://ieeexplore.ieee.org/abstract/document/8705389) Yan Du, Fangxing Li, Jiang Li, and Tongxin Zheng, "Achieving 100x Acceleration for N-1 Contingency Screening with Uncertain Scenarios using Deep Convolutional Neural Network," IEEE Transactions on Power Systems, vol. 34, no. 4, pp. 3303-3305, Jul. 2019.
+· [A full paper for cascading outage screening using deep CNN and depth-first search algorithm：](https://ieeexplore.ieee.org/abstract/document/8972476) Yan Du, Fangxing Li, Tongxin Zheng, Jiang Li, "Fast Cascading Outage Screening based on Deep Convolutional Neural Network and Depth-First Search," IEEE Transactions on Power Systems, vol. 35, no. 4, pp. 2704-2715, July 2020.
 
-Contact Info:
-Dr. Fangxing Li, University of Tennessee, Knoxville, fli6@utk.edu
+
+Contact Info: Dr. Fangxing(Fran) Li, University of Tennessee, Knoxville, fli6@utk.edu, 865-974-8401
