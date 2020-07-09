@@ -12,7 +12,7 @@ permalink: /research/
 
 _Summary provided by Yan Du_
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNNtoolbox.jpg){: style="width: 600px; float: middle; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNN_toolbox.jpg){: style="width: 600px; float: middle; border: 10px"}
 
 Based on the latest developed deep convolutional neural network (deep CNN), we design a novel data-driven toolbox for power system security assessment, named as deep convolutional neural network for N-1 contingency screening, or DCNNN. The increasing penetration of renewable energy makes the traditional N-1 contingency screening highly challenging when a large number of uncertain scenarios need to be combined with contingency screening. The proposed DCNNN extracts the main features from power system raw data in a way similar to image processing, and it formulates a regression model for AC power flow calculation with high accuracy. Once the deep CNN is well-trained, it will obtain high generalization and can work in a nearly computation-free fashion for unseen instances such as topological changes in the N-1 cases and uncertain renewable scenarios, which is highly desirable for large-scale power system contingency screening.
 
