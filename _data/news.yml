@@ -1,8 +1,37 @@
-# - date: 17. June 2015
-#   headline: Welcome Kees!
-#
-# - date: 17. June 2015
-#   headline: "Maarten wins the LION image award! Check out his <a href='https://www.physics.leidenuniv.nl/index.php?id=11573&news=757&type=lion&ln=EN'>submission</a>.<img src='/images/newspic/Contest.jpg' class='img-responsive' style='max-width:192px' />"
+- date: 14 October 2020
+  headline: CURENT LTB was Selected as 2020 R&D 100 Award Recipient! Congratulations!
+  link: https://curent.utk.edu/news/press-releases/curent-ltb-selected-2020-rd-100-award-recipient/
+  link_text: Press releases
+
+- date: 21 September 2020
+  headline: DCNNN Project was honored as a R&D 100 Finalist! Congratulations!
+  link: https://www.eecs.utk.edu/curent-eecs-faculty-win-rd-100-award-finalist-for-another/
+  link_text: EECS News
+  link: https://curent.utk.edu/news/press-releases/dcnnn-project-curent-researchers-honored-rd-100-finalist/
+  link_text: Press releases
+
+- date: July 2020
+  headline: Our paper ‘Adjustable and distributionally robust chance-constrained economic dispatch considering wind power uncertainty’ received the Best Paper Award (among all 2019 papers) issued by Journal of Modern Power Systems and Clean Energy (MPCE, IF=3.090)
+  link: https://link.springer.com/article/10.1007/s40565-019-0526-5
+  link_text: Publication link
+
+- date: 17 March 2020
+  headline: Dr. Li was Appointed Editor-in-Chief of IEEE Journal! Congratulations!
+  link: https://www.eecs.utk.edu/eecs-professor-appointed-editor-in-chief-of-ieee-journal-2/
+  link_text: EECS News
+
+- date: 20 November 2019
+  headline: Haoyu (Harry) Yuan and Dr.Li has receive IEEE PES Technical Committee Prize Paper Award! Congratulations!
+  link: https://www.eecs.utk.edu/two-eecs-curent-alumni-and-eecs-curent-professor-receive-ieee-pes-technical-committee-prize-paper-award/
+  link_text: EECS News
+
+- date: 20 November 2019
+  headline: Our paper ‘Interval optimization based operating strategy for gas-electricity integrated energy systems considering demand response and wind uncertainty’ receive Highly Cited Paper Award from the journal Applied Energy! 
+  link: https://www.eecs.utk.edu/eecs-curent-alum-and-two-faculty-members-receive-highly-cited-paper-award/
+  link_text: EECS News
+  link: https://www.sciencedirect.com/science/article/pii/S0306261915013550
+  link_text: Publication link
+
 - date: 12 December 2019
   headline: Qingxing, Cody, and Evan graduated. Congratulations!
   #link: https://calendar.utk.edu/event/defense_of_a_phd_dissertation-_qingxin_shi#.XSH1JlxKi00
