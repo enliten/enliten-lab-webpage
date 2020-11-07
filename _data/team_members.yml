@@ -13,25 +13,25 @@
   info: Research Assistant Professor since Spring 2019
   email: hcui7@utk.edu
   number_educ: 2
-  education1: PhD, the Enliten Lab, UTK
+  education1: PhD in 2018, the Enliten Lab, UTK
   education2: MS in 2013 and BS in 2011, Southeast University, China
+  
+- name: Mingjian Cui
+  photo: MingjianCui.jpg
+  info: Research Scientist since June 2020
+  email: mcui2@utk.edu
+  number_educ: 2
+  education1: PhD in 2015, Wuhan University
+  education2: BS in 2010, Wuhan University
 
-- name: Qingxin Shi
+- name: Qingxin Charles Shi
   photo: QingxinShi.jpg
   info: Research Assistant Professor since Summer 2019
   email: qshi1@vols.utk.edu
   number_educ: 3
-  education1: PhD, the Enliten Lab, UTK
+  education1: PhD in 2019, the Enliten Lab, UTK
   education2: MS in 2014, Unversity of Alberta
   education3: BS in 2011, Zhejiang University, China
-
-- name: Xiao Kou
-  photo: XiaoKou.jpg
-  info: PhD student since Spring 2016
-  email: xkou1@vols.utk.edu
-  number_educ: 2
-  education1: MS in 2015, Unversity of Denver
-  education2: BS in 2012, Beihang University, China
 
 - name: Wei Feng
   photo: WeiFeng.jpg
@@ -40,14 +40,6 @@
   number_educ: 2
   education1: MS in 2015, Chinese Academy of Sciences
   education2: BS in 2012, Tsinghua University, China
-
-- name: Yan Du
-  photo: YanDu.jpg
-  info: PhD student since Fall 2016
-  email: ydu15@vols.utk.edu
-  number_educ: 2
-  education1: MS in 2016, Chinese Academy of Sciences
-  education2: BS in 2013, Tianjin University, China
 
 - name: Mariana Magdy Mounir Kamel
   photo: MarianaKamel.jpg
@@ -104,20 +96,6 @@
   education1: BS in 2017, Taiyuan University of Technology
   education2: MS in 2020, Taiyuan University of Technology
   education3: MS in 2020, University of West Florida
-
-#- name: Mingshen Wang
-#  photo: MingshenWang.jpg
-#  info: Visiting PhD student since Fall 2017
-#  email: mwang38@vols.utk.edu
-#  number_educ: 1
-#  education1: PhD student in Tianjin University, China
- 
-#- name: Jing Tu
-# photo: JingTu.jpg
-#  info: Visiting PhD student since Fall 2018
-#  email: tujing.128@gmail.com
-#  number_educ: 1
-#  education1: PhD student in North China Electric Power University, China
 
 - name: "This could be you !"
   photo: rock.jpg

@@ -1,3 +1,27 @@
+- name: Yan Du
+  photo: YanDu.jpg
+  duration: Aug 2016 - Jun 2020
+  employment: Pacific Northwest National Laboratory (PNNL)
+  alumni_role: Ph.D.
+  email: 
+  number_educ: 0
+ 
+- name: Xiao Kou
+  photo: XiaoKou.jpg
+  duration: Aug 2016 - May 2020
+  employment: Open Systems International, Inc. (OSI)
+  alumni_role: Ph.D.
+  email: 
+  number_educ: 0 
+  
+- name: Xiao Kou
+  photo: XiaoKou.jpg
+  info: PhD student since Spring 2016
+  email: xkou1@vols.utk.edu
+  number_educ: 2
+  education1: MS in 2015, Unversity of Denver
+  education2: BS in 2012, Beihang University, China
+  
 - name: Riyasat Azim
   photo: RiyasatAzim.jpg
   duration: December 2016
@@ -131,7 +155,7 @@
 - name: Cody Rooks
   photo: CodyRooks.jpg
   duration: December 2019
-  employment: 
+  employment: Open Systems International, Inc. (OSI)
   alumni_role: M.S.
   number_educ: 0
   education1: 
@@ -139,7 +163,7 @@
 - name: Evan McKee
   photo: EvanMcKee.jpg
   duration: December 2019
-  employment:
+  employment: EN Engineering, LLC
   alumni_role: M.S.
   number_educ: 0
   education1: 

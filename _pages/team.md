@@ -272,4 +272,20 @@ Navigate to [faculty, staff, and PhD students](#Faculty,-Staff-and-PhD-Students)
     <td>Mr. Haibing Wang (August 2017 - August 2018), Visiting PHD Student from Shanghai Jiaotong University</td>
     <td></td>
   </tr>
+  <tr>
+    <td>Mr. Mingshen Wang (August 2017 - August 2019), Visiting PHD Student from Tianjin University</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Mr. Jing Tu (October 2018 - October 2019), Visiting PHD Student from North China Electric Power University</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Ms. Yunwei Shen (October 2017 - March 2019), Visiting PHD Student from Southeast University</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Ms. Nan Zhao (October 2018 - October 2019), Visiting PHD Student from Southeast University</td>
+    <td></td>
+  </tr>
 </table>
