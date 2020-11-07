@@ -13,15 +13,7 @@
   alumni_role: Ph.D.
   email: 
   number_educ: 0 
-  
-- name: Xiao Kou
-  photo: XiaoKou.jpg
-  info: PhD student since Spring 2016
-  email: xkou1@vols.utk.edu
-  number_educ: 2
-  education1: MS in 2015, Unversity of Denver
-  education2: BS in 2012, Beihang University, China
-  
+
 - name: Riyasat Azim
   photo: RiyasatAzim.jpg
   duration: December 2016
@@ -91,7 +83,7 @@
   photo: QinranHu.png
   duration: August 2015
   employment: Southeast University
-  alumni_role: Ph.D.
+  alumni_role: Ph.D.，M.S.
   number_educ: 0
   education1:
 
@@ -180,14 +172,6 @@
   photo: BenOllis.jpg
   duration: April 2014
   employment: Oak Ridge National Laboratory (ORNL)
-  alumni_role: M.S.
-  number_educ: 0
-  education1:
-
-- name: Qinran Hu
-  photo: QinranHu.jpg
-  duration: December 2013
-  employment: continue his PhD study at UTK
   alumni_role: M.S.
   number_educ: 0
   education1:

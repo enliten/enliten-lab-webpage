@@ -225,7 +225,7 @@ Navigate to [faculty, staff, and PhD students](#Faculty,-Staff-and-PhD-Students)
     <td>Cheng Zhang: Summer 2013</td>
   </tr>
   <tr>
-    <td>Dr. Tao Ding (December 2013 - December 2014), Visting PHD student from Tsinghua University</td>
+    <td>Dr. Tao Ding (December 2013 - December 2014), Visting Ph.D. student from Tsinghua University</td>
     <td>Jason Chan: Summer 2013</td>
   </tr>
   <tr>
@@ -265,27 +265,27 @@ Navigate to [faculty, staff, and PhD students](#Faculty,-Staff-and-PhD-Students)
     <td></td>
   </tr>
   <tr>
-    <td>Mr. Haiteng Han (September 2016 - September 2017), Visiting PHD Student from Southeast University</td>
+    <td>Mr. Haiteng Han (September 2016 - September 2017), Visiting Ph.D. Student from Southeast University</td>
     <td></td>
   </tr>
   <tr>
-    <td>Mr. Haibing Wang (August 2017 - August 2018), Visiting PHD Student from Shanghai Jiaotong University</td>
+    <td>Mr. Haibing Wang (August 2017 - August 2018), Visiting Ph.D. Student from Shanghai Jiaotong University</td>
     <td></td>
   </tr>
   <tr>
-    <td>Mr. Mingshen Wang (August 2017 - August 2019), Visiting PHD Student from Tianjin University</td>
+    <td>Mr. Mingshen Wang (August 2017 - August 2019), Visiting Ph.D. Student from Tianjin University</td>
     <td></td>
   </tr>
   <tr>
-    <td>Mr. Jing Tu (October 2018 - October 2019), Visiting PHD Student from North China Electric Power University</td>
+    <td>Mr. Jing Tu (October 2018 - October 2019), Visiting Ph.D. Student from North China Electric Power University</td>
     <td></td>
   </tr>
   <tr>
-    <td>Ms. Yunwei Shen (October 2017 - March 2019), Visiting PHD Student from Southeast University</td>
+    <td>Ms. Yunwei Shen (October 2017 - March 2019), Visiting Ph.D. Student from Southeast University</td>
     <td></td>
   </tr>
   <tr>
-    <td>Ms. Nan Zhao (October 2018 - October 2019), Visiting PHD Student from Southeast University</td>
+    <td>Ms. Nan Zhao (October 2018 - October 2019), Visiting Ph.D. Student from Southeast University</td>
     <td></td>
   </tr>
 </table>
