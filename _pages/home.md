@@ -30,7 +30,7 @@ systems using cutting-edge machine learning, optimization, and control technique
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LTBScreenshot.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Hanlao_LTB.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Hantao_LTB.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/respic/FengGraph1.png" alt="Slide 4" />
@@ -77,5 +77,4 @@ We are grateful for funding from [NSF](https://www.nsf.gov), [DOE](https://www.d
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DOD.png" style="height: 60px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CURENT.png" style="height: 60px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ESTCP.png" style="height: 60px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UT.png" style="height: 60px">
 </figure>

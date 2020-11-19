@@ -12,9 +12,9 @@ permalink: /research/
 
 _Summary provided by Hantao Cui_
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Haotao_LTB.png){: style="width: 700px; float: middle; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Hantao_LTB.png){: style="width: 700px; float: middle; border: 10px"}
 
-The CURENT Large Scale Testbed (LTB) for cyber-physical power grid simulation led by the CURENT research center (headquartered at The University of Tennessee) has been selected as a recipient of the 2020 R&D 100 Awards, which are known as the most prestigious innovation awards program for the past 56 years, honoring 100 great R&D revolutionary ideas and products each year in science and technology.
+The CURENT Large Scale Testbed [(LTB)](https://cepsltb4.curent.utk.edu/wiki/) for cyber-physical power grid simulation led by the CURENT research center (headquartered at The University of Tennessee) has been selected as a recipient of the 2020 R&D 100 Awards, which are known as the most prestigious innovation awards program for the past 56 years, honoring 100 great R&D revolutionary ideas and products each year in science and technology.
 The CURENT LTB is a closed-loop software platform that continuously simulates the dynamics, communication, and control of modern power grids with high penetration of renewable energy. Below is a diagram of the LBT Main Architecture.
 Since released in 2019, the LTB has received four licensed users (including two pending) and also played a critical role for research demonstrations to assist with 5 successes of funded proposals led by external users totaling $3.8 million in which the LTB lead Dr. Li serves as a collaborating site-PI or co-PI.
 
@@ -28,7 +28,7 @@ Distribution systems are geographically dispersed by nature. It may be affected 
 
 Our research initiates with a three-phase signal anomaly detection algorithm. The state of all the monitored signals can be reflected by a single signal. Once an anomaly is detected, the faulted phase could be identified by further processing the voltage and current waveform. Once this is completed, another algorithm is developed to classify the outages by their root causes, e.g., tree contact, animal contact, lightning, etc. Apart from weather condition and faulted phase information, we extract complex features that humans are unable to capture with machine learning methods from the voltage and current waveform and use them for the classification. An open source dataset from EPRI and also data from local utilities are used to test the proposed algorithms.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Haoyuan_ORNL.png){: style="width: 800px; float: middle; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Haoyuan_ORNL.png){: style="width: 800px; float: center; border: 10px"}
 
 
 
@@ -38,7 +38,7 @@ _Summary provided by Buxin She_
 
 Most existing inverter level controllers in microgrids, such as PI controller, sliding mode controller or H2 controller, are based on models. When applied to a new environment or the system has a large disturbance, parameters need re-tuning. The objective of this project is to develop a model-free adaptive control (MAFC) strategy for microgrids, so that the time consuming and inaccurate manual adjustment of microgrid controller parameters can be avoided. To address this concern, we plan to develop a reinforcement learning-based agent to tune the controller parameters adaptively. As shown in the left figure below, after offline training, the RL agent can dynamically adjust the PI controller gains (Kp and Ki) in the voltage recovery progress. In this way, the voltage of the common coupling point can adaptively track the predefined trajectory. The right figure shows that the control results are close to the desired value throughout the response time window. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Buxin_ESTCP.png){: style="width: 700px; float: middle; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Buxin_ESTCP.png){: style="width: 800px; float: middle; border: 10px"}
 
 
 
@@ -47,7 +47,7 @@ Most existing inverter level controllers in microgrids, such as PI controller, s
 
 _Summary provided by Ian Schomer_
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Ian_ORNL.png){: style="width: 500px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Ian_ORNL.png){: style="width: 500px; float: right; border: 10px"}
 
 Daily residential power consumption in aggregate tends to have a large peak that places stress on the distribution system and induces high operational costs. This work shows that coordinated transactive control of noncritical loads within a residential community or microgrid can help to alleviate peak-time stress on the distribution system by flattening the aggregate load curve. Treating the load forecaster as a high-fidelity, expensive black-box function, a new algorithm utilizing Bayesian optimization (BO) is proposed to achieve the best solution under uncertainty with minimal computing effort. The proposed BO algorithm manipulates the shape of the aggregate load by sending a unique transactive price signal to each home. The thermostatically controlled loads (TCLs) act out of self-interest in response to the given price while maintaining user comfort, and the Home Energy Management System (HEMS) exploits the thermal energy retention of the home for the benefit of the community.
 The proposed algorithm was tested alongside a thermal home model designed with configurable comfort and energy usage parameters. Simulations on a multi-hour time horizon confirm consistent neighborhood-level peak power reduction, as well as energy cost savings for customers on average.
@@ -58,7 +58,7 @@ The proposed algorithm was tested alongside a thermal home model designed with c
 
 _Summary provided by Xiaofei Wang_
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Xiaofei_ORNL.png){: style="width: 500px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Xiaofei_ORNL.png){: style="width: 500px; float: right; border: 10px"}
 
 Inspired by the smart grid concept, the deployment of DERs including photovoltaic (PV), microturbine (MT), wind turbine (WT), and demand response (DR), have been increasing in the past decade in distribution systems. It is believed that DERs are driving the transition from a passive distribution system to a market-based one that aims to achieve the optimal allocation of all DERs.
 In this project, a distribution level electricity market framework is established and a day ahead market clearing model is proposed. The distribution-level market aims to provide a platform for transparent energy transactions and economic allocations among various market participants. The distribution system operator (DSO) receives bids and offers from all market participants and makes financial settlements. Then, the DSO publishes distribution locational marginal price (DLMP) to all participants. Such price signals will guide the power generation/consumption of DERs. For example, residential users, via load aggregators (LAs), may optimize their load demands based on price signals to reduce their electricity bills. 
