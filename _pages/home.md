@@ -30,16 +30,16 @@ systems using cutting-edge machine learning, optimization, and control technique
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LTBScreenshot.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/PowerSystemAI.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Hanlao_LTB.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LTBScreenshot.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/FengGraph1.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/PowerSystemAI.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/DuAlphaGoPowerAi.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LTBScreenshot.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/DCNNNstructure.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -58,7 +58,7 @@ power system testbeds for research verification and demonstration (see [Research
 
 We are with the Department of Electrical Engineering and Computer Science (EECS), UTK, which is located within driving distances to Nashville, Atlanta, and the Great Smoky Mountains. We are part of [CURENT](https://curent.utk.edu), an Education Research Center funded by the National Science Foundation (NSF) and Department of Energy (DOE).
 
- **We have openings for new PhD students, Postdocs, and Master students!** [(details)]({{ site.url }}{{ site.baseurl }}/vacancies)
+ **We have openings for new PhD students, Postdocs, and Master students!** [(details)](https://enliten.utk.edu/openings/)
 
 We are grateful for funding from [NSF](https://www.nsf.gov), [DOE](https://www.doe.gov), [ORNL](https://www.ornl.gov), [EPRI](https://www.epri.com), [ISO-NE](https://www.iso-ne.com), [GEIRI-NA](https://geirina.sgcc.com.cn) and multiple funding sources. See the list of funded projects here.
 
@@ -74,4 +74,8 @@ We are grateful for funding from [NSF](https://www.nsf.gov), [DOE](https://www.d
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GEIRINA.png" style="height: 60px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ISONE.jpg" style="height: 60px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LLNL.png" style="height: 50px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DOD.png" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CURENT.png" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ESTCP.png" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UT.png" style="height: 60px">
 </figure>

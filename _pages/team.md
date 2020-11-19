@@ -169,6 +169,8 @@ Navigate to [faculty, staff, and PhD students](#Faculty,-Staff-and-PhD-Students)
 {% endif %}
 
 
+#lab-visitors
+
 <table align="center" style="width:100%">
 <col width="75%">
 <col width="25%">
