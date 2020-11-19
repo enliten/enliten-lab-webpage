@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-## Large Scale Testbed (LTB) for cyber-physical power grid 
+## Large Scale Testbed [(LTB)](https://cepsltb4.curent.utk.edu/wiki/) for cyber-physical power grid 
 
 _Summary provided by Hantao Cui_
 
