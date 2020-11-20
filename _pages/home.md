@@ -30,7 +30,7 @@ systems using cutting-edge machine learning, optimization, and control technique
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LTBScreenshot.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Hantao_LTB.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ltb-architecture.gif" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/respic/FengGraph1.png" alt="Slide 4" />
