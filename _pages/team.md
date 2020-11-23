@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We have open positions for new PhD students, Postdocs, and Master students!** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)
+ **We have open positions for new PhD students, Postdocs, and Master students!** [(see openings)](https://enliten.utk.edu/openings/)
 
 Navigate to [faculty, staff, and PhD students](#Faculty,-Staff-and-PhD-Students), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), and [past visitors](#lab-visitors).
 
