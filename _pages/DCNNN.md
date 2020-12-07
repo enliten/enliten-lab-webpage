@@ -3,10 +3,10 @@ title: "Enliten Lab - DCNNN"
 layout: textlay
 excerpt: "Enliten Lab -- DCNNN"
 sitemap: false
-permalink: /research/DCNNN/
+permalink: /projects/DCNNN/
 ---
 
-# DCNNN [(back)](https://enliten.utk.edu/research/)
+# DCNNN
 
 ## DCNNN Toolbox for Contingency Screening with 100x Acceleration 
 

@@ -1,24 +1,28 @@
 ---
-title: "Enliten Lab - Research"
+title: "Enliten Lab - Projects"
 layout: textlay
-excerpt: "Enliten Lab -- Research"
+excerpt: "Enliten Lab -- Projects"
 sitemap: false
-permalink: /research/
+permalink: /projects/
 ---
 
-# Research
+# Projects
+{:.no_toc}
 
-## Large Scale Testbed [(LTB)](https://cepsltb4.curent.utk.edu/wiki/) for cyber-physical power grid 
+## Table of Contents
+{:.no_toc}
 
-_Summary provided by Hantao Cui_
+* TOC
+{:toc}
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/ltb-architecture.gif){: style="width: 800px; float: middle; border: 10px"}
+## Large Scale Testbed [(LTB)](LTB) for cyber-physical power grid
+
+_Summary provided by Hantao Cui, click for_ [![]({{ site.url }}{{ site.baseurl }}/images/more-info-button.png){: style="width: 120px; float: center; border: 0px"}](LTB)
 
 The CURENT Large Scale Testbed [(LTB)](https://cepsltb4.curent.utk.edu/wiki/) for cyber-physical power grid simulation led by the CURENT research center (headquartered at The University of Tennessee) has been selected as a recipient of the 2020 R&D 100 Awards, which are known as the most prestigious innovation awards program for the past 56 years, honoring 100 great R&D revolutionary ideas and products each year in science and technology.
 The CURENT LTB is a closed-loop software platform that continuously simulates the dynamics, communication, and control of modern power grids with high penetration of renewable energy. Below is a diagram of the LBT Main Architecture.
 Since released in 2019, the LTB has received four licensed users (including two pending) and also played a critical role for research demonstrations to assist with 5 successes of funded proposals led by external users totaling $3.8 million in which the LTB lead Dr. Li serves as a collaborating site-PI or co-PI.
-
-
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ltb-architecture.gif){: style="width: 700px; float: middle; border: 10px"}
 
 ## Machine Learning Enabled Detection and Classification of Distribution Power System Outages
 
@@ -65,18 +69,15 @@ In this project, a distribution level electricity market framework is establishe
 
 
 
-## DCNNN Toolbox for Contingency Screening with 100x Acceleration
+## [DCNNN Toolbox](DCNNN) for Contingency Screening with 100x Acceleration
 
-_Summary provided by Yan Du_
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNN_toolbox.jpg){: style="width: 600px; float: middle; border: 10px"}
+_Summary provided by Yan Du, click for_ [![]({{ site.url }}{{ site.baseurl }}/images/more-info-button.png){: style="width: 120px; float: center; border: 0px"}](DCNNN)
 
 Based on the latest developed deep convolutional neural network (deep CNN), we design a novel data-driven toolbox for power system security assessment, named as deep convolutional neural network for N-1 contingency screening, or DCNNN. The increasing penetration of renewable energy makes the traditional N-1 contingency screening highly challenging when a large number of uncertain scenarios need to be combined with contingency screening. The proposed DCNNN extracts the main features from power system raw data in a way similar to image processing, and it formulates a regression model for AC power flow calculation with high accuracy. Once the deep CNN is well-trained, it will obtain high generalization and can work in a nearly computation-free fashion for unseen instances such as topological changes in the N-1 cases and uncertain renewable scenarios, which is highly desirable for large-scale power system contingency screening.
 
 The proposed DCNNN has been tested on several standard IEEE test systems and a large-scale European system, and it has also been compared with the model-based AC power flow calculation methods and traditional ANN to verify its accuracy. The data-driven DCNNN has been proved to be 100x times faster than the model-based method. The simulation results prove its potential for working as a fast power system contingency screening tool in real-time applications.
 
-More details of this project can be referred to: [DCNNN](DCNNN) introduction. 
-
+![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNN_toolbox.jpg){: style="width: 600px; float: middle; border: 10px"}
 
 
 ## From AlphaGo to Power System Artificial Intelligence

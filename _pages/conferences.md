@@ -1,7 +1,7 @@
 ---
 title: "Enliten Lab - Conferences"
 layout: gridlay
-excerpt: "Enliten Lab -- Recent Conferences."
+excerpt: "Enliten Lab -- Conferences."
 sitemap: false
 permalink: /conferences/
 ---
