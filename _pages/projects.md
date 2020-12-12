@@ -20,7 +20,7 @@ permalink: /projects/
 
 _Summary provided by Hantao Cui_ [![]({{ site.url }}{{ site.baseurl }}/images/more-info-button2.png){: style="width: 120px; float: center; border: 10px"}](LTB)
 
-The CURENT Large Scale Testbed (LTB)) for cyber-physical power grid simulation led by the CURENT research center (headquartered at The University of Tennessee) has been selected as a recipient of the 2020 R&D 100 Awards, which are known as the most prestigious innovation awards program for the past 56 years, honoring 100 great R&D revolutionary ideas and products each year in science and technology.
+The CURENT Large Scale Testbed (LTB) for cyber-physical power grid simulation led by the CURENT research center (headquartered at The University of Tennessee) has been selected as a recipient of the 2020 R&D 100 Awards, which are known as the most prestigious innovation awards program for the past 56 years, honoring 100 great R&D revolutionary ideas and products each year in science and technology.
 
 The CURENT LTB is a closed-loop software platform that continuously simulates the dynamics, communication, and control of modern power grids with high penetration of renewable energy. Below is a diagram of the LBT Main Architecture.
 Since released in 2019, the LTB has received four licensed users (including two pending) and also played a critical role for research demonstrations to assist with 5 successes of funded proposals led by external users totaling $3.8 million in which the LTB lead Dr. Li serves as a collaborating site-PI or co-PI.
