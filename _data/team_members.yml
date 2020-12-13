@@ -24,22 +24,22 @@
   education1: PhD in 2015, Wuhan University
   education2: BS in 2010, Wuhan University
 
-- name: Qingxin Charles Shi
-  photo: QingxinShi.jpg
-  info: Research Assistant Professor since Summer 2019
-  email: qshi1@vols.utk.edu
-  number_educ: 3
-  education1: PhD in 2019, the Enliten Lab, UTK
-  education2: MS in 2014, Unversity of Alberta
-  education3: BS in 2011, Zhejiang University, China
-
-- name: Wei Feng
-  photo: WeiFeng.jpg
-  info: PhD student since Fall 2016
-  email: wfeng4@vols.utk.edu
+- name: Jin Zhao
+  photo: JinZhao.jpg
+  info: Research Scientist since Dec 2020
+  email: jzhao44@utk.edu
   number_educ: 2
-  education1: MS in 2015, Chinese Academy of Sciences
-  education2: BS in 2012, Tsinghua University, China
+  education1: PhD in 2020, Shandong University
+  education2: BS in 2015, Shandong University
+
+- name: Hang Shuai [🗎](https://sites.google.com/view/hangshuai/home?authuser=0)
+  photo: HangShuai.jpg
+  info: Research Scientist since Dec 2020
+  email: hshuai1@utk.edu
+  number_educ: 3
+  education1: PhD in 2019, Huazhong University of Science and Technology
+  education2: MS in 2015, Huazhong University of Science and Technology
+  education3: BS in 2013, Wuhan Institute of Technology
 
 - name: Mariana Magdy Mounir Kamel
   photo: MarianaKamel.jpg

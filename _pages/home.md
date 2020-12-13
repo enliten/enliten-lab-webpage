@@ -36,10 +36,10 @@ systems using cutting-edge machine learning, optimization, and control technique
             <img src="{{ site.url }}{{ site.baseurl }}/images/respic/FengGraph1.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/DuAlphaGoPowerAi.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Ian_ORNL.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/DCNNNstructure.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/proj_ltb_arch.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

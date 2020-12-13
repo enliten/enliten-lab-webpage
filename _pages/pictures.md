@@ -6,11 +6,22 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Gallery](#gallery)
 
-## Gallery
-(Right-click *'view image'* to see a larger image.)
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic1.jpg){: style="width: 800px; float: center; border: 10px"}
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic2.jpg){: style="width: 800px; float: center; border: 10px"}
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic3.jpg){: style="width: 800px; float: center; border: 10px"}
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic4.jpg){: style="width: 800px; float: center; border: 10px"}
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic5.jpg){: style="width: 800px; float: center; border: 10px"}
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic6.jpg){: style="width: 800px; float: center; border: 10px"}
+
+
 {% assign number_printed = 0 %}
+
 {% for pic in site.data.pictures_Leiden %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
