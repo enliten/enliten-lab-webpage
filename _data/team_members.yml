@@ -41,7 +41,7 @@
   education2: MS in 2015, Huazhong University of Science and Technology
   education3: BS in 2013, Wuhan Institute of Technology
 
-- name: Mariana Magdy Mounir Kamel
+- name: Mariana Magdy Mounir Kamel [🗎](https://scholar.google.com/citations?user=4aP8i4YAAAAJ&hl=en)
   photo: MarianaKamel.jpg
   info: PhD student since Fall 2016
   email: ydu15@vols.utk.edu
@@ -49,7 +49,7 @@
   education1: MS in 2016, University of Tennessee at Chattanooga
   education2: BS in 2012, Khartoum University, Sudan
 
-- name: Qiwei Zhang
+- name: Qiwei Zhang [🗎](https://scholar.google.com/citations?user=pLJCykQAAAAJ&hl=en)
   photo: QiweiZhang.jpg
   info: PhD student since Fall 2018
   email: qzhang41@vols.utk.edu
@@ -57,7 +57,7 @@
   education1: MS in 2018, the Enliten Lab, UTK
   education2: BS in 2016, North China Electric Power University
 
-- name: Ben Ollis
+- name: Ben Ollis [🗎](https://www.ornl.gov/staff-profile/ben-b-ollis)
   photo: BenOllis.jpg
   info: PhD student since Fall 2018
   email: tollis@vols.utk.edu
@@ -65,7 +65,7 @@
   education1: MS in 2014, the Enliten Lab, UTK
   education2: Full time staff with ORNL
   
-- name: Xiaofei Wang
+- name: Xiaofei Wang [🗎](https://scholar.google.com/citations?user=HTZdiOUAAAAJ&hl=en)
   photo: XiaofeiWang.jpg
   info: PhD student since Fall 2019
   email: xwang158@vols.utk.edu
@@ -73,14 +73,14 @@
   education1: MS in 2017, Wuhan University
   education2: BS in 2014, North China Electric Power University
   
-- name: Haoyuan Sun
+- name: Haoyuan Sun [🗎](https://scholar.google.com/citations?hl=en&user=OCJ03A4AAAAJ&hl=en)
   photo: HaoyuanSun.png
   info: PhD student since Fall 2019
   email: hsun19@vols.utk.edu
   number_educ: 1
   education1: BS in 2019, Xi'an Jiao Tong University
 
-- name: Buxin She
+- name: Buxin She [🗎](https://scholar.google.com/citations?user=qqcJQ4UAAAAJ&hl=en)
   photo: BuxinShe.jpg
   info: PhD student since Spring 2020
   email: bshe@vols.utk.edu
@@ -97,9 +97,44 @@
   education2: MS in 2020, Taiyuan University of Technology
   education3: MS in 2020, University of West Florida
 
+- name: Vince Wilson
+  phote: VinceWilson.jpg
+  info: MS student since Spring 2021
+  email: vwilso17@utk.edu
+  number_educ: 1
+  education1: BS in 2020, University of Dayton
+
+- name: Ian Schomer
+  photo: IanSchomer.jpg
+  info: MS student since Fall 2019
+  email: ischomer@vols.utk.edu
+  number_educ: 1
+  education1: BS in 2019, Maryville College
+
+- name: Trey Mingee
+  photo: TreyMingee.jpg
+  info: MS student since Spring 2021
+  email: vxl191@vols.utk.edu
+  number_educ: 1
+  education1: BS in 2020, University of Tennessee Knoxville
+
+- name: Nick West
+  photo: NickWest.jpg
+  info: MS student since Spring 2021
+  email: nwest13@vols.utk.edu
+  number_educ: 1
+  education1: BS in 2020, University of Tennessee Knoxville
+
+- name: Justin Martinez
+  photo: 
+  info: MS student since Spring 2021
+  email: jmart152@vols.utk.edu
+  number_educ: 1
+  education1: BS in 2020, University of Tennessee Knoxville
+
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="https://enliten.utk.edu/vacancies">openings</a> for more info
+  info: See <a href="https://enliten.utk.edu/openings/">openings</a> for more info
   email: fli6@utk.edu
   number_educ: 0
   education1:

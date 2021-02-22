@@ -60,7 +60,7 @@ We are with the Department of Electrical Engineering and Computer Science (EECS)
 
  **We have openings for new PhD students, Postdocs, and Master students!** [(details)](https://enliten.utk.edu/openings/)
 
-We are grateful for funding from [NSF](https://www.nsf.gov), [DOE](https://www.doe.gov), [ORNL](https://www.ornl.gov), [EPRI](https://www.epri.com), [ISO-NE](https://www.iso-ne.com), [GEIRI-NA](https://geirina.sgcc.com.cn), [ESTCP](https://www.serdp-estcp.org/About-SERDP-and-ESTCP/About-ESTCP), [NREL](https://www.nrel.gov/), [AR](https://achillearesearch.com/) and multiple funding sources. See the list of funded projects here.
+We are grateful for funding from [NSF](https://www.nsf.gov), [DOE](https://www.doe.gov), [ORNL](https://www.ornl.gov), [EPRI](https://www.epri.com), [ISO-NE](https://www.iso-ne.com), [GEIRI-NA](https://geirina.sgcc.com.cn), [ESTCP](https://www.serdp-estcp.org/About-SERDP-and-ESTCP/About-ESTCP), [NREL](https://www.nrel.gov/), [AR](https://achillearesearch.com/), [RTX](https://www.rtx.com/), [RevV](https://www.ornl.gov/programs/revv) and multiple funding sources. See the list of funded projects here.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DOE.png" style="height: 60px">
@@ -79,4 +79,6 @@ We are grateful for funding from [NSF](https://www.nsf.gov), [DOE](https://www.d
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ESTCP.png" style="height: 60px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NREL_Logo.jpg" style="height: 60px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Achillea_Research_Logo.jpg" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RTX.png" style="height: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/REVV.png" style="height: 60px">
 </figure>
