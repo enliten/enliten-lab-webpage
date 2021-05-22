@@ -1,4 +1,4 @@
-I"C<p>The Enliten (Electric Network Laboratory for Intelligent Transactive ENergy) Lab is a research group led by <a href="http://web.eecs.utk.edu/~fli6/">Professor Fangxing “Fran” Li</a> at the <a href="https://eecs.utk.edu">University of Tennessee</a>. Our goal is to enhance the secure and economic operation of electric power
+I"G<p>The Enliten (Electric Network Laboratory for Intelligent Transactive ENergy) Lab is a research group led by <a href="http://web.eecs.utk.edu/~fli6/">Professor Fangxing “Fran” Li</a> at the <a href="https://eecs.utk.edu">University of Tennessee</a>. Our goal is to enhance the secure and economic operation of electric power
 systems using cutting-edge machine learning, optimization, and control techniques.</p>
 
 <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover">
@@ -52,7 +52,7 @@ power system testbeds for research verification and demonstration (see <a href="
 
 <p><strong>We have openings for new PhD students, Postdocs, and Master students!</strong> <a href="https://enliten.utk.edu/openings/">(details)</a></p>
 
-<p>We are grateful for funding from <a href="https://www.nsf.gov">NSF</a>, <a href="https://www.doe.gov">DOE</a>, <a href="https://www.ornl.gov">ORNL</a>, <a href="https://www.epri.com">EPRI</a>, <a href="https://www.iso-ne.com">ISO-NE</a>, <a href="https://geirina.sgcc.com.cn">GEIRI-NA</a>, <a href="https://www.serdp-estcp.org/About-SERDP-and-ESTCP/About-ESTCP">ESTCP</a>, <a href="https://www.nrel.gov/">NREL</a>, <a href="https://achillearesearch.com/">AR</a> and multiple funding sources. See the list of funded projects here.</p>
+<p>We are grateful for funding from <a href="https://www.nsf.gov">NSF</a>, <a href="https://www.doe.gov">DOE</a>, <a href="https://www.ornl.gov">ORNL</a>, <a href="https://www.epri.com">EPRI</a>, <a href="https://www.iso-ne.com">ISO-NE</a>, <a href="https://geirina.sgcc.com.cn">GEIRI-NA</a>, <a href="https://www.serdp-estcp.org/About-SERDP-and-ESTCP/About-ESTCP">ESTCP</a>, <a href="https://www.nrel.gov/">NREL</a>, <a href="https://achillearesearch.com/">AR</a>, <a href="https://www.rtx.com/">RTX</a>, <a href="https://www.ornl.gov/programs/revv">RevV</a> and multiple funding sources. See the list of funded projects here.</p>
 
 <figure class="fourth">
   <p><img src="http://localhost:4000/images/logopic/DOE.png" style="height: 60px" />
@@ -70,6 +70,8 @@ power system testbeds for research verification and demonstration (see <a href="
   <img src="http://localhost:4000/images/logopic/CURENT.png" style="height: 60px" />
   <img src="http://localhost:4000/images/logopic/ESTCP.png" style="height: 60px" />
   <img src="http://localhost:4000/images/logopic/NREL_Logo.jpg" style="height: 60px" />
-  <img src="http://localhost:4000/images/logopic/Achillea_Research_Logo.jpg" style="height: 60px" /></p>
+  <img src="http://localhost:4000/images/logopic/Achillea_Research_Logo.jpg" style="height: 60px" />
+  <img src="http://localhost:4000/images/logopic/RTX.png" style="height: 60px" />
+  <img src="http://localhost:4000/images/logopic/REVV.png" style="height: 60px" /></p>
 </figure>
 :ET
