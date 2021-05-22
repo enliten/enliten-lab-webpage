@@ -7,18 +7,31 @@ permalink: /pictures/
 
 # Pictures
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic1.jpg){: style="width: 800px; float: center; border: 10px"}
+- Dec. 2019  Celebrating graduation of Charles Shi, Cody Rooks and Ev
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic09.jpg){: style="width: 800px; float: center; border: 10px"}
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic2.jpg){: style="width: 800px; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic08.jpg){: style="width: 800px; float: center; border: 10px"}
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic3.jpg){: style="width: 800px; float: center; border: 10px"}
+- Sept. 2019
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic07.jpg){: style="width: 800px; float: center; border: 10px"}
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic4.jpg){: style="width: 800px; float: center; border: 10px"}
+- Sept. 2019  Group Meeting
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic06.jpg){: style="width: 800px; float: center; border: 10px"}
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic5.jpg){: style="width: 800px; float: center; border: 10px"}
+- Aug. 2019  Picnic
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic05.jpg){: style="width: 800px; float: center; border: 10px"}
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic6.jpg){: style="width: 800px; float: center; border: 10px"}
+- Aug. 2019
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic04.jpg){: style="width: 800px; float: center; border: 10px"}
 
+- Dec. 2015  Hooding ceremony of Drs. Qinran Hu, Xue Li, and Kumar Prabakar
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic03.jpg){: style="width: 800px; float: center; border: 10px"}
+
+- Oct. 2015
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic02.jpg){: style="width: 800px; float: center; border: 10px"}
+
+- Apr. 2015
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic01.jpg){: style="width: 800px; float: center; border: 10px"}
 
 {% assign number_printed = 0 %}
 
