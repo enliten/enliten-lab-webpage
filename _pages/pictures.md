@@ -7,24 +7,25 @@ permalink: /pictures/
 
 # Pictures
 
-- Dec. 2019  Celebrating graduation of Charles Shi, Cody Rooks and Ev
+- Dec. 2019
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic09.jpg){: style="width: 800px; float: center; border: 10px"}
 
+- Dec. 2019
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic08.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - Sept. 2019
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic07.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Sept. 2019  Group Meeting
+- Sept. 2019
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic06.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Aug. 2019  Picnic
+- Aug. 2019
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic05.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - Aug. 2019
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic04.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Dec. 2015  Hooding ceremony of Drs. Qinran Hu, Xue Li, and Kumar Prabakar
+- Dec. 2015
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic03.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - Oct. 2015
