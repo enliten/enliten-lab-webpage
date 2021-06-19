@@ -7,31 +7,31 @@ permalink: /pictures/
 
 # Pictures
 
-- Dec. 2019
+- Dec. 2019 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic09.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Dec. 2019
+- Dec. 2019 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic08.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Sept. 2019
+- Sept. 2019 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic07.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Sept. 2019
+- Sept. 2019 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic06.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Aug. 2019
+- Aug. 2019 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic05.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Aug. 2019
+- Aug. 2019 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic04.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Dec. 2015
+- Dec. 2015 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic03.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Oct. 2015
+- Oct. 2015 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic02.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Apr. 2015
+- Apr. 2015 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic01.jpg){: style="width: 800px; float: center; border: 10px"}
 
 {% assign number_printed = 0 %}
