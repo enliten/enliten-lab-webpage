@@ -7,6 +7,9 @@ permalink: /pictures/
 
 # Pictures
 
+- Jun. 2021 <br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic10.jpg){: style="width: 800px; float: center; border: 10px"}
+
 - Dec. 2019 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic09.jpg){: style="width: 800px; float: center; border: 10px"}
 
