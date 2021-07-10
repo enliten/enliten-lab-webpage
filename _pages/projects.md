@@ -15,11 +15,10 @@ permalink: /projects/
 * TOC
 {:toc}
 
-<br>
 
 --------------
 
-## Another Market Simulator (AMS) 
+## Another Market Simulator (AMS)  
 
 _Summary provided by Qiwei Zhang_
 
@@ -28,23 +27,22 @@ The Another Market Simulator (AMS) is a power market simulation platform built w
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS1.png){: style="height: 300px; float:left; border 10px;"}
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS2.png){: style="height: 300px; float:left; border 10px;"}
 
-The detailed instruction on AMS can be found in the user manual (click to download): [AMS User Manual]({{ site.url }}{{ site.baseurl }}/downloads/AMS_User_mannual_V0.pdf)
+The detailed instruction on AMS can be found in the user manual (click to download): [AMS User Manual]({{ site.url }}{{ site.baseurl }}/downloads/AMS_User_mannual_V0.pdf)  
 
 <br>
 
 --------------
 
-## Large Scale Testbed (LTB) for cyber-physical power grid simulation
+## Large Scale Testbed (LTB) for cyber-physical power grid simulation  
 
-_Summary provided by Hantao Cui_ [![]({{ site.url }}{{ site.baseurl }}/images/more-info-button2.png){: style="width: 120px; float: center; border: 10px"}](LTB)
-
-The CURENT Large Scale Testbed (LTB) for cyber-physical power grid simulation led by the CURENT research center (headquartered at The University of Tennessee) has been selected as a recipient of the 2020 R&D 100 Awards, which are known as the most prestigious innovation awards program for the past 56 years, honoring 100 great R&D revolutionary ideas and products each year in science and technology.
+_Summary provided by Hantao Cui_ [![]({{ site.url }}{{ site.baseurl }}/images/more-info-button2.png){: style="width: 120px; float: center; border: 10px"}](LTB)  
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/ltb-architecture-tall.gif){: style="height: 500px; float:right; border5 10px;"}
 
+The CURENT Large Scale Testbed (LTB) for cyber-physical power grid simulation led by the CURENT research center (headquartered at The University of Tennessee) has been selected as a recipient of the 2020 R&D 100 Awards, which are known as the most prestigious innovation awards program for the past 56 years, honoring 100 great R&D revolutionary ideas and products each year in science and technology.
+
 The CURENT LTB is a closed-loop software platform that continuously simulates the dynamics, communication, and control of modern power grids with high penetration of renewable energy. Below is a diagram of the LBT Main Architecture. Since released in 2019, the LTB has received four licensed users (including two pending) and also played a critical role for research demonstrations to assist with 5 successes of funded proposals led by external users totaling $3.8 million in which the LTB lead Dr. Li serves as a collaborating site-PI or co-PI.
 
-<br>
 
 --------------
 
