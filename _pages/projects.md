@@ -25,19 +25,17 @@ _Summary provided by Qiwei Zhang_
 The Another Market Simulator (AMS) is a power market simulation platform built within the CURENT large-scale testbed (LTB). AMS is the market module of LTB for solving steady-state market clearing and scheduling problems.  The current version of AMS is capable of solving three types of problems: (1) unit commitment (UC), (2) economic dispatch (ED), and (3) real-time ex-post pricing. The models in AMS are formulated and optimized with Gurobipy, and the simulation results can be outputted as a .xslx file or figure plot based on users’ preferences. The following figure shows a sample of UCED results plotted by AMS.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS1.png){: style="height: 300px; float:left; border 10px;"}
-![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS2.png){: style="height: 300px; float:left; border 10px;"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS2.png){: style="height: 300px; float:left; border 10px;"} <br>
 
-The detailed instruction on AMS can be found in the user manual (click to download): [AMS User Manual]({{ site.url }}{{ site.baseurl }}/downloads/AMS_User_mannual_V0.pdf)  
-
-<br>
+The detailed instruction on AMS can be found in the user manual (click to download): [AMS User Manual]({{ site.url }}{{ site.baseurl }}/downloads/AMS_User_mannual_V0.pdf).
 
 --------------
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ltb-architecture-tall.gif){: style="height: 500px; float:right; border5 10px;"}
 
 ## Large Scale Testbed (LTB) for cyber-physical power grid simulation  
 
 _Summary provided by Hantao Cui_ [![]({{ site.url }}{{ site.baseurl }}/images/more-info-button2.png){: style="width: 120px; float: center; border: 10px"}](LTB)  
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/ltb-architecture-tall.gif){: style="height: 500px; float:right; border5 10px;"}
 
 The CURENT Large Scale Testbed (LTB) for cyber-physical power grid simulation led by the CURENT research center (headquartered at The University of Tennessee) has been selected as a recipient of the 2020 R&D 100 Awards, which are known as the most prestigious innovation awards program for the past 56 years, honoring 100 great R&D revolutionary ideas and products each year in science and technology.
 
