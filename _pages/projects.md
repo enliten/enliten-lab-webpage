@@ -22,10 +22,10 @@ permalink: /projects/
 
 _Summary provided by Qiwei Zhang_
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS1.png){: style="height: 300px; float:left; border 10px;"}
-![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS2.png){: style="height: 300px; float:left; border 10px;"} 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS1.png){: style="height: 250px; float:right; border 10px;"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS2.png){: style="height: 250px; float:right; border 10px;"} 
 
-The Another Market Simulator (AMS) is a power market simulation platform built within the CURENT large-scale testbed (LTB). AMS is the market module of LTB for solving steady-state market clearing and scheduling problems.  The current version of AMS is capable of solving three types of problems: (1) unit commitment (UC), (2) economic dispatch (ED), and (3) real-time ex-post pricing. The models in AMS are formulated and optimized with Gurobipy, and the simulation results can be outputted as a .xslx file or figure plot based on users’ preferences. The following figure shows a sample of UCED results plotted by AMS.
+The Another Market Simulator (AMS) is a power market simulation platform built within the CURENT large-scale testbed (LTB). AMS is the market module of LTB for solving steady-state market clearing and scheduling problems.  The current version of AMS is capable of solving three types of problems: (1) unit commitment (UC), (2) economic dispatch (ED), and (3) real-time ex-post pricing. The models in AMS are formulated and optimized with Gurobipy, and the simulation results can be outputted as a .xslx file or figure plot based on users’ preferences. The right figure shows a sample of UCED results plotted by AMS.
 
 The detailed instruction on AMS can be found in the user manual (click to download): [AMS User Manual]({{ site.url }}{{ site.baseurl }}/downloads/AMS_User_mannual_V0.pdf).
 
