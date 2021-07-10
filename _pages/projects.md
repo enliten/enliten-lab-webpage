@@ -24,12 +24,14 @@ The Another Market Simulator (AMS) is a power market simulation platform built w
 
 The detailed instruction on AMS can be found in the user manual (click to download): [AMS User Manual]({{ site.url }}{{ site.baseurl }}/downloads/AMS_User_mannual_V0.pdf)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS1.png){: style="height: 400px; float:left; border5 10px;"} ![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS2.png){: style="height: 400px; float:right; border5 10px;"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS1.png){: style="height: 400px; float:left; border 10px;"} 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS2.png){: style="height: 400px; float:right; border 10px;"}
 
 --------------
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/ltb-architecture-tall.gif){: style="height: 500px; float:right; border5 10px;"}
 ## Large Scale Testbed (LTB) for cyber-physical power grid simulation
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ltb-architecture-tall.gif){: style="height: 500px; float:right; border5 10px;"}
 
 _Summary provided by Hantao Cui_ [![]({{ site.url }}{{ site.baseurl }}/images/more-info-button2.png){: style="width: 120px; float: center; border: 10px"}](LTB)
 
