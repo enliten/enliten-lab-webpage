@@ -22,7 +22,8 @@ _Summary provided by Qiwei Zhang_
 
 The Another Market Simulator (AMS) is a power market simulation platform built within the CURENT large-scale testbed (LTB). AMS is the market module of LTB for solving steady-state market clearing and scheduling problems.  The current version of AMS is capable of solving three types of problems: (1) unit commitment (UC), (2) economic dispatch (ED), and (3) real-time ex-post pricing. The models in AMS are formulated and optimized with Gurobipy, and the simulation results can be outputted as a .xslx file or figure plot based on users’ preferences. The following figure shows a sample of UCED results plotted by AMS.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS2.png){: style="height: 800px; float:right; border 10px;"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS1.png){: style="height: 250px; float:left; border 10px;"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS2.png){: style="height: 250px; float:right; border 10px;"}
 
 The detailed instruction on AMS can be found in the user manual (click to download): [AMS User Manual]({{ site.url }}{{ site.baseurl }}/downloads/AMS_User_mannual_V0.pdf)
 
@@ -36,8 +37,7 @@ The CURENT Large Scale Testbed (LTB) for cyber-physical power grid simulation le
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/ltb-architecture-tall.gif){: style="height: 500px; float:right; border5 10px;"}
 
-The CURENT LTB is a closed-loop software platform that continuously simulates the dynamics, communication, and control of modern power grids with high penetration of renewable energy. Below is a diagram of the LBT Main Architecture.
-Since released in 2019, the LTB has received four licensed users (including two pending) and also played a critical role for research demonstrations to assist with 5 successes of funded proposals led by external users totaling $3.8 million in which the LTB lead Dr. Li serves as a collaborating site-PI or co-PI.
+The CURENT LTB is a closed-loop software platform that continuously simulates the dynamics, communication, and control of modern power grids with high penetration of renewable energy. Below is a diagram of the LBT Main Architecture. Since released in 2019, the LTB has received four licensed users (including two pending) and also played a critical role for research demonstrations to assist with 5 successes of funded proposals led by external users totaling $3.8 million in which the LTB lead Dr. Li serves as a collaborating site-PI or co-PI.
 
 --------------
 
@@ -47,10 +47,9 @@ _Summary provided by Haoyuan Sun_
 
 Distribution systems are geographically dispersed by nature. It may be affected by various factors, such as vegetation, weather, animal and human behaviors. Current response procedure to an outage massively rely on expert experience and tend to be time-consuming. Automatic outage event detection and classification will help to reduce the responding and restoration time. However, this issue is less addressed with existing research done in this focused area. In this applied research, a series of machine learning-based algorithms are proposed to detect and classify the outage events. Available data include three phase voltage & current waveforms and weather conditions during the forced distribution system outages. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Haoyuan_ORNL.png){: style="width: 800px; float: center; border: 10px"}
-
 Our research initiates with a three-phase signal anomaly detection algorithm. The state of all the monitored signals can be reflected by a single signal. Once an anomaly is detected, the faulted phase could be identified by further processing the voltage and current waveform. Once this is completed, another algorithm is developed to classify the outages by their root causes, e.g., tree contact, animal contact, lightning, etc. Apart from weather condition and faulted phase information, we extract complex features that humans are unable to capture with machine learning methods from the voltage and current waveform and use them for the classification. An open source dataset from EPRI and also data from local utilities are used to test the proposed algorithms.
 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Haoyuan_ORNL.png){: style="width: 800px; float: center; border: 10px"}
 
 --------------
 
