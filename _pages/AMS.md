@@ -8,7 +8,7 @@ permalink: /projects/AMS/
 
 #  Another Market Simulator (AMS) 
 
-[Download the AMS User Manual]({{ site.url }}{{ site.baseurl }}/downloads/AMS_User_mannual_V1.pdf)
+[Download the AMS User Mannual]({{ site.url }}{{ site.baseurl }}/downloads/AMS_User_mannual_V1.pdf)
 
 ## Overview
 
