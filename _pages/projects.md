@@ -20,7 +20,7 @@ permalink: /projects/
 
 ## Another Market Simulator (AMS)  
 
-_Summary provided by Qiwei Zhang_[![]({{ site.url }}{{ site.baseurl }}/images/more-info-button2.png){: style="width: 120px; float: center; border: 10px"}](LTB)  
+_Summary provided by Qiwei Zhang_[![]({{ site.url }}{{ site.baseurl }}/images/more-info-button2.png){: style="width: 120px; float: center; border: 10px"}](AMS)  
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS1.png){: style="height: 150px; float:right; border 10px;"}
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/AMS2.png){: style="height: 150px; float:right; border 10px;"} 
