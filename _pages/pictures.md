@@ -7,6 +7,12 @@ permalink: /pictures/
 
 # Pictures
 
+- Dec. 2016 - Three generations of professors: Prof. Hantao Cui (now at Oklahoma State), Prof. Li, and Prof. Robert Broadwater (Virginia Tech, Dr. Li’s former advisor), from left to right. <br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic12.jpg){: style="width: 800px; float: center; border: 10px"}
+
+- Dec. 2020 – Graduation during pandemic <br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic11.jpg){: style="width: 800px; float: center; border: 10px"}
+
 - Jun. 2021 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic10.jpg){: style="width: 800px; float: center; border: 10px"}
 

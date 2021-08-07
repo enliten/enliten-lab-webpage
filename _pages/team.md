@@ -149,7 +149,7 @@ Navigate to [faculty, staff, and PhD/MS students](#Faculty,-Staff-and-PhD-Studen
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   {% endif %}
   <h4>{{ member.name }}</h4>
-  <i>  {{member.employment }} <br>  {{ member.alumni_role }} Alumni<br> {{ member.duration }}
+  <i>  {{member.employment }} <br>  {{ member.alumni_role }} Alum<br> {{ member.duration }}
   {% if member.email %} <br>email: <{{ member.email }}> {% endif %} </i>
   <ul style="overflow: hidden">
 

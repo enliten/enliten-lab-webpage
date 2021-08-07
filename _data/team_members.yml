@@ -106,8 +106,14 @@
 
 - name: Trey Mingee
   photo: TreyMingee.jpg
-  info: MS student since Spring 2021
+  info: MS student since Fall 2020
   email: vxl191@vols.utk.edu
+  number_educ: 1
+  education1: BS in 2020, University of Tennessee Knoxville
+
+- name: Justin Martinez
+  info: MS student since Fall 2020
+  email: jmart152@vols.utk.edu
   number_educ: 1
   education1: BS in 2020, University of Tennessee Knoxville
 
@@ -115,12 +121,6 @@
   photo: NickWest.jpg
   info: MS student since Spring 2021
   email: nwest13@vols.utk.edu
-  number_educ: 1
-  education1: BS in 2020, University of Tennessee Knoxville
-
-- name: Justin Martinez
-  info: MS student since Spring 2021
-  email: jmart152@vols.utk.edu
   number_educ: 1
   education1: BS in 2020, University of Tennessee Knoxville
 
@@ -133,3 +133,5 @@
   education2:
   education3:
   education4:
+
+--------------
