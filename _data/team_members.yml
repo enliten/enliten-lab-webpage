@@ -88,6 +88,22 @@
   number_educ: 1
   education1: BS in 2020, University of Dayton
 
+- name: Jingzi Liu
+  photo: LJZ.jpg
+  info: PhD student since Fall 2021
+  email: jliu104@vols.utk.edu
+  number_educ: 2
+  education1: MS in 2020, Hohai University
+  education2: BS in 2017, North China University of Water Resources and Electric Power
+
+- name: Mishal Alonize
+  photo: Mishal.jpg
+  info: PhD student since Fall 2021
+  email: malonize@vols.utk.edu
+  number_educ: 2
+  education1: MS in 2015, University of Bridgeport
+  education2: BS in 2009, Riyadh College of Technology
+
 - name: Trey Mingee
   photo: TreyMingee.jpg
   info: MS student since Spring 2021
@@ -107,22 +123,6 @@
   email: jmart152@vols.utk.edu
   number_educ: 1
   education1: BS in 2020, University of Tennessee Knoxville
-
-- name: Jingzi Liu
-  photo: LJZ.jpg
-  info: PhD student since Fall 2021
-  email: jliu104@vols.utk.edu
-  number_educ: 2
-  education1: MS in 2020, Hohai University
-  education2: BS in 2017, North China University of Water Resources and Electric Power
-
-- name: Mishal Alonize
-  photo: Mishal.jpg
-  info: PhD student since Fall 2021
-  email: malonize@vols.utk.edu
-  number_educ: 2
-  education1: MS in 2015, University of Bridgeport
-  education2: BS in 2009, Riyadh College of Technology
 
 - name: "This could be you !"
   photo: rock.jpg
