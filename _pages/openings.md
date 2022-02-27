@@ -17,11 +17,12 @@ For all positions, previous experience in one or more of the following areas is 
 - microgrid, distributed generation, and distribution system
 - power system economics and optimization
 - power system stability, control and protection
-- power system reliability.
+- power system reliability
+- deep learning and deep reinforcement learning
 
 ### Current open positions
 
-We have 1 (one) PhD student opening in power system and artificial intelligence for 2021.
+We have 1 (one) PhD student opening in power system and artificial intelligence for 2022.
 
 ### Applications for PhD and Postdoc positions
 If you are interested in pursuing a M.S. or Ph.D. degree at UT with financial support, please send a formal, complete application to UT Graduate School. Otherwise, your case will not be forwarded to EECS for departmental consideration of admission. Also, you may check our EECS department website about our EECS graduate program.

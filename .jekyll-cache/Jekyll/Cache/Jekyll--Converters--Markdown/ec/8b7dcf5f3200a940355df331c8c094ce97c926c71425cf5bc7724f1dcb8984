@@ -1,12 +1,12 @@
-I"<h1 id="another-market-simulator-ams">Another Market Simulator (AMS)</h1>
+I"<h1 id="another-market-simulator-ams">Another Market Simulator (AMS)</h1>
 
-<p><a href="http://localhost:4000/downloads/AMS_User_mannual_V1.pdf">Download the AMS User Mannual</a></p>
+<p><a href="https://enliten.utk.edu/downloads/AMS_User_mannual_V1.pdf">Download the AMS User Mannual</a></p>
 
 <h2 id="overview">Overview</h2>
 
 <p>The Another Market Simulator (AMS) is a Python-based power market simulation package which has been integrated into the CURENT large-scale testbed (LTB). AMS is the market module of the CURENT LTB for solving steady-state market clearing and scheduling problems.  The current version of AMS is capable of solving three types of problems: (1) security constrained unit commitment (SCUC), (2) security constrained economic dispatch (SCED), and (3) real-time ex-post pricing. The models in AMS are formulated and optimized with Gurobipy, and the simulation results can be outputted as .xslx files or figure plots based on users’ preferences. The following figure shows a sample of SCUC/SCED results plotted by AMS.</p>
 
-<p><img src="http://localhost:4000/images/respic/AMS1.png" alt="" style="height: 250px; float:left; border 10px;" /> <img src="http://localhost:4000/images/respic/AMS2.png" alt="" style="height: 250px; float:center; border 10px;" /></p>
+<p><img src="https://enliten.utk.edu/images/respic/AMS1.png" alt="" style="height: 250px; float:left; border 10px;" /> <img src="https://enliten.utk.edu/images/respic/AMS2.png" alt="" style="height: 250px; float:center; border 10px;" /></p>
 
 <h2 id="points-of-contact">Points of Contact</h2>
 

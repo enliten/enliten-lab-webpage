@@ -172,7 +172,6 @@ Navigate to [faculty, staff, and PhD/MS students](#Faculty,-Staff-and-PhD-Studen
 
 ## Lab-visitors
 
-
 <table align="center" style="width:100%">
 <col width="75%">
 <col width="25%">

@@ -1,4 +1,4 @@
-I"Y\<h1 class="no_toc" id="projects">Projects</h1>
+I"{\<h1 class="no_toc" id="projects">Projects</h1>
 
 <h2 class="no_toc" id="table-of-contents">Table of Contents</h2>
 
@@ -22,20 +22,20 @@
 
 <h2 id="another-market-simulator-ams">Another Market Simulator (AMS)</h2>
 
-<p><em>Summary provided by Qiwei Zhang</em><a href="AMS"><img src="http://localhost:4000/images/more-info-button2.png" alt="" style="width: 120px; float: center; border: 10px" /></a></p>
+<p><em>Summary provided by Qiwei Zhang</em><a href="AMS"><img src="https://enliten.utk.edu/images/more-info-button2.png" alt="" style="width: 120px; float: center; border: 10px" /></a></p>
 
-<p><img src="http://localhost:4000/images/respic/AMS1.png" alt="" style="height: 150px; float:right; border 10px;" />
-<img src="http://localhost:4000/images/respic/AMS2.png" alt="" style="height: 150px; float:right; border 10px;" /></p>
+<p><img src="https://enliten.utk.edu/images/respic/AMS1.png" alt="" style="height: 150px; float:right; border 10px;" />
+<img src="https://enliten.utk.edu/images/respic/AMS2.png" alt="" style="height: 150px; float:right; border 10px;" /></p>
 
 <p>The Another Market Simulator (AMS) is a Python-based power market simulation package which has been integrated into the CURENT large-scale testbed (LTB). AMS is the market module of the CURENT LTB for solving steady-state market clearing and scheduling problems.  The current version of AMS is capable of solving three types of problems: (1) security constrained unit commitment (SCUC), (2) security constrained economic dispatch (SCED), and (3) real-time ex-post pricing. The models in AMS are formulated and optimized with Gurobipy, and the simulation results can be outputted as .xslx files or figure plots based on users’ preferences. The right figure shows a sample of SCUC/SCED results plotted by AMS.</p>
 
 <hr />
 
-<p><img src="http://localhost:4000/images/respic/ltb-architecture-tall.gif" alt="" style="height: 500px; float:right; border5 10px;" /></p>
+<p><img src="https://enliten.utk.edu/images/respic/ltb-architecture-tall.gif" alt="" style="height: 500px; float:right; border5 10px;" /></p>
 
 <h2 id="large-scale-testbed-ltb-for-cyber-physical-power-grid-simulation">Large Scale Testbed (LTB) for cyber-physical power grid simulation</h2>
 
-<p><em>Summary provided by Hantao Cui</em> <a href="LTB"><img src="http://localhost:4000/images/more-info-button2.png" alt="" style="width: 120px; float: center; border: 10px" /></a></p>
+<p><em>Summary provided by Hantao Cui</em> <a href="LTB"><img src="https://enliten.utk.edu/images/more-info-button2.png" alt="" style="width: 120px; float: center; border: 10px" /></a></p>
 
 <p>The CURENT Large Scale Testbed (LTB) for cyber-physical power grid simulation led by the CURENT research center (headquartered at The University of Tennessee) has been selected as a recipient of the 2020 R&amp;D 100 Awards, which are known as the most prestigious innovation awards program for the past 56 years, honoring 100 great R&amp;D revolutionary ideas and products each year in science and technology.</p>
 
@@ -51,7 +51,7 @@
 
 <p>Our research initiates with a three-phase signal anomaly detection algorithm. The state of all the monitored signals can be reflected by a single signal. Once an anomaly is detected, the faulted phase could be identified by further processing the voltage and current waveform. Once this is completed, another algorithm is developed to classify the outages by their root causes, e.g., tree contact, animal contact, lightning, etc. Apart from weather condition and faulted phase information, we extract complex features that humans are unable to capture with machine learning methods from the voltage and current waveform and use them for the classification. An open source dataset from EPRI and also data from local utilities are used to test the proposed algorithms.</p>
 
-<p><img src="http://localhost:4000/images/respic/Haoyuan_ORNL.png" alt="" style="width: 800px; float: center; border: 10px" /></p>
+<p><img src="https://enliten.utk.edu/images/respic/Haoyuan_ORNL.png" alt="" style="width: 800px; float: center; border: 10px" /></p>
 
 <hr />
 
@@ -61,7 +61,7 @@
 
 <p>Most existing inverter level controllers in microgrids, such as PI controller, sliding mode controller or H2 controller, are based on models. When applied to a new environment or the system has a large disturbance, parameters need re-tuning. The objective of this project is to develop a model-free adaptive control (MAFC) strategy for microgrids, so that the time consuming and inaccurate manual adjustment of microgrid controller parameters can be avoided. To address this concern, we plan to develop a reinforcement learning-based agent to tune the controller parameters adaptively. As shown in the left figure below, after offline training, the RL agent can dynamically adjust the PI controller gains (Kp and Ki) in the voltage recovery progress. In this way, the voltage of the common coupling point can adaptively track the predefined trajectory. The right figure shows that the control results are close to the desired value throughout the response time window.</p>
 
-<p><img src="http://localhost:4000/images/respic/Buxin_ESTCP.png" alt="" style="width: 800px; float: middle; border: 10px" /></p>
+<p><img src="https://enliten.utk.edu/images/respic/Buxin_ESTCP.png" alt="" style="width: 800px; float: middle; border: 10px" /></p>
 
 <hr />
 
@@ -69,7 +69,7 @@
 
 <p><em>Summary provided by Ian Schomer</em></p>
 
-<p><img src="http://localhost:4000/images/respic/Ian_ORNL.png" alt="" style="width: 500px; float: right; border: 10px" /></p>
+<p><img src="https://enliten.utk.edu/images/respic/Ian_ORNL.png" alt="" style="width: 500px; float: right; border: 10px" /></p>
 
 <p>Daily residential power consumption in aggregate tends to have a large peak that places stress on the distribution system and induces high operational costs. This work shows that coordinated transactive control of noncritical loads within a residential community or microgrid can help to alleviate peak-time stress on the distribution system by flattening the aggregate load curve. Treating the load forecaster as a high-fidelity, expensive black-box function, a new algorithm utilizing Bayesian optimization (BO) is proposed to achieve the best solution under uncertainty with minimal computing effort. The proposed BO algorithm manipulates the shape of the aggregate load by sending a unique transactive price signal to each home. The thermostatically controlled loads (TCLs) act out of self-interest in response to the given price while maintaining user comfort, and the Home Energy Management System (HEMS) exploits the thermal energy retention of the home for the benefit of the community.
 The proposed algorithm was tested alongside a thermal home model designed with configurable comfort and energy usage parameters. Simulations on a multi-hour time horizon confirm consistent neighborhood-level peak power reduction, as well as energy cost savings for customers on average.</p>
@@ -80,7 +80,7 @@ The proposed algorithm was tested alongside a thermal home model designed with c
 
 <p><em>Summary provided by Xiaofei Wang</em></p>
 
-<p><img src="http://localhost:4000/images/respic/Xiaofei_ORNL.png" alt="" style="width: 500px; float: left; border: 10px" /></p>
+<p><img src="https://enliten.utk.edu/images/respic/Xiaofei_ORNL.png" alt="" style="width: 500px; float: left; border: 10px" /></p>
 
 <p>Inspired by the smart grid concept, the deployment of DERs including photovoltaic (PV), microturbine (MT), wind turbine (WT), and demand response (DR), have been increasing in the past decade in distribution systems. It is believed that DERs are driving the transition from a passive distribution system to a market-based one that aims to achieve the optimal allocation of all DERs.
 In this project, a distribution level electricity market framework is established and a day ahead market clearing model is proposed. The distribution-level market aims to provide a platform for transparent energy transactions and economic allocations among various market participants. The distribution system operator (DSO) receives bids and offers from all market participants and makes financial settlements. Then, the DSO publishes distribution locational marginal price (DLMP) to all participants. Such price signals will guide the power generation/consumption of DERs. For example, residential users, via load aggregators (LAs), may optimize their load demands based on price signals to reduce their electricity bills.</p>
@@ -89,9 +89,9 @@ In this project, a distribution level electricity market framework is establishe
 
 <h2 id="dcnnn-toolbox-for-contingency-screening-with-100x-acceleration"><a href="DCNNN">DCNNN Toolbox</a> for Contingency Screening with 100x Acceleration</h2>
 
-<p><em>Summary provided by Yan Du</em> <a href="DCNNN"><img src="http://localhost:4000/images/more-info-button2.png" alt="" style="width: 120px; float: center; border: 10px" /></a></p>
+<p><em>Summary provided by Yan Du</em> <a href="DCNNN"><img src="https://enliten.utk.edu/images/more-info-button2.png" alt="" style="width: 120px; float: center; border: 10px" /></a></p>
 
-<p><img src="http://localhost:4000/images/respic/DCNNN_toolbox.jpg" alt="" style="width: 500px; float:right; border: 10px" /></p>
+<p><img src="https://enliten.utk.edu/images/respic/DCNNN_toolbox.jpg" alt="" style="width: 500px; float:right; border: 10px" /></p>
 
 <p>Based on the latest developed deep convolutional neural network (deep CNN), we design a novel data-driven toolbox for power system security assessment, named as deep convolutional neural network for N-1 contingency screening, or DCNNN. The increasing penetration of renewable energy makes the traditional N-1 contingency screening highly challenging when a large number of uncertain scenarios need to be combined with contingency screening. The proposed DCNNN extracts the main features from power system raw data in a way similar to image processing, and it formulates a regression model for AC power flow calculation with high accuracy. Once the deep CNN is well-trained, it will obtain high generalization and can work in a nearly computation-free fashion for unseen instances such as topological changes in the N-1 cases and uncertain renewable scenarios, which is highly desirable for large-scale power system contingency screening.</p>
 
@@ -107,7 +107,7 @@ In this project, a distribution level electricity market framework is establishe
 
 <p>The application of deep learning in the power system is still at an initial stage. Like human board games, the power system engineers face quantities of practical grid planning and operation scenarios that are with extreme modelling complexity and computation overhead, where the data-driven deep learning method can serve as a highly reliable and efficient alternative way to overcome the above difficulties.  We have been working on implementing the deep convolutional neural network (deep CNN) for N-1 security assessment under uncertain operation scenarios, and the deep reinforcement learning (deep RL) for optimizing energy management for multi-microgrid and day-ahead market bidding strategy of GENCOs and have gained some promising results. We believe that there is high potential for the deep learning method to continue to outshine in future power system researches.</p>
 
-<p><img src="http://localhost:4000/images/respic/DuAlphaGoPowerAi.png" alt="" style="width: 800px; float: center; border: 10px" /></p>
+<p><img src="https://enliten.utk.edu/images/respic/DuAlphaGoPowerAi.png" alt="" style="width: 800px; float: center; border: 10px" /></p>
 
 <hr />
 
@@ -115,7 +115,7 @@ In this project, a distribution level electricity market framework is establishe
 
 <p><em>Summary provided by Xiao Kou</em></p>
 
-<p><img src="http://localhost:4000/images/respic/KouDR.png" alt="" style="width: 500px; float: left" />
+<p><img src="https://enliten.utk.edu/images/respic/KouDR.png" alt="" style="width: 500px; float: left" />
 Existing demand response (DR) research has primarily focused on the deployments for industrial customers. However, residential load accounts for 37% of the total electricity consumption in the United States (2013) and suggest a significant missed opportunity. Unlike industrial load, the residential load is composed of numerous low-power home appliances, and the electricity consumption habits of residential customers are highly varied and dynamic.</p>
 
 <p>In this project, a distributed control scheme to coordinate large-scale residential demand response is proposed through coordination of Home Energy Management Systems (HEMS). In the proposed framework, end-use customers do not have to release the operating status of their home appliances to the load aggregator or their neighbors, which considerably protects the privacy and reduces the communication burden. Also, the distributed algorithm ensures the computational burden of the load aggregator and ensures the feasibility of the proposed algorithm for large-scale residential DR applications.</p>
@@ -126,7 +126,7 @@ Existing demand response (DR) research has primarily focused on the deployments 
 
 <p><em>Summary provided by Qingxin Shi</em></p>
 
-<p><img src="http://localhost:4000/images/respic/ShiThermostatLoad.png" alt="" style="width: 350px; float: right; border: 10px" />
+<p><img src="https://enliten.utk.edu/images/respic/ShiThermostatLoad.png" alt="" style="width: 350px; float: right; border: 10px" />
 In recent years, the increasing penetration of renewable energy sources challenges power system frequency stability. Thermostatic loads can be controlled for frequency regulation with little impact on customers’ comfort. This research proposes a thermostatic load control (TLC) strategy, in which electric water heaters (EWHs) are utilized for primary frequency regulation (PFR) and heating, ventilation and air-conditioners (HVACs) are for secondary frequency regulation (SFR).</p>
 
 <p>The innovation of this research includes two aspects. First, the demand profile modeling of the EWH and HVAC indicates that these two loads are complementary in the daytime. Therefore, they can provide a relatively stable frequency reserve. Second, the progressive load recovery is considered in the control scheme so that the load rebound effect can be avoided. With TLC strategy, the load aggregator can organize a large population of loads for the provision of a frequency reserve. Consequently, the requirement of generator spinning reserve is reduced.</p>
@@ -137,8 +137,8 @@ In recent years, the increasing penetration of renewable energy sources challeng
 
 <p><em>Summary provided by Wei Feng</em></p>
 
-<p><img src="http://localhost:4000/images/respic/FengGraph1.png" alt="" style="width: 450px; float: center; border: 10px" />
-<img src="http://localhost:4000/images/respic/FengGraph2.png" alt="" style="width: 450px; float: center; border: 10px" /></p>
+<p><img src="https://enliten.utk.edu/images/respic/FengGraph1.png" alt="" style="width: 450px; float: center; border: 10px" />
+<img src="https://enliten.utk.edu/images/respic/FengGraph2.png" alt="" style="width: 450px; float: center; border: 10px" /></p>
 
 <p>The rapid growing capacity of power transmission in modern power systems have led to an increase in building large-scale AC/DC hybrid system with high voltage direct current (HVDC) transmission lines. However, the added DC connections introduced great challenges into both physical world and power flow analysis, which is one of the most fundamental functions in energy management systems (EMS). To provide an efficient power flow analysis with better computing performance, the graph computing methods are employed in the sequential algorithm.</p>
 
@@ -160,7 +160,7 @@ In recent years, the increasing penetration of renewable energy sources challeng
 
 <p><em>Summary provided by Qiwei Zhang</em></p>
 
-<p><img src="http://localhost:4000/images/respic/ZhangCybersecurity.png" alt="" style="width: 400px; float: left; border: 10px" /></p>
+<p><img src="https://enliten.utk.edu/images/respic/ZhangCybersecurity.png" alt="" style="width: 400px; float: left; border: 10px" /></p>
 
 <p>We are studying how potentially profitable cyber-attacks will impact electricity market operations. The secure operation of today’s smart grids highly depends on the accuracy of measurements from state estimators. Independent system operators (ISOs) will retrieve these measurements to organize the electricity market. The strong coupling of power system cyber operations and physical operations will incite hackers to perform attack for monetary benefits.</p>
 :ET

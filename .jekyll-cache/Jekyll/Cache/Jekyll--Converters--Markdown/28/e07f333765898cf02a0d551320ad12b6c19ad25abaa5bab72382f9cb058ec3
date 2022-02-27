@@ -1,7 +1,7 @@
-I"´<h1 id="curent-large-scale-testbed">CURENT Large-Scale Testbed</h1>
+I"±<h1 id="curent-large-scale-testbed">CURENT Large-Scale Testbed</h1>
 <p><em>The CURENT LTB for wide-area monitoring, modeling, control, and demonstration</em></p>
 
-<p><a href="http://localhost:4000/downloads//Fact_Sheet_Tomsovic_Li_LTB.pdf">Download the LTB Fact Sheet</a></p>
+<p><a href="https://enliten.utk.edu/downloads//Fact_Sheet_Tomsovic_Li_LTB.pdf">Download the LTB Fact Sheet</a></p>
 
 <p><a href="https://www.nxtbook.com/nxtbooks/pes/powerenergy_030420/index.php#/p/60">Download the LTB article on the IEEE Power and Energy Magazine</a></p>
 
@@ -22,7 +22,7 @@ communication networks, energy management systems (EMS) and a measurement-based 
 
 <p>The LTB platform is designed on a decoupled architecture based on the concept of ‚Äúmodule‚Äù. With the data interfaces properly defined, each module runs its own routines independently and communicate with other modules through data streaming. The modules are categorized into four categories based on functionality: grid simulators, measurement devices, energy management system, and controls. These modules, the underlying communication network, and the large-scale system models make up the LTB system.</p>
 
-<p><img src="http://localhost:4000/images/respic/proj_ltb_arch.jpg" alt="" style="width: 600px; float: center; border: 10px" /></p>
+<p><img src="https://enliten.utk.edu/images/respic/proj_ltb_arch.jpg" alt="" style="width: 600px; float: center; border: 10px" /></p>
 
 <p>This figure shows the overall architecture and the structural organization in LTB. The CURENT North America systems with 50% wind scenarios are created for different seasons. The grid simulator produces algebraic and state variable data from time-domain integration on a large-scale grid model. The measurement system receives the raw state, imposes measurement errors and delays, and send the measurements to the state estimator. The state estimator sends the estimated states to
 control modules for further processing. Control signals from the control modules are sent back to the grid simulator for actuation.</p>
@@ -30,7 +30,7 @@ control modules for further processing. Control signals from the control modules
 <p>The control system consists of the wide-area measurement-based control methods developed in the CURENT thrusts. Over the years of development, several control methods have been implemented on the LTB, including controlled system separation for the WECC system, voltage stability assessment, damping control and frequency control. The control methods were developed in standalone mode with the simulation data dumped from the simulators. When the methods are mature, they are interfaced to the
 LTB platform via data streaming, which provides the inputs to the control methods. The next figure shows the visual comparison of hierarchical voltage control method using an in-house interactive visualization platform.</p>
 
-<p><img src="http://localhost:4000/images/respic/proj_ltb_web.jpg" alt="" style="width: 700px; float: center; border: 10px" /></p>
+<p><img src="https://enliten.utk.edu/images/respic/proj_ltb_web.jpg" alt="" style="width: 700px; float: center; border: 10px" /></p>
 
 <h2 id="impacts">Impacts</h2>
 
