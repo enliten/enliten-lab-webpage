@@ -108,6 +108,13 @@
   number_educ: 1
   education1: BS in 2020, University of Tennessee Knoxville
 
+- name: Nicholas Parsly
+  photo: nicholas.jpg
+  info: MS student since Spring 2021
+  email: nparsly@vols.utk.edu
+  number_educ: 1
+  education1: BS in 2020, University of Tennessee Knoxville
+
 - name: Thomas Hinson
   photo: Thomas.jpg
   info: MS student since Spring 2022
