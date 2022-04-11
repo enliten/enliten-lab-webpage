@@ -6,8 +6,8 @@ sitemap: false
 permalink: /conferences/
 ---
 
-
 # Conferences
+
 This page provides a full list of upcomimg conferences.
 
 ## Lists
@@ -15,14 +15,10 @@ This page provides a full list of upcomimg conferences.
 <table>
 <colgroup>
 <col width="40%" />
-<col width="20%" />
-<col width="12.5%" />
-<col width="7.25%" />
-<col width="7.25%" />
-<col width="7.25%" />
-<col width="7.25%" />
-<col width="7.25%" />
-<col width="7.25%" />
+<col width="25%" />
+<col width="10%" />
+<col width="17.5%" />
+<col width="7.5%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -31,10 +27,6 @@ This page provides a full list of upcomimg conferences.
 <th>Website</th>
 <th>Location</th>
 <th>Sponsor</th>
-<th>Abstract Deadline</th>
-<th>Abstract Notification</th>
-<th>Full Paper Deadline</th>
-<th>Full Paper Notification</th>
 </tr>
 </thead>
 <tbody>
@@ -45,10 +37,6 @@ This page provides a full list of upcomimg conferences.
 <td markdown="span"> {% if conf.Website %} [Link]( {{ conf.Website }} ) {% endif %}</td>
 <td markdown="span"> {{ conf.Location }} </td>
 <td markdown="span"> {{ conf.Sponsor }} </td>
-<td markdown="span"> {{ conf.AbstractDeadline }} </td>
-<td markdown="span"> {{ conf.AbstractNotification }} </td>
-<td markdown="span"> {{ conf.FullPaperDeadline }} </td>
-<td markdown="span"> {{ conf.FullPaperNotification }} </td>
 </tr>
 {% endfor %}
 </tbody>
