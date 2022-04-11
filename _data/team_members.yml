@@ -108,6 +108,13 @@
   number_educ: 1
   education1: BS in 2020, University of Tennessee Knoxville
 
+- name: Thomas Hinson
+  photo: Thomas.jpg
+  info: MS student since Spring 2022
+  email: thodhins@vols.utk.edu
+  number_educ: 1
+  education1: 
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="https://enliten.utk.edu/openings/">openings</a> for more info
