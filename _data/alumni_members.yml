@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 
 - name: Mingjian Cui [📄](https://mjcui.github.io/)
   photo: MingjianCui.jpg
@@ -6,14 +5,6 @@
   employment: Tianjin University
   alumni_role: Ph.D., Research Assistant Professor
   email: mingjian.cui@utk.edu
-  number_educ: 0
-
-- name: Ben Ollis [📄](https://www.ornl.gov/staff-profile/ben-b-ollis)
-  photo: BenOllis.jpg
-  duration: Aug 2018 - Dec 2021
-  employment: ORNL
-  alumni_role: Full time staff
-  email: tollis@vols.utk.edu
   number_educ: 0
 
 - name: Hantao Cui [📄](https://cui.eecps.com/)
@@ -63,27 +54,8 @@
   alumni_role: Ph.D.
   email: 
   number_educ: 0
-
-- name: Yan Du [📄](https://scholar.google.com/citations?user=NT6SSYAAAAAJ&hl=en)
-=======
-- name: Wei Feng
-  photo: WeiFeng.jpg
-  duration: Aug 2016 - Dec 2020
-  employment: Open Systems International, Inc. (OSI)
-  alumni_role: Ph.D.
-  email: 
-  number_educ: 0
-  
-- name: Qingxin Charles Shi
-  photo: QingxinShi.jpg
-  duration: Aug 2015 - Dec 2020
-  employment: North China Electric Power University (ECEPU)
-  alumni_role: Ph.D., Research Assistant Professor
-  email: 
-  number_educ: 0
   
 - name: Yan Du
->>>>>>> Stashed changes
   photo: YanDu.jpg
   duration: Aug 2016 - Jun 2020
   employment: Google

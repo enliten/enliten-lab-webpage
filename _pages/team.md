@@ -144,7 +144,7 @@ Navigate to [Faculty](#faculty), [Staff](#staff), [Graduate Students](#graduate-
 {% endif %}
 
 ## Graduate Students
-### 8 PhD students, 4 MS students
+### 9 PhD students, 4 MS students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}

@@ -1,0 +1,77 @@
+I"G<p>The Enliten (Electric Network Laboratory for Intelligent Transactive ENergy) Lab is a research group led by <a href="http://web.eecs.utk.edu/~fli6/">Professor Fangxing “Fran” Li</a> at the <a href="https://eecs.utk.edu">University of Tennessee</a>. Our goal is to enhance the secure and economic operation of electric power
+systems using cutting-edge machine learning, optimization, and control techniques.</p>
+
+<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover">
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner">
+
+        <div class="item active">
+            <img src="http://localhost:4000/images/slider/PowerSystemAI.png" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="http://localhost:4000/images/slider/LTBScreenshot.png" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="http://localhost:4000/images/respic/ltb-architecture.gif" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="http://localhost:4000/images/respic/FengGraph1.png" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="http://localhost:4000/images/respic/Ian_ORNL.png" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="http://localhost:4000/images/respic/proj_ltb_arch.jpg" alt="Slide 6" />
+        </div>
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<p>Our lab develops mathematical optimization models for generation scheduling and flexible load management. We apply state-of-the-art machine learning
+algorithms for power flow calculation, contingency screening, voltage stability analysis, and cyber security vulnerability mitigation. We also develop large-scale
+power system testbeds for research verification and demonstration (see <a href="https://enliten.utk.edu/projects/">Projects</a>).</p>
+
+<p>We are with the Department of Electrical Engineering and Computer Science (EECS), UTK, which is located within driving distances to Nashville, Atlanta, and the Great Smoky Mountains. We are part of <a href="https://curent.utk.edu">CURENT</a>, an Education Research Center funded by the National Science Foundation (NSF) and Department of Energy (DOE).</p>
+
+<p><strong>We have openings for new PhD students, Postdocs, and Master students!</strong> <a href="https://enliten.utk.edu/openings/">(details)</a></p>
+
+<p>We are grateful for funding from <a href="https://www.nsf.gov">NSF</a>, <a href="https://www.doe.gov">DOE</a>, <a href="https://www.ornl.gov">ORNL</a>, <a href="https://www.epri.com">EPRI</a>, <a href="https://www.iso-ne.com">ISO-NE</a>, <a href="https://geirina.sgcc.com.cn">GEIRI-NA</a>, <a href="https://www.serdp-estcp.org/About-SERDP-and-ESTCP/About-ESTCP">ESTCP</a>, <a href="https://www.nrel.gov/">NREL</a>, <a href="https://achillearesearch.com/">AR</a>, <a href="https://www.rtx.com/">RTX</a>, <a href="https://www.ornl.gov/programs/revv">RevV</a> and multiple funding sources. See the list of funded projects here.</p>
+
+<figure class="fourth">
+  <p><img src="http://localhost:4000/images/logopic/DOE.png" style="height: 60px" />
+  <img src="http://localhost:4000/images/logopic/ORNL.png" style="height: 60px" />
+  <img src="http://localhost:4000/images/logopic/NSF.png" style="height: 60px" />
+  <img src="http://localhost:4000/images/logopic/EPRI.png" style="height: 60px" />
+  <img src="http://localhost:4000/images/logopic/DVP.png" style="height: 60px" /> <br />
+  <img src="http://localhost:4000/images/logopic/GCEP2.gif" style="height: 60px" />
+  <img src="http://localhost:4000/images/logopic/GCEP.gif" style="height: 60px" /> <br />
+  <img src="http://localhost:4000/images/logopic/UTRC.png" style="height: 60px" />
+  <img src="http://localhost:4000/images/logopic/GEIRINA.png" style="height: 60px" />
+  <img src="http://localhost:4000/images/logopic/ISONE.jpg" style="height: 60px" />
+  <img src="http://localhost:4000/images/logopic/LLNL.png" style="height: 50px" />
+  <img src="http://localhost:4000/images/logopic/DOD.png" style="height: 60px" />
+  <img src="http://localhost:4000/images/logopic/CURENT.png" style="height: 60px" />
+  <img src="http://localhost:4000/images/logopic/ESTCP.png" style="height: 60px" />
+  <img src="http://localhost:4000/images/logopic/NREL_Logo.jpg" style="height: 60px" />
+  <img src="http://localhost:4000/images/logopic/Achillea_Research_Logo.jpg" style="height: 60px" />
+  <img src="http://localhost:4000/images/logopic/RTX.png" style="height: 60px" />
+  <img src="http://localhost:4000/images/logopic/REVV.png" style="height: 60px" /></p>
+</figure>
+:ET

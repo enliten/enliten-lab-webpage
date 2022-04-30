@@ -15,34 +15,11 @@
   info: Research Scientist since Dec 2020
   email: jzhao44@utk.edu
   number_educ: 2
-<<<<<<< Updated upstream
   education1: PhD in 2020, Shandong University
-  education2: BS in 2015, Shandong University
-
+  education2: BS in 2015, Shandong University  
+  
 - name: Hang Shuai [📄](https://sites.google.com/view/hangshuai/home?authuser=0)
   member_type: staff
-=======
-  education1: PhD in 2018, the Enliten Lab, UTK
-  education2: MS in 2013 and BS in 2011, Southeast University, China
-  
-- name: Mingjian Cui [🗎](https://mjcui.github.io/)
-  photo: MingjianCui.jpg
-  info: Research Scientist since June 2020
-  email: mingjian.cui@utk.edu
-  number_educ: 2
-  education1: PhD in 2015, Wuhan University
-  education2: BS in 2010, Wuhan University
-  
-- name: Jin Zhao
-  photo: JinZhao.jpg
-  info: Research Scientist since Dec 2020
-  email: jzhao44@utk.edu
-  number_educ: 2
-  education1: PhD in 2020, Shandong University
-  education2: BS in 2015, Shandong University
-  
-- name: Hang Shuai [🗎](https://sites.google.com/view/hangshuai/home?authuser=0)
->>>>>>> Stashed changes
   photo: HangShuai.jpg
   info: Research Scientist since Dec 2020
   email: hshuai1@utk.edu
@@ -59,6 +36,15 @@
   number_educ: 2
   education1: MS in 2018, the Enliten Lab, UTK
   education2: BS in 2016, North China Electric Power University
+  
+- name: Ben Ollis [📄](https://www.ornl.gov/staff-profile/ben-b-ollis)
+  member_type: phd_stu
+  photo: BenOllis.jpg
+  info: PhD student since Fall 2018
+  email: tollis@vols.utk.edu
+  number_educ: 2
+  education1: MS in 2014, the Enliten Lab, UTK
+  education2: Full time staff with ORNL
   
 - name: Xiaofei Wang [📄](https://scholar.google.com/citations?user=HTZdiOUAAAAJ&hl=en)
   member_type: phd_stu
