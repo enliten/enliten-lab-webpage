@@ -1,5 +1,4 @@
-- name: Fangxing Fran Li [📄](http://web.eecs.utk.edu/~fli6/)
-  member_type: faculty
+- name: Fangxing Fran Li [🗎](http://web.eecs.utk.edu/~fli6/)
   photo: FranLi.jpg
   info: PI, James McConnell Professor
   email: fli6@utk.edu
@@ -9,40 +8,15 @@
   education3: PhD, Virginia Tech
   education4: IEEE Fellow, IET Fellow
 
-- name: Jin Zhao [📄](https://scholar.google.dk/citations?user=vV68wh8AAAAJ&hl=zh-CN)
-  member_type: staff
+- name: Jin Zhao [🗎](https://scholar.google.dk/citations?user=vV68wh8AAAAJ&hl=zh-CN)
   photo: JinZhao.jpg
   info: Research Scientist since Dec 2020
   email: jzhao44@utk.edu
   number_educ: 2
-<<<<<<< Updated upstream
   education1: PhD in 2020, Shandong University
   education2: BS in 2015, Shandong University
 
-- name: Hang Shuai [📄](https://sites.google.com/view/hangshuai/home?authuser=0)
-  member_type: staff
-=======
-  education1: PhD in 2018, the Enliten Lab, UTK
-  education2: MS in 2013 and BS in 2011, Southeast University, China
-  
-- name: Mingjian Cui [🗎](https://mjcui.github.io/)
-  photo: MingjianCui.jpg
-  info: Research Scientist since June 2020
-  email: mingjian.cui@utk.edu
-  number_educ: 2
-  education1: PhD in 2015, Wuhan University
-  education2: BS in 2010, Wuhan University
-  
-- name: Jin Zhao
-  photo: JinZhao.jpg
-  info: Research Scientist since Dec 2020
-  email: jzhao44@utk.edu
-  number_educ: 2
-  education1: PhD in 2020, Shandong University
-  education2: BS in 2015, Shandong University
-  
 - name: Hang Shuai [🗎](https://sites.google.com/view/hangshuai/home?authuser=0)
->>>>>>> Stashed changes
   photo: HangShuai.jpg
   info: Research Scientist since Dec 2020
   email: hshuai1@utk.edu
@@ -51,8 +25,7 @@
   education2: MS in 2015, Huazhong University of Science and Technology
   education3: BS in 2013, Wuhan Institute of Technology
 
-- name: Qiwei Zhang [📄](https://scholar.google.com/citations?user=pLJCykQAAAAJ&hl=en)
-  member_type: phd_stu
+- name: Qiwei Zhang [🗎](https://scholar.google.com/citations?user=pLJCykQAAAAJ&hl=en)
   photo: QiweiZhang.jpg
   info: PhD student since Fall 2018
   email: qzhang41@vols.utk.edu
@@ -60,8 +33,7 @@
   education1: MS in 2018, the Enliten Lab, UTK
   education2: BS in 2016, North China Electric Power University
   
-- name: Xiaofei Wang [📄](https://scholar.google.com/citations?user=HTZdiOUAAAAJ&hl=en)
-  member_type: phd_stu
+- name: Xiaofei Wang [🗎](https://scholar.google.com/citations?user=HTZdiOUAAAAJ&hl=en)
   photo: XiaofeiWang.jpg
   info: PhD student since Fall 2019
   email: xwang158@vols.utk.edu
@@ -69,16 +41,14 @@
   education1: MS in 2017, Wuhan University
   education2: BS in 2014, North China Electric Power University
   
-- name: Haoyuan Sun [📄](https://scholar.google.com/citations?hl=en&user=OCJ03A4AAAAJ&hl=en)
-  member_type: phd_stu
+- name: Haoyuan Sun [🗎](https://scholar.google.com/citations?hl=en&user=OCJ03A4AAAAJ&hl=en)
   photo: HaoyuanSun.png
   info: PhD student since Fall 2019
   email: hsun19@vols.utk.edu
   number_educ: 1
   education1: BS in 2019, Xi'an Jiao Tong University
 
-- name: Buxin She [📄](https://scholar.google.com/citations?user=qqcJQ4UAAAAJ&hl=en)
-  member_type: phd_stu
+- name: Buxin She [🗎](https://scholar.google.com/citations?user=qqcJQ4UAAAAJ&hl=en)
   photo: BuxinShe.jpg
   info: PhD student since Spring 2020
   email: bshe@vols.utk.edu
@@ -86,8 +56,7 @@
   education1: BS in 2017, Tianjin University
   education2: MS in 2020, Tianjin University
 
-- name: Jinning Wang [📄](https://www.linkedin.com/in/jinning-wang-846490199/)
-  member_type: phd_stu
+- name: Jinning Wang
   photo: JinningWang.jpg
   info: PhD student since Spring 2020
   email: jwang175@vols.utk.edu
@@ -96,16 +65,14 @@
   education2: MS in 2020, Taiyuan University of Technology
   education3: MS in 2020, University of West Florida
 
-- name: Vince Wilson [📄](https://www.linkedin.com/in/vince-wilson-36803012b/)
-  member_type: phd_stu
+- name: Vince Wilson
   photo: VinceWilson.jpg
   info: PhD student since Spring 2021
   email: vwilso17@utk.edu
   number_educ: 1
   education1: BS in 2020, University of Dayton
 
-- name: Jingzi Liu [](https://ieeexplore.ieee.org/author/37085677272)
-  member_type: phd_stu
+- name: Jingzi Liu
   photo: LJZ.jpg
   info: PhD student since Fall 2021
   email: jliu104@vols.utk.edu
@@ -114,7 +81,6 @@
   education2: BS in 2017, North China University of Water Resources and Electric Power
 
 - name: Mishal Alonize
-  member_type: phd_stu
   photo: Mishal.jpg
   info: PhD student since Fall 2021
   email: malonize@vols.utk.edu
@@ -123,7 +89,6 @@
   education2: BS in 2009, Riyadh College of Technology
 
 - name: Trey Mingee
-  member_type: ms_stu
   photo: TreyMingee.jpg
   info: MS student since Fall 2020
   email: vxl191@vols.utk.edu
@@ -131,7 +96,6 @@
   education1: BS in 2020, University of Tennessee Knoxville
 
 - name: Thomas Hinson
-  member_type: ms_stu
   photo: Thomas.jpg
   info: MS student since Fall 2020
   email: thodhins@vols.utk.edu
@@ -139,14 +103,12 @@
   education1: BS in 2020, University of Tennessee at Martin
 
 - name: Justin Martinez
-  member_type: ms_stu
   info: MS student since Fall 2020
   email: jmart152@vols.utk.edu
   number_educ: 1
   education1: BS in 2020, University of Tennessee Knoxville
 
 - name: Nick West
-  member_type: ms_stu
   photo: NickWest.jpg
   info: MS student since Spring 2021
   email: nwest13@vols.utk.edu
@@ -154,12 +116,11 @@
   education1: BS in 2020, University of Tennessee Knoxville
 
 - name: Nicholas Parsly
-  member_type: undergrad_stu
   photo: nicholas.jpg
-  info: MS student since Fall 2021
+  info: MS student since Spring 2021
   email: nparsly@vols.utk.edu
   number_educ: 1
-  education1: BS in 2021, University of Tennessee Knoxville
+  education1: BS in 2020, University of Tennessee Knoxville
 
 
 - name: "This could be you !"
