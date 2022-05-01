@@ -7,14 +7,13 @@ permalink: /projects/ESTCP-MFAC/
 ---
 # ESTCP: Model-free Adaptive Control (MFAC) for Autonomous and Resilient Microgrids
 
-**Principal Investigator (PI) and Lead Organization:**`<br>`
+**Principal Investigator (PI) and Lead Organization:**<br>
 Dr. Fangxing (Fran) Li, James W. McConnell Professor & IEEE Fellow, University of Tennessee, Knoxville
 
-**Co-PIs:**`<br>`
-
-1) Dr. Rui Bo, Assistant Professor, Missouri University of Sci. & Tech.`<br>`
-2) Dr. Jonathan Kimball, Professor, Missouri University of Sci. & Tech.`<br>`
-3) Dr. Hantao Cui, Assistant Professor, Oklahoma State University
+**Co-PIs:**<br>
+1) Dr. Rui Bo, Assistant Professor, Missouri University of Sci. & Tech.<br>
+2) Dr. Jonathan Kimball, Professor, Missouri University of Sci. & Tech.<br>
+3) Dr. Hantao Cui, Assistant Professor, Oklahoma State University.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/logo_utk.png){: style="height: 100px; float:; border 10px;"}
 ![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/logo_mt.png){: style="height: 100px; float:; border 10px;"}
@@ -32,10 +31,11 @@ To be updated.
 
 ## Team Photos
 
-- HTB Room at UTK`<br>`
-  ![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/ESTCP_team1.jpg){: style="width: 800px; float: center; border: 10px"}
-- RTDS Room at MST`<br>`
-  ![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/ESTCP_team1.jpg){: style="width: 800px; float: center; border: 10px"}
+- HTB Room at UTK<br>
+![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/ESTCP_team1.jpg){: style="width: 800px; float: center; border: 10px"}
+
+- RTDS Room at MST<br>
+![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/ESTCP_team1.jpg){: style="width: 800px; float: center; border: 10px"}
 
 ## Points of Contact
 
