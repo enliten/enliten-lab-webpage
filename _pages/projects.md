@@ -57,7 +57,7 @@ Our research initiates with a three-phase signal anomaly detection algorithm. Th
 
 ## Model Free Adaptive Control (MFAC) for Autonomous and Resilient Microgrids
 
-_Summary provided by Buxin She_
+_Summary provided by Buxin She_[![]({{ site.url }}{{ site.baseurl }}/images/more-info-button2.png){: style="width: 120px; float: center; border: 10px"}](ESTCP-MFAC)  
 
 Most existing inverter level controllers in microgrids, such as PI controller, sliding mode controller or H2 controller, are based on models. When applied to a new environment or the system has a large disturbance, parameters need re-tuning. The objective of this project is to develop a model-free adaptive control (MAFC) strategy for microgrids, so that the time consuming and inaccurate manual adjustment of microgrid controller parameters can be avoided. To address this concern, we plan to develop a reinforcement learning-based agent to tune the controller parameters adaptively. As shown in the left figure below, after offline training, the RL agent can dynamically adjust the PI controller gains (Kp and Ki) in the voltage recovery progress. In this way, the voltage of the common coupling point can adaptively track the predefined trajectory. The right figure shows that the control results are close to the desired value throughout the response time window. 
 

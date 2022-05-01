@@ -3,21 +3,21 @@ title: "Enliten Lab - ESTCP"
 layout: textlay
 excerpt: "Enliten Lab -- ESTCP"
 sitemap: false
-permalink: /projects/ESTCP/
+permalink: /projects/ESTCP-MFAC/
 ---
 # Model-free Adaptive Control (MFAC)
 
-Principal Investigator (PI) and Lead Organization: <br>
+**Principal Investigator (PI) and Lead Organization:**<br>
 Dr. Fangxing (Fran) Li, James W. McConnell Professor & IEEE Fellow, University of Tennessee, Knoxville
 
-Co-PIs:
-1) Dr. Rui Bo, Assistant Professor, Missouri University of Sci. & Tech. 
-2) Dr. Jonathan Kimball, Professor, Missouri University of Sci. & Tech.
+**Co-PIs:**<br>
+1) Dr. Rui Bo, Assistant Professor, Missouri University of Sci. & Tech.<br>
+2) Dr. Jonathan Kimball, Professor, Missouri University of Sci. & Tech.<br>
 3) Dr. Hantao Cui, Assistant Professor, Oklahoma State University
 
-![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/logo_utk.png){: style="height: 150px; float:; border 10px;"}
-![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/logo_mt.png){: style="height: 150px; float:; border 10px;"}
-![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/logo_osu.png){: style="height: 150px; float:; border 10px;"}
+![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/logo_utk.png){: style="height: 100px; float:; border 10px;"}
+![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/logo_mt.png){: style="height: 100px; float:; border 10px;"}
+![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/logo_osu.png){: style="height: 100px; float:; border 10px;"}
 
 ## Overview
 
@@ -27,13 +27,15 @@ With all these challenges, the principal investigator plans to investigate a mod
 
 ## Mythology
 
+To be updated.
+
 ## Team Photos
 
-- HTB Room at UTK <br>
-![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/ESTCP_team1.jpg){: style="width: 600px; float: center; border: 10px"}
+- HTB Room at UTK<br>
+![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/ESTCP_team1.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- RTDS Room at MST <br>
-![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/ESTCP_team1.jpg){: style="width: 600px; float: center; border: 10px"}
+- RTDS Room at MST<br>
+![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/ESTCP_team1.jpg){: style="width: 800px; float: center; border: 10px"}
 
 ## Points of Contact
 
