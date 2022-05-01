@@ -35,7 +35,7 @@ To be updated.
 ![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/ESTCP_team1.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - RTDS Room at MST<br>
-![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/ESTCP_team1.jpg){: style="width: 800px; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/ESTCP/ESTCP_team2.jpg){: style="width: 800px; float: center; border: 10px"}
 
 ## Points of Contact
 
