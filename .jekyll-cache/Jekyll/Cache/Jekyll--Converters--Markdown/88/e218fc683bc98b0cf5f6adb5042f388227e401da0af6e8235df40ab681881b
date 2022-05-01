@@ -1,0 +1,39 @@
+I"
+<h1 id="estcp-model-free-adaptive-control-mfac-for-autonomous-and-resilient-microgrids">ESTCP: Model-free Adaptive Control (MFAC) for Autonomous and Resilient Microgrids</h1>
+
+<p><strong>Principal Investigator (PI) and Lead Organization:</strong><code class="language-plaintext highlighter-rouge">&lt;br&gt;</code>
+Dr. Fangxing (Fran) Li, James W. McConnell Professor &amp; IEEE Fellow, University of Tennessee, Knoxville</p>
+
+<p><strong>Co-PIs:</strong><code class="language-plaintext highlighter-rouge">&lt;br&gt;</code></p>
+
+<p>1) Dr. Rui Bo, Assistant Professor, Missouri University of Sci. &amp; Tech.<code class="language-plaintext highlighter-rouge">&lt;br&gt;</code>
+2) Dr. Jonathan Kimball, Professor, Missouri University of Sci. &amp; Tech.<code class="language-plaintext highlighter-rouge">&lt;br&gt;</code>
+3) Dr. Hantao Cui, Assistant Professor, Oklahoma State University</p>
+
+<p><img src="https://enliten.utk.edu/images/ESTCP/logo_utk.png" alt="" style="height: 100px; float:; border 10px;" />
+<img src="https://enliten.utk.edu/images/ESTCP/logo_mt.png" alt="" style="height: 100px; float:; border 10px;" />
+<img src="https://enliten.utk.edu/images/ESTCP/logo_osu.png" alt="" style="height: 100px; float:; border 10px;" /></p>
+
+<h2 id="overview">Overview</h2>
+
+<p>A microgrid is an integrated system consisting of interconnected loads and distributed energy sources with a clear entity boundary, operated in either the islanded mode or the grid-connected mode. Among the many challenges in microgrid operation, the frequency and voltage (f-V) control (or, P-Q control) is one of the most challenging tasks. Many previous works in microgrid control use the trial-and-error approach to develop the PID or PI control gains, which are critical to microgrid stability and control. However, this trial-and-error approach is very time consuming, and the control parameters for the optimal performance at a given operating point may not be effective at other operating points, such as those seen with a change in microgrid operation mode, a new solar PV installation, or a reconfiguration of the network.</p>
+
+<p>With all these challenges, the principal investigator plans to investigate a model-free adaptive control (MFAC) for microgrid V-f regulation in islanded mode or P-Q regulation in utility-connected mode, in which the maximum power point and state of charging of the battery will be considered. The features and advantages of the proposed model-free adaptive control include: 1) it is based on measurement, rather than the microgrid system model. Thus, it is model-free and suitable for real-time applications, scalable to different sizes of microgrid with different number of devices, and portable to other microgrids. 2) The control gains are self-adjustable to track a pre-defined, desired trajectory such that a fast and smooth response can always be achieved in order to match the desired trajectory, regardless of external changes (load levels, distribution network, or solar PVs), designer experience for initial control gains, or any offline training studies. Therefore, it achieves the plug-and-play capability for microgrid V-f or P-Q regulation.</p>
+
+<h2 id="mythology">Mythology</h2>
+
+<p>To be updated.</p>
+
+<h2 id="team-photos">Team Photos</h2>
+
+<ul>
+  <li>HTB Room at UTK<code class="language-plaintext highlighter-rouge">&lt;br&gt;</code>
+<img src="https://enliten.utk.edu/images/ESTCP/ESTCP_team1.jpg" alt="" style="width: 800px; float: center; border: 10px" /></li>
+  <li>RTDS Room at MST<code class="language-plaintext highlighter-rouge">&lt;br&gt;</code>
+<img src="https://enliten.utk.edu/images/ESTCP/ESTCP_team1.jpg" alt="" style="width: 800px; float: center; border: 10px" /></li>
+</ul>
+
+<h2 id="points-of-contact">Points of Contact</h2>
+
+<p>Fran Li (865) 974-8401 (ph.), (865) 974-9723 (fax), fli6@utk.edu</p>
+:ET
