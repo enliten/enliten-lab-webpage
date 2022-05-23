@@ -9,15 +9,8 @@
   education3: PhD, Virginia Tech
   education4: IEEE Fellow, IET Fellow
 
-- name: Jin Zhao [📄](https://scholar.google.dk/citations?user=vV68wh8AAAAJ&hl=zh-CN)
-  member_type: staff
-  photo: JinZhao.jpg
-  info: Research Scientist since Dec 2020
-  email: jzhao44@utk.edu
-  number_educ: 2
-  education1: PhD in 2020, Shandong University
-  education2: BS in 2015, Shandong University  
-  
+---
+
 - name: Hang Shuai [📄](https://sites.google.com/view/hangshuai/home?authuser=0)
   member_type: staff
   photo: HangShuai.jpg
@@ -28,15 +21,65 @@
   education2: MS in 2015, Huazhong University of Science and Technology
   education3: BS in 2013, Wuhan Institute of Technology
 
-- name: Qiwei Zhang [📄](https://scholar.google.com/citations?user=pLJCykQAAAAJ&hl=en)
-  member_type: phd_stu
-  photo: QiweiZhang.jpg
-  info: PhD student since Fall 2018
-  email: qzhang41@vols.utk.edu
+- name: Jin Zhao [📄](https://scholar.google.dk/citations?user=vV68wh8AAAAJ&hl=zh-CN)
+  member_type: staff
+  photo: JinZhao.jpg
+  info: Research Scientist since Dec 2020
+  email: jzhao44@utk.edu
   number_educ: 2
-  education1: MS in 2018, the Enliten Lab, UTK
-  education2: BS in 2016, North China Electric Power University
+  education1: PhD in 2020, Shandong University
+  education2: BS in 2015, Shandong University  
+
+---
+
+- name: Waleed Aldosari
+  member_type: ms_stu
+  info: MS student since Fall 2022
+  email: waldosar@vols.utk.edu
+  number_educ: 1
+  education1: BS in 2021, University of Tennessee Knoxville
   
+- name: Mishal Alonize
+  member_type: phd_stu
+  photo: Mishal.jpg
+  info: PhD student since Fall 2021
+  email: malonize@vols.utk.edu
+  number_educ: 2
+  education1: MS in 2015, University of Bridgeport
+  education2: BS in 2009, Riyadh College of Technology
+
+- name: Thomas Hinson
+  member_type: ms_stu
+  photo: Thomas.jpg
+  info: MS student since Fall 2020
+  email: thodhins@vols.utk.edu
+  number_educ: 1
+  education1: BS in 2020, University of Tennessee at Martin
+
+- name: Jingzi Liu [](https://ieeexplore.ieee.org/author/37085677272)
+  member_type: phd_stu
+  photo: LJZ.jpg
+  info: PhD student since Fall 2021
+  email: jliu104@vols.utk.edu
+  number_educ: 2
+  education1: MS in 2020, Hohai University
+  education2: BS in 2017, North China University of Water Resources and Electric Power
+
+- name: Justin Martinez
+  member_type: ms_stu
+  info: MS student since Fall 2020
+  email: jmart152@vols.utk.edu
+  number_educ: 1
+  education1: BS in 2020, University of Tennessee Knoxville
+
+- name: Trey Mingee
+  member_type: ms_stu
+  photo: TreyMingee.jpg
+  info: MS student since Fall 2020
+  email: vxl191@vols.utk.edu
+  number_educ: 1
+  education1: BS in 2020, University of Tennessee Knoxville
+
 - name: Ben Ollis [📄](https://www.ornl.gov/staff-profile/ben-b-ollis)
   member_type: phd_stu
   photo: BenOllis.jpg
@@ -45,15 +88,23 @@
   number_educ: 2
   education1: MS in 2014, the Enliten Lab, UTK
   education2: Full time staff with ORNL
-  
-- name: Xiaofei Wang [📄](https://scholar.google.com/citations?user=HTZdiOUAAAAJ&hl=en)
+
+- name: Nicholas Parsly
+  member_type: undergrad_stu
+  photo: nicholas.jpg
+  info: MS student since Fall 2021
+  email: nparsly@vols.utk.edu
+  number_educ: 1
+  education1: BS in 2021, University of Tennessee Knoxville
+
+- name: Buxin She [📄](https://shebuxin.github.io/about)
   member_type: phd_stu
-  photo: XiaofeiWang.jpg
-  info: PhD student since Fall 2019
-  email: xwang158@vols.utk.edu
+  photo: BuxinShe.jpg
+  info: PhD student since Spring 2020
+  email: bshe@vols.utk.edu
   number_educ: 2
-  education1: MS in 2017, Wuhan University
-  education2: BS in 2014, North China Electric Power University
+  education1: BS in 2017, Tianjin University
+  education2: MS in 2020, Tianjin University
   
 - name: Haoyuan Sun [📄](https://scholar.google.com/citations?hl=en&user=OCJ03A4AAAAJ&hl=en)
   member_type: phd_stu
@@ -63,14 +114,14 @@
   number_educ: 1
   education1: BS in 2019, Xi'an Jiao Tong University
 
-- name: Buxin She [📄](https://scholar.google.com/citations?user=qqcJQ4UAAAAJ&hl=en)
+- name: Xiaofei Wang [📄](https://scholar.google.com/citations?user=HTZdiOUAAAAJ&hl=en)
   member_type: phd_stu
-  photo: BuxinShe.jpg
-  info: PhD student since Spring 2020
-  email: bshe@vols.utk.edu
+  photo: XiaofeiWang.jpg
+  info: PhD student since Fall 2019
+  email: xwang158@vols.utk.edu
   number_educ: 2
-  education1: BS in 2017, Tianjin University
-  education2: MS in 2020, Tianjin University
+  education1: MS in 2017, Wuhan University
+  education2: BS in 2014, North China Electric Power University
 
 - name: Jinning Wang [📄](https://www.linkedin.com/in/jinning-wang-846490199/)
   member_type: phd_stu
@@ -90,64 +141,15 @@
   number_educ: 1
   education1: BS in 2020, University of Dayton
 
-- name: Jingzi Liu [](https://ieeexplore.ieee.org/author/37085677272)
+- name: Qiwei Zhang [📄](https://scholar.google.com/citations?user=pLJCykQAAAAJ&hl=en)
   member_type: phd_stu
-  photo: LJZ.jpg
-  info: PhD student since Fall 2021
-  email: jliu104@vols.utk.edu
+  photo: QiweiZhang.jpg
+  info: PhD student since Fall 2018
+  email: qzhang41@vols.utk.edu
   number_educ: 2
-  education1: MS in 2020, Hohai University
-  education2: BS in 2017, North China University of Water Resources and Electric Power
-
-- name: Mishal Alonize
-  member_type: phd_stu
-  photo: Mishal.jpg
-  info: PhD student since Fall 2021
-  email: malonize@vols.utk.edu
-  number_educ: 2
-  education1: MS in 2015, University of Bridgeport
-  education2: BS in 2009, Riyadh College of Technology
-
-- name: Trey Mingee
-  member_type: ms_stu
-  photo: TreyMingee.jpg
-  info: MS student since Fall 2020
-  email: vxl191@vols.utk.edu
-  number_educ: 1
-  education1: BS in 2020, University of Tennessee Knoxville
-
-- name: Thomas Hinson
-  member_type: ms_stu
-  photo: Thomas.jpg
-  info: MS student since Fall 2020
-  email: thodhins@vols.utk.edu
-  number_educ: 1
-  education1: BS in 2020, University of Tennessee at Martin
-
-- name: Justin Martinez
-  member_type: ms_stu
-  info: MS student since Fall 2020
-  email: jmart152@vols.utk.edu
-  number_educ: 1
-  education1: BS in 2020, University of Tennessee Knoxville
-
-- name: Nick West
-  member_type: ms_stu
-  photo: NickWest.jpg
-  info: MS student since Spring 2021
-  email: nwest13@vols.utk.edu
-  number_educ: 1
-  education1: BS in 2020, University of Tennessee Knoxville
-
-- name: Nicholas Parsly
-  member_type: undergrad_stu
-  photo: nicholas.jpg
-  info: MS student since Fall 2021
-  email: nparsly@vols.utk.edu
-  number_educ: 1
-  education1: BS in 2021, University of Tennessee Knoxville
-
-
+  education1: MS in 2018, the Enliten Lab, UTK
+  education2: BS in 2016, North China Electric Power University
+  
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="https://enliten.utk.edu/openings/">openings</a> for more info
