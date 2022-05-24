@@ -145,7 +145,15 @@
   number_educ: 2
   education1: MS in 2018, the Enliten Lab, UTK
   education2: BS in 2016, North China Electric Power University
-  
+
+- name: Helia Zandi [📄](https://www.ornl.gov/staff-profile/helia-zandi)
+  member_type: phd_stu
+  photo: zandi.jpg
+  info: PhD student since Fall 2022
+  email: zandih@ornl.gov
+  number_educ: 1
+  education1: Part time Ph.d student, work at ORNL
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="https://enliten.utk.edu/openings/">openings</a> for more info
