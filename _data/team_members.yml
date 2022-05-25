@@ -79,7 +79,7 @@
 - name: Ben Ollis [📄](https://www.ornl.gov/staff-profile/ben-b-ollis)
   member_type: phd_stu
   photo: BenOllis.jpg
-  info: PhD student since Fall 2018
+  info: PhD student (part-time) since Fall 2018
   email: tollis@vols.utk.edu
   number_educ: 2
   education1: MS in 2014, the Enliten Lab, UTK
@@ -149,17 +149,13 @@
 - name: Helia Zandi [📄](https://www.ornl.gov/staff-profile/helia-zandi)
   member_type: phd_stu
   photo: zandi.jpg
-  info: PhD student since Fall 2022
+  info: PhD student (part-time) since Fall 2016
   email: zandih@ornl.gov
-  number_educ: 1
-  education1: Part time Ph.d student, work at ORNL
+  number_educ: 0
 
 - name: "This could be you !"
+  member_type: phd_stu
   photo: rock.jpg
   info: See <a href="https://enliten.utk.edu/openings/">openings</a> for more info
   email: fli6@utk.edu
   number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:

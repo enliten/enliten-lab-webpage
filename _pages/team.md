@@ -12,7 +12,7 @@ permalink: /team/
 
 Navigate to [Faculty](#faculty), [Staff](#staff), [Graduate Students](#graduate-students), [Bachelor Students](#bachelor-students), [Alumni](#alumni), and [Visitors](#visitors). Navigate to [Group Manual](https://enliten.utk.edu/guide/).
 
-
+---
 ## Faculty
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -78,6 +78,7 @@ Navigate to [Faculty](#faculty), [Staff](#staff), [Graduate Students](#graduate-
 </div>
 {% endif %}
 
+---
 ## Staff 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -143,6 +144,7 @@ Navigate to [Faculty](#faculty), [Staff](#staff), [Graduate Students](#graduate-
 </div>
 {% endif %}
 
+---
 ## Graduate Students
 ### 10 PhD students, 5 MS students
 
@@ -211,6 +213,7 @@ Navigate to [Faculty](#faculty), [Staff](#staff), [Graduate Students](#graduate-
 {% endif %}
 
 
+---
 ## Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -269,6 +272,7 @@ Navigate to [Faculty](#faculty), [Staff](#staff), [Graduate Students](#graduate-
 {% endif %}
 
 
+---
 ## Alumni
 
 {% assign number_printed = 0 %}
@@ -305,6 +309,7 @@ Navigate to [Faculty](#faculty), [Staff](#staff), [Graduate Students](#graduate-
 </div>
 {% endif %}
 
+---
 
 ## Visitors
 
@@ -396,6 +401,7 @@ Navigate to [Faculty](#faculty), [Staff](#staff), [Graduate Students](#graduate-
   </tr>
 </table>
 
+---
 ## Past Undergraduate Students
 <table align="center" style="width:100%">
 <col width="50%">

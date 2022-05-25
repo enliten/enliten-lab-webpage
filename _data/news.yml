@@ -4,13 +4,26 @@
 # - date: 17. June 2015
 #   headline: "Maarten wins the LION image award! Check out his <a href='https://www.physics.leidenuniv.nl/index.php?id=11573&news=757&type=lion&ln=EN'>submission</a>.<img src='/images/newspic/Contest.jpg' class='img-responsive' style='max-width:192px' />"
 
+- date: 22 May 2022 
+  headline: Nicholas West has earned his MS degree and graduated. Congratulations! 
+
+- date: 12 May 2022 
+  headline: Qiwei Zhang received the Outstanding Graduate Research Assistants Award. Congratulations! 
+  link: https://www.eecs.utk.edu/2022-eecs-gonzalez-family-awards-announced/
+  link_text: Press releases
+
+- date: 12 May 2022
+  headline: Dr. Fran Li received The Gonzalez Family Award for Excellence in Teaching. Congratulations! 
+  link: https://www.eecs.utk.edu/2022-eecs-gonzalez-family-awards-announced/ 
+  link_text: Press releases 
+
 - date: 17 November 2021
   headline: IEEE Workshop on Machine Learning for Power held online!
   link: https://www.ieee-pes.org/meetings-and-conferences/conference-calendar/monthly-view/171-technical-comm-meetings/1076-psope
   link_text: Press releases
 
 - date: 19 June 2021
-  headline: We held a "Beat the Virus" and farewell party! Congraturation to Dr. Hantao, Dr. Mariana, and Ms. Ian Schomer!
+  headline: We held a “Beat the Virus” and farewell party! Congratulations to Hantao Cui, Mariana Kamel for earning their Ph.D. degrees, and Ian Schomer for earning his MS degree! 
 
 - date: 22 May 2021
   headline: Dr. Hantao Cui to join ECE-Oklahoma State University as an assistant professor. Congratulations!

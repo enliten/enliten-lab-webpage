@@ -7,6 +7,9 @@ permalink: /pictures/
 
 # Pictures
 
+- Apr. 2022 - T&D meeting<br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic13.jpg){: style="width: 800px; float: center; border: 10px"}
+
 - Jun. 2021 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic10.jpg){: style="width: 800px; float: center; border: 10px"}
 
