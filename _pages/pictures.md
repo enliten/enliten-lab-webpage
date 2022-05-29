@@ -7,29 +7,29 @@ permalink: /pictures/
 
 # Pictures
 
-- Apr. 2022 - T&D meeting<br>
+- May 2022, Cookout at Tyson Park (missing: Nicholas Parsly) <br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic14.jpg){: style="width: 800px; float: center; border: 10px"}
+
+- Aprl 2022, T&D meeting<br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic13.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Jun. 2021 <br>
+- June 2021, “Beat the virus” cookout at Nicholas Ball Park (missing: Dr. Mingjian Cui and Justin Martinez) <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic10.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - Dec. 2020 – Graduation during pandemic <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic11.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Dec. 2019 <br>
+- December 2019, Year-end and graduation party at Wasabi restaurant <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic09.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Dec. 2019 <br>
+- December 2019, Year-end and graduation party at Wasabi restaurant <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic08.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Sept. 2019 <br>
+- September 2019 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic07.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Sept. 2019 <br>
+- September 2019, Monthly Group meeting <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic06.jpg){: style="width: 800px; float: center; border: 10px"}
-
-- Aug. 2019 <br>
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic05.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - Aug. 2019 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic04.jpg){: style="width: 800px; float: center; border: 10px"}
@@ -37,13 +37,13 @@ permalink: /pictures/
 - Dec. 2016 - Three generations of professors: Prof. Hantao Cui (now at Oklahoma State), Prof. Li, and Prof. Robert Broadwater (Virginia Tech, Dr. Li’s former advisor), from left to right. <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic12.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Dec. 2015 <br>
+- December 2015, Hooding ceremony with Drs. Qinran Hu, Xue Li, and Kumar Prabakar   <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic03.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Oct. 2015 <br>
+- October. 2015 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic02.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Apr. 2015 <br>
+- April. 2015 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic01.jpg){: style="width: 800px; float: center; border: 10px"}
 
 {% assign number_printed = 0 %}
