@@ -16,34 +16,37 @@ permalink: /pictures/
 - June 2021, “Beat the virus” cookout at Nicholas Ball Park (missing: Dr. Mingjian Cui and Justin Martinez) <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic10.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Dec. 2020 – Graduation during pandemic <br>
+- December 2020, Graduation during pandemic <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic11.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- December 2019, Year-end and graduation party at Wasabi restaurant <br>
+- December 2019, Year-end and graduation party with friends and collaborators at Wasabi restaurant <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic09.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- December 2019, Year-end and graduation party at Wasabi restaurant <br>
+- December 2019, Year-end and graduation party with friends and collaborators at Wasabi restaurant<br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic08.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - September 2019 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic07.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- September 2019, Monthly Group meeting <br>
+- September 2019, Monthly group meeting <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic06.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Aug. 2019 <br>
+- August 2019 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic04.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Dec. 2016 - Three generations of professors: Prof. Hantao Cui (now at Oklahoma State), Prof. Li, and Prof. Robert Broadwater (Virginia Tech, Dr. Li’s former advisor), from left to right. <br>
+- April 2018, EECS Award Banquet (Hantao Cui and Qingxin Shi received Outstanding GRA awards and Mariana Kamel received Outstanding GTA award) <br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic15.jpg){: style="width: 800px; float: center; border: 10px"}
+
+- December 2016 - Three generations of professors: Prof. Hantao Cui (now at Oklahoma State), Prof. Li, and Prof. Robert Broadwater (Virginia Tech, Dr. Li’s former advisor), from left to right. <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic12.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - December 2015, Hooding ceremony with Drs. Qinran Hu, Xue Li, and Kumar Prabakar   <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic03.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- October. 2015 <br>
+- October 2015 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic02.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- April. 2015 <br>
+- April 2015 <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic01.jpg){: style="width: 800px; float: center; border: 10px"}
 
 {% assign number_printed = 0 %}
