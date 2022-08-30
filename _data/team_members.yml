@@ -19,14 +19,15 @@
   education2: MS in 2015, Huazhong University of Science and Technology
   education3: BS in 2013, Wuhan Institute of Technology
 
-- name: Jin Zhao [📄](https://scholar.google.dk/citations?user=vV68wh8AAAAJ&hl=zh-CN)
+- name: Qiwei Zhang [📄](https://scholar.google.com/citations?user=pLJCykQAAAAJ&hl=en)
   member_type: staff
-  photo: JinZhao.jpg
-  info: Research Scientist since Dec 2020
-  email: jzhao44@utk.edu
-  number_educ: 2
-  education1: PhD in 2020, Shandong University
-  education2: BS in 2015, Shandong University  
+  photo: QiweiZhang.jpg
+  info: Research Scientist since Fall 2022
+  email: qzhang41@vols.utk.edu
+  number_educ: 3
+  education1: PhD in 2022, the Enliten Lab, UTK
+  education2: MS in 2018, the Enliten Lab, UTK
+  education3: BS in 2016, North China Electric Power University
 
 - name: Waleed Aldosari
   member_type: ms_stu
@@ -145,15 +146,6 @@
   email: vwilso17@utk.edu
   number_educ: 1
   education1: BS in 2020, University of Dayton
-
-- name: Qiwei Zhang [📄](https://scholar.google.com/citations?user=pLJCykQAAAAJ&hl=en)
-  member_type: phd_stu
-  photo: QiweiZhang.jpg
-  info: PhD student since Fall 2018
-  email: qzhang41@vols.utk.edu
-  number_educ: 2
-  education1: MS in 2018, the Enliten Lab, UTK
-  education2: BS in 2016, North China Electric Power University
 
 - name: Helia Zandi [📄](https://www.ornl.gov/staff-profile/helia-zandi)
   member_type: phd_stu
