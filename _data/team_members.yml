@@ -12,7 +12,7 @@
 - name: Hang Shuai [📄](https://sites.google.com/view/hangshuai/home?authuser=0)
   member_type: staff
   photo: HangShuai.jpg
-  info: Research Scientist since Dec 2020
+  info: Research Assistant Professor of CURENT since Oct 2022
   email: hshuai1@utk.edu
   number_educ: 3
   education1: PhD in 2019, Huazhong University of Science and Technology
@@ -70,21 +70,6 @@
   number_educ: 2
   education1: MS in 2020, Hohai University
   education2: BS in 2017, North China University of Water Resources and Electric Power
-
-- name: Justin Martinez
-  member_type: ms_stu
-  info: MS student since Fall 2020
-  email: jmart152@vols.utk.edu
-  number_educ: 1
-  education1: BS in 2020, University of Tennessee Knoxville
-
-- name: Trey Mingee
-  member_type: ms_stu
-  photo: TreyMingee.jpg
-  info: MS student since Fall 2020
-  email: vxl191@vols.utk.edu
-  number_educ: 1
-  education1: BS in 2020, University of Tennessee Knoxville
 
 - name: Ben Ollis [📄](https://www.ornl.gov/staff-profile/ben-b-ollis)
   member_type: phd_stu
