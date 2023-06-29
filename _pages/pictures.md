@@ -7,6 +7,12 @@ permalink: /pictures/
 
 # Pictures
 
+- June 2023, (missing: Haoyuan Sun, Jingzi Liu) <br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic17.jpg){: style="width: 800px; float: center; border: 10px"}
+
+- June 2023, Monthly group meeing (missing: Haoyuan Sun, Jingzi Liu) <br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic16.jpg){: style="width: 800px; float: center; border: 10px"}
+
 - May 2022, Cookout at Tyson Park (missing: Nicholas Parsly) <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic14.jpg){: style="width: 800px; float: center; border: 10px"}
 
