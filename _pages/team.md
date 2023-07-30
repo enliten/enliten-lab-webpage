@@ -316,6 +316,9 @@ Navigate to [Faculty](#faculty), [Staff](#staff), [Graduate Students](#graduate-
 <table align="center" style="width:100%">
 <col width="100%">
   <tr>
+    <td>Ms. Yichao Zhang (June 2023 - August 2023), Visiting Ph.D. Student from Aalborg University, Denmark</td>
+  </tr>
+  <tr>
     <td>Dr. Arif Karakas (February 2008 - January 2009), Visiting Scholar from Yildiz Technical University, Turkey</td>
   </tr>
   <tr>

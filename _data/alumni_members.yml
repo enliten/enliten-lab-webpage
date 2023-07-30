@@ -1,3 +1,11 @@
+- name: Xiaofei Wang [📄](https://scholar.google.com/citations?user=HTZdiOUAAAAJ&hl=en)
+  photo: XiaofeiWang.jpg
+  duration: Aug 2019 - July 2023
+  employment: National Renewable Energy Laboratory (NREL)
+  email: xwang158@vols.utk.edu
+  alumni_role: Ph.D.
+  number_educ: 0
+
 - name: Will Trout
   photo: Will_Trout.jpeg
   duration: Jan 2022 - May 2023
@@ -12,7 +20,6 @@
   alumni_role: M.S., Ph.D., Research Scientist
   number_educ: 0
 
-
 - name: Justin Martinez
   photo: Justin.jpg
   duration: Sep 2020 - Oct 2022
@@ -23,6 +30,7 @@
 - name: Trey Mingee
   photo: TreyMingee.jpg
   duration: Sep 2020 - Oct 2022
+  employment: City of Oak Ridge
   email: vxl191@vols.utk.edu
   alumni_role: M.S.
   number_educ: 0
@@ -132,7 +140,7 @@
 - name: Haoyu Yuan [📄](https://scholar.google.com/citations?user=KRg44XkAAAAJ&hl=en)
   photo: HaoyuYuan.jpg
   duration: August 2016
-  employment: National Renewable Energy Laboratory (NREL)
+  employment: Entergrid
   alumni_role: Ph.D.
   number_educ: 0
   education1:
@@ -148,7 +156,7 @@
 - name: Xin Fang [📄](https://scholar.google.com/citations?user=lr3EP0AAAAAJ&hl=en)
   photo: XinFang.jpg
   duration: June 2016
-  employment: National Renewable Energy Laboratory (NREL)
+  employment: Mississippi State University
   alumni_role: Ph.D.
   number_educ: 0
   education1:

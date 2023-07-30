@@ -88,7 +88,7 @@
   number_educ: 1
   education1: BS in 2022, University of Tennessee Knoxville
 
-- name: Buxin She [📄](https://shebuxin.github.io/about)
+- name: Buxin She [📄](https://shebuxin.github.io//)
   member_type: phd_stu
   photo: BuxinShe.jpg
   info: PhD student since Spring 2020
@@ -104,15 +104,6 @@
   email: hsun19@vols.utk.edu
   number_educ: 1
   education1: BS in 2019, Xi'an Jiao Tong University
-
-- name: Xiaofei Wang [📄](https://scholar.google.com/citations?user=HTZdiOUAAAAJ&hl=en)
-  member_type: phd_stu
-  photo: XiaofeiWang.jpg
-  info: PhD student since Fall 2019
-  email: xwang158@vols.utk.edu
-  number_educ: 2
-  education1: MS in 2017, Wuhan University
-  education2: BS in 2014, North China Electric Power University
 
 - name: Jinning Wang [📄](https://scholar.google.com/citations?hl=en&user=Wr7nQZAAAAAJ)
   member_type: phd_stu
