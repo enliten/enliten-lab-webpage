@@ -7,6 +7,9 @@ permalink: /pictures/
 
 # Pictures
 
+- July 2023, General meeting at Orlando <br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic18.jpg){: style="width: 800px; float: center; border: 10px"}
+
 - June 2023, (missing: Haoyuan Sun, Jingzi Liu, and Mishal Alonize) <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic17.JPG){: style="width: 800px; float: center; border: 10px"}
 
