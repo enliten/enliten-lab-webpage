@@ -24,13 +24,13 @@ systems using cutting-edge machine learning, optimization, and control technique
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/PowerSystemAI.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ltb-architecture.gif" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LTBScreenshot.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/ltb-architecture.gif" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/PowerSystemAI.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/respic/FengGraph1.png" alt="Slide 4" />
