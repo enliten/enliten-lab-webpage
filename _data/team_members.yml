@@ -53,6 +53,15 @@
   number_educ: 1
   education1: BS in 2020, University of Tennessee at Martin
 
+- name: Junjie Yin [ðŸ“„](https://eejyin.github.io)
+  member_type: phd_stu
+  photo: JunjieYin.png
+  info: PhD student since Fall 2023
+  email: jyin10@vols.utk.edu
+  number_educ: 2
+  education1: MS in 2023, Southeast University
+  education2: BS in 2020, North China Electric Power University
+
 - name: Chenchen Li
   member_type: phd_stu
   photo: ChenchenLi.jpg
