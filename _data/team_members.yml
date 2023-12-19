@@ -88,23 +88,6 @@
   number_educ: 2
   education1: MS in 2014, the Enliten Lab, UTK
   education2: Full time staff with ORNL
-
-- name: Nicholas Parsly
-  member_type: ms_stu
-  photo: nicholas.jpg
-  info: MS student since Fall 2022
-  email: nparsly@vols.utk.edu
-  number_educ: 1
-  education1: BS in 2022, University of Tennessee Knoxville
-
-- name: Buxin She [📄](https://shebuxin.github.io//)
-  member_type: phd_stu
-  photo: BuxinShe.jpg
-  info: PhD student since Spring 2020
-  email: bshe@vols.utk.edu
-  number_educ: 2
-  education1: BS in 2017, Tianjin University
-  education2: MS in 2020, Tianjin University
   
 - name: Haoyuan Sun [📄](https://scholar.google.com/citations?hl=en&user=OCJ03A4AAAAJ&hl=en)
   member_type: phd_stu

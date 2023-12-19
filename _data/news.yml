@@ -4,10 +4,29 @@
 # - date: 17. June 2015
 #   headline: "Maarten wins the LION image award! Check out his <a href='https://www.physics.leidenuniv.nl/index.php?id=11573&news=757&type=lion&ln=EN'>submission</a>.<img src='/images/newspic/Contest.jpg' class='img-responsive' style='max-width:192px' />"
 
+
+- date: 12 December 2023 
+  headline: Buxin She successfully defended his PhD dissertation and graduated. Congratulations to Dr. Buxin She!
+
 - date: 19 Oct 2023 
-  headline: Jinning Wang received a Graduate Student Paper Award for the paper titled "DiME and AGVis A Distributed Messaging Environment and Geographical Visualizer for Large-scale Power System Simulation" presented at the 55th Annual North American Power Symposium. Congratulations! 
+  headline: Jinning Wang received a Graduate Student Paper Award at the 55th Annual North American Power Symposium. Congratulations! 
   link: ./news/JinningWang_NAPS_Award
   link_text: Press releases
+
+- date: 11 August 2023 
+  headline: Xiaofei Wang successfully defended his PhD dissertation and graduated. Congratulations to Dr. Xiaofei Wang!
+
+- date: 03 August 2023 
+  headline: Qiwei Zhang successfully defended his PhD dissertation and graduated. Congratulations to Dr. Qiwei Zhang!
+
+- date: 17 July 2023 
+  headline: Nicholas Parsly has earned his MS degree and graduated. Congratulations! 
+
+- date: 10 April 2022 
+  headline: Xiaofei Wang received the EECS Outstanding Graduate Research Assistants Award. Congratulations!
+
+- date: 25 May 2022 
+  headline: We held a summer cookout party at Tyson Park.
 
 - date: 22 May 2022 
   headline: Nicholas West has earned his MS degree and graduated. Congratulations! 
