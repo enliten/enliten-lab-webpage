@@ -3,7 +3,7 @@ title: "JinningWang_NAPS_Award"
 layout: textlay
 excerpt: "Enliten Lab -- Projects"
 sitemap: false
-permalink: /news/JinningWang_NAPS_Award
+permalink: /news/JinningWang_NAPS_Award.html
 ---
 
 # Jinning Wang  NAPS Award
