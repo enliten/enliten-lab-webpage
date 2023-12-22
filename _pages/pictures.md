@@ -6,6 +6,8 @@ permalink: /pictures/
 ---
 
 # Pictures
+- December 2023, Hooding (missing: Haoyuan Sun, Jingzi Liu, Mishal Alonize, and Chenchen Li)<br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic_2023hooding.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - July 2023, General meeting at Orlando <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic18.jpg){: style="width: 800px; float: center; border: 10px"}
@@ -19,7 +21,7 @@ permalink: /pictures/
 - May 2022, Cookout at Tyson Park (missing: Nicholas Parsly) <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic14.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- Aprl 2022, T&D meeting<br>
+- April 2022, T&D meeting<br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic13.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - June 2021, “Beat the virus” cookout at Nicholas Ball Park (missing: Dr. Mingjian Cui and Justin Martinez) <br>
