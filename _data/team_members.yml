@@ -29,6 +29,23 @@
   education2: MS in 2017, Southeast University
   education3: BS in 2014, Southeast University
 
+- name: Stephanie Marie Tomasik
+  member_type: ms_stu
+  photo: 
+  info: MS student since Fall 2024
+  email: zrd392@vols.utk.edu
+  number_educ: 1
+  education1: BS in 20xx, xxx University
+
+- name: Héber Henrique Selvo
+  member_type: phd_stu
+  photo: Heber.jpg
+  info: PhD student since Spring 2024
+  email: hselvo@vols.utk.edu
+  number_educ: 2
+  education1: MS in 2013, Federal University of Mato Grosso do Sul
+  education2: BS in 2004, Federal University of Mato Grosso do Sul
+
 - name: Waleed Aldosari
   member_type: ms_stu
   info: MS student since Fall 2022
