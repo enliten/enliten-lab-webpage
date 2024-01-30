@@ -29,6 +29,14 @@
   education2: MS in 2017, Southeast University
   education3: BS in 2014, Southeast University
 
+- name: Zack Malkmus
+  member_type: ms_stu
+  photo: Zack.jpg
+  info: MS student since Fall 2024
+  email: zmalkmus@vols.utk.edu
+  number_educ: 1
+  education1: BS in 2024, University of Tennessee Knoxville
+
 - name: Stephanie Marie Tomasik
   member_type: ms_stu
   photo: 
