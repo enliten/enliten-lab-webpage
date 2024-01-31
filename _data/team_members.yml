@@ -40,10 +40,10 @@
 - name: Stephanie Marie Tomasik
   member_type: ms_stu
   photo: 
-  info: MS student since Fall 2024
+  info: MS student since Spring 2024
   email: zrd392@vols.utk.edu
   number_educ: 1
-  education1: BS in 20xx, xxx University
+  education1: BS in 2024, University of Tennessee Knoxville
 
 - name: Héber Henrique Selvo
   member_type: phd_stu
@@ -54,29 +54,6 @@
   education1: MS in 2013, Federal University of Mato Grosso do Sul
   education2: BS in 2004, Federal University of Mato Grosso do Sul
 
-- name: Waleed Aldosari
-  member_type: ms_stu
-  info: MS student since Fall 2022
-  email: waldosar@vols.utk.edu
-  number_educ: 1
-  education1: BS in 2021, University of Tennessee Knoxville
-  
-- name: Mishal Alonize
-  member_type: phd_stu
-  photo: Mishal.jpg
-  info: PhD student since Fall 2021
-  email: malonize@vols.utk.edu
-  number_educ: 2
-  education1: MS in 2015, University of Bridgeport
-  education2: BS in 2009, Riyadh College of Technology
-
-- name: Thomas Hinson
-  member_type: ms_stu
-  photo: Thomas.jpg
-  info: MS student since Fall 2020
-  email: thodhins@vols.utk.edu
-  number_educ: 1
-  education1: BS in 2020, University of Tennessee at Martin
 
 - name: Junjie Yin [📄](https://eejyin.github.io)
   member_type: phd_stu
@@ -96,6 +73,15 @@
   education1: MS in 2022, North China Electric Power University
   education2: BS in 2019, North China Electric Power University
 
+- name: Mishal Alonize
+  member_type: phd_stu
+  photo: Mishal.jpg
+  info: PhD student since Fall 2021
+  email: malonize@vols.utk.edu
+  number_educ: 2
+  education1: MS in 2015, University of Bridgeport
+  education2: BS in 2009, Riyadh College of Technology
+
 - name: Jingzi Liu [📄](https://ieeexplore.ieee.org/author/37085677272)
   member_type: phd_stu
   photo: LJZ.jpg
@@ -105,22 +91,14 @@
   education1: MS in 2020, Hohai University
   education2: BS in 2017, North China University of Water Resources and Electric Power
 
-- name: Ben Ollis [📄](https://www.ornl.gov/staff-profile/ben-b-ollis)
+
+- name: Vince Wilson [📄](https://www.linkedin.com/in/vince-wilson-36803012b/)
   member_type: phd_stu
-  photo: BenOllis.jpg
-  info: PhD student (part-time) since Fall 2018
-  email: tollis@vols.utk.edu
-  number_educ: 2
-  education1: MS in 2014, the Enliten Lab, UTK
-  education2: Full time staff with ORNL
-  
-- name: Haoyuan Sun [📄](https://scholar.google.com/citations?hl=en&user=OCJ03A4AAAAJ&hl=en)
-  member_type: phd_stu
-  photo: HaoyuanSun.png
-  info: PhD student since Fall 2019
-  email: hsun19@vols.utk.edu
+  photo: VinceWilson.jpg
+  info: PhD student since Spring 2021
+  email: vwilso17@utk.edu
   number_educ: 1
-  education1: BS in 2019, Xi'an Jiao Tong University
+  education1: BS in 2020, University of Dayton
 
 - name: Jinning Wang [📄](https://scholar.google.com/citations?hl=en&user=Wr7nQZAAAAAJ)
   member_type: phd_stu
@@ -132,13 +110,22 @@
   education2: MS in 2020, Taiyuan University of Technology
   education3: MS in 2020, University of West Florida
 
-- name: Vince Wilson [📄](https://www.linkedin.com/in/vince-wilson-36803012b/)
+- name: Haoyuan Sun [📄](https://scholar.google.com/citations?hl=en&user=OCJ03A4AAAAJ&hl=en)
   member_type: phd_stu
-  photo: VinceWilson.jpg
-  info: PhD student since Spring 2021
-  email: vwilso17@utk.edu
+  photo: HaoyuanSun.png
+  info: PhD student since Fall 2019
+  email: hsun19@vols.utk.edu
   number_educ: 1
-  education1: BS in 2020, University of Dayton
+  education1: BS in 2019, Xi'an Jiao Tong University
+
+- name: Ben Ollis [📄](https://www.ornl.gov/staff-profile/ben-b-ollis)
+  member_type: phd_stu
+  photo: BenOllis.jpg
+  info: PhD student (part-time) since Fall 2018
+  email: tollis@vols.utk.edu
+  number_educ: 2
+  education1: MS in 2014, the Enliten Lab, UTK
+  education2: Full time staff with ORNL
 
 - name: Helia Zandi [📄](https://www.ornl.gov/staff-profile/helia-zandi)
   member_type: phd_stu

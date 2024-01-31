@@ -6,28 +6,39 @@ permalink: /pictures/
 ---
 
 # Pictures
-- December 2023, Hooding (missing: Haoyuan Sun, Jingzi Liu, Mishal Alonize, and Chenchen Li)<br>
+- December 2023, Hooding at UTK<br>
+From left: Bo, Junjie, Vince, Xiaofei, Dr. Li, Buxin, Jinning, Hang, Sufan <br>
+(missing: Haoyuan, Jingzi, Mishal, and Chenchen) <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic_2023hooding.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - July 2023, General meeting at Orlando <br>
+From left: Hang, Vince, Jinning, Buxin, Xin, Dr. Li, Hantao, Haoyuan, Jin, Chenchen, Yichao<br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic18.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- June 2023, (missing: Haoyuan Sun, Jingzi Liu, and Mishal Alonize) <br>
+- June 2023, in front of Min H. Kao Building<br>
+Front fist row from left: Buxin, Jinning, (), Xiaofei, Dr. Li; Behind rows from left: Chenchen, Yichao, Vince, Sufan, (Zack), Hang <br>
+(missing: Haoyuan, Jingzi, and Mishal)
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic17.JPG){: style="width: 800px; float: center; border: 10px"}
 
-- June 2023, Monthly group meeing (Haoyuan is in the zoom; missing: Jingzi Liu and Mishal Alonize) <br>
+- June 2023, Monthly group meeing<br>
+From left: Hang, Nicholas Parsly, (Zack), Jinning, Buxin, Vince, Sufan, Xiaofei, Chenchen, Yichao <br>
+(Haoyuan is in the zoom; missing: Jingzi and Mishal) 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic16.JPG){: style="width: 800px; float: center; border: 10px"}
 
-- May 2022, Cookout at Tyson Park (missing: Nicholas Parsly) <br>
+- May 2022, Cookout at Tyson Park  <br>
+From left: (), Jin, Jingzi, Jinning, (Nicholas West), Vince, Qiwei, Xiaofei, Dr. Li, Hang, Buxin, (), (), Haoyuan, Mishal (missing: Nicholas Parsly) <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic14.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - April 2022, T&D meeting<br>
+From left: Xiaofei, Buxin, Dr. Li, Haoyuan <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic13.jpg){: style="width: 800px; float: center; border: 10px"}
 
-- June 2021, “Beat the virus” cookout at Nicholas Ball Park (missing: Dr. Mingjian Cui and Justin Martinez) <br>
+- June 2021, “Beat the virus” cookout at Nicholas Ball Park <br>
+From left: Ian, Mariana, Nicholas West, Haoyuan, Trey, Xiaofei, Hantao, Dr. Li, Buxin, Qiwei, Jin, Hang, Jinning, Vince (missing: Dr. Mingjian Cui and Justin Martinez)
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic10.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - December 2020, Graduation during pandemic <br>
+From left: (Wei),  Dr. Li, Qingxin <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic11.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - December 2019, Year-end and graduation party with friends and collaborators at Wasabi restaurant <br>

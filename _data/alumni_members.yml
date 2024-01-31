@@ -26,6 +26,15 @@
   alumni_role: Ph.D.
   number_educ: 0
 
+- name: Waleed Aldosari
+  photo: 
+  duration: Aug 2022 - May 2023
+  employment: 
+  email: waldosar@vols.utk.edu
+  alumni_role: M.S.
+  number_educ: 0
+
+
 - name: Will Trout
   photo: Will_Trout.jpeg
   duration: Jan 2022 - May 2023
@@ -39,6 +48,14 @@
   employment: Johns Hopkins University
   email: qzhang41@vols.utk.edu
   alumni_role: M.S., Ph.D., Research Scientist
+  number_educ: 0
+
+- name: Thomas Hinson
+  photo: Thomas.jpg
+  duration: Aug 2020 - Dec 2022
+  employment: 
+  email: thodhins@vols.utk.edu
+  alumni_role: M.S.
   number_educ: 0
 
 - name: Justin Martinez
