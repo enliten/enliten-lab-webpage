@@ -18,6 +18,14 @@ permalink: /projects/
 
 --------------
 
+## Energy Equity in Power System
+
+_Summary provided by Chenchen Li, Jingzi Liu_
+
+For realizing the reduction in greenhouse gas emissions outlined in the Paris Agreement, a energy transition needs to be undertaken. During this transition, each community with different circumstances should benefit from a more sustainable energy system in terms of economics, environment, and reliability, that is, realizing energy equity in the power system. In this project, we are designing to investigate energy equity in power system planning and electricity market operation. There are two kinds of planning problems in the power system based on the classification of goals, i.e., optimizing the operation state of the power system and improving the resilience of the power system. For these two kinds of problems, distinct quantitative models for energy equity in the power system will be formulated, and the energy equity will be incorporated as constraints in the original planning model. Additionally, generalized guidelines for investing generators will be provided. In terms of the electricity market operation, the energy sharing considering energy equity will be investigated. In this context, the quantitative model or operation strategy of energy equity will be developed based on the electricity price, then, the affordability of electricity in the electricity market will be improved through integrating the energy equity constraints. Finally, the accessibility, affordability, and resilience of the power system will be improved with the help of new proposed strategies by the above models.
+
+--------------
+
 ## Another Market Simulator (AMS)  
 
 _Summary provided by Qiwei Zhang_[![]({{ site.url }}{{ site.baseurl }}/images/more-info-button2.png){: style="width: 120px; float: center; border: 10px"}](AMS)  
