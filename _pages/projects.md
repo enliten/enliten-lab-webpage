@@ -16,6 +16,18 @@ permalink: /projects/
 {:toc}
 
 
+
+
+--------------
+
+## Energy Savings Through Refrigeration Load Control with Assessment of Commercial Potential
+
+_Summary provided by Vince Wilson_  
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Vince.PNG){: style="height: 150px; float:right; border 10px;"}
+
+To demonstrate the feasibility of commercial refrigeration load in providing peak shaving services, a test refrigerator was outfitted with controls allowing it to receive to demand response or electricity price signals. The system is then able to identify peak electricity price periods and calculate an optimal compressor schedule for the day that minimizes electricity cost. To estimate the amount of possible benefits such technology could have if widely deployed, system operation was simulated for a full year using historical day-ahead prices and weather data. Multiple simulations were carried out where the amount of load to be refrigerated varied in different patterns throughout each day. On average, optimal scheduling reduced the average yearly electricity cost for operators by 7.48% and yearly energy usage by 5.00% while increasing average peak power use by 0.72%. Using data from the Energy Information Administration's Commercial Buildings Energy Consumption Survey, universal implementation of such systems on commercial refrigerators would result in a net financial savings of US$5.38 billion, 52.25 million MWh lower electricity demand, and 20,220 megatons of CO2 emission reductions.
+
 --------------
 
 ## Energy Equity in Power System
