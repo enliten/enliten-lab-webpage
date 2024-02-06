@@ -16,17 +16,17 @@ From left: Hang, Vince, Jinning, Buxin, Xin, Dr. Li, Hantao, Haoyuan, Jin, Chenc
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic18.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - June 2023, in front of Min H. Kao Building<br>
-Front fist row from left: Buxin, Jinning, (), Xiaofei, Dr. Li; Behind rows from left: Chenchen, Yichao, Vince, Sufan, (Zack), Hang <br>
+Front fist row from left: Buxin, Jinning, Nicholas Parsly, Xiaofei, Dr. Li; Behind rows from left: Chenchen, Yichao, Vince, Sufan, Zack, Hang <br>
 (missing: Haoyuan, Jingzi, and Mishal)
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic17.JPG){: style="width: 800px; float: center; border: 10px"}
 
 - June 2023, Monthly group meeing<br>
-From left: Hang, Nicholas Parsly, (Zack), Jinning, Buxin, Vince, Sufan, Xiaofei, Chenchen, Yichao <br>
+From left: Hang, Nicholas Parsly, Zack, Jinning, Buxin, Vince, Sufan, Xiaofei, Chenchen, Yichao <br>
 (Haoyuan is in the zoom; missing: Jingzi and Mishal) 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic16.JPG){: style="width: 800px; float: center; border: 10px"}
 
 - May 2022, Cookout at Tyson Park  <br>
-From left: (), Jin, Jingzi, Jinning, (Nicholas West), Vince, Qiwei, Xiaofei, Dr. Li, Hang, Buxin, (), (), Haoyuan, Mishal (missing: Nicholas Parsly) <br>
+From left: Trey Mingee, Jin, Jingzi, Jinning, Nicholas West, Vince, Qiwei, Xiaofei, Dr. Li, Hang, Buxin, Justin Martinez, Mishal's friend, Haoyuan, Mishal (missing: Nicholas Parsly) <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic14.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - April 2022, T&D meeting<br>
@@ -38,7 +38,7 @@ From left: Ian, Mariana, Nicholas West, Haoyuan, Trey, Xiaofei, Hantao, Dr. Li, 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic10.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - December 2020, Graduation during pandemic <br>
-From left: (Wei),  Dr. Li, Qingxin <br>
+From left: Wei,  Dr. Li, Qingxin <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic11.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - December 2019, Year-end and graduation party with friends and collaborators at Wasabi restaurant <br>
