@@ -29,21 +29,6 @@
   education2: MS in 2017, Southeast University
   education3: BS in 2014, Southeast University
 
-- name: Zack Malkmus
-  member_type: ms_stu
-  photo: Zack.jpg
-  info: MS student since Fall 2024
-  email: zmalkmus@vols.utk.edu
-  number_educ: 1
-  education1: BS in 2024, University of Tennessee Knoxville
-
-- name: Stephanie Marie Tomasik [📄](https://www.linkedin.com/in/stephanie-tomasik-856233158/)
-  member_type: ms_stu
-  photo: Stephanie.JPG
-  info: MS student since Spring 2024
-  email: zrd392@vols.utk.edu
-  number_educ: 1
-  education1: BS in 2024, University of Tennessee Knoxville
 
 - name: Héber Henrique Selvo
   member_type: phd_stu
@@ -126,13 +111,6 @@
   number_educ: 2
   education1: MS in 2014, the Enliten Lab, UTK
   education2: Full time staff with ORNL
-
-- name: Helia Zandi [📄](https://www.ornl.gov/staff-profile/helia-zandi)
-  member_type: phd_stu
-  photo: zandi.jpg
-  info: PhD student (part-time) since Fall 2016
-  email: zandih@ornl.gov
-  number_educ: 0
 
 - name: "This could be you !"
   member_type: phd_stu
