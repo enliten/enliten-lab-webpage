@@ -22,7 +22,7 @@ For all positions, previous experience in one or more of the following areas is 
 
 ### Current open positions
 
-We have 1 (one) PhD student opening in power system and artificial intelligence for 2022.
+Thanks for your attention. **There is NO position any more for 2025 Spring**. If any availability, the updates will be posted here.
 
 ### Applications for PhD and Postdoc positions
 If you are interested in pursuing a M.S. or Ph.D. degree at UT with financial support, please send a formal, complete application to UT Graduate School. Otherwise, your case will not be forwarded to EECS for departmental consideration of admission. Also, you may check our EECS department website about our EECS graduate program.
