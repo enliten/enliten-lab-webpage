@@ -318,6 +318,9 @@ Navigate to [Faculty](#faculty), [Staff](#staff), [Graduate Students](#graduate-
 <table align="center" style="width:100%">
 <col width="100%">
   <tr>
+    <td>Mr. Kohto Watanabe (Oct 2024 - Dec 2024), Visiting Ph.D. Student from Waseda University, Japan</td>
+  </tr>
+  <tr>
     <td>Mr. Bo Gu (Nov 2023 - Sep 2024), Visiting Ph.D. Student from Huazhong University of Science and Technology, China</td>
   </tr>
   <tr>
