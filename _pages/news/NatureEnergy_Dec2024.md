@@ -1,5 +1,5 @@
 ---
-title: "Nature_Energy""
+title: "Nature_Energy"
 layout: textlay
 excerpt: "Enliten Lab -- Projects"
 sitemap: false
