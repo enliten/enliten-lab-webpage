@@ -1,5 +1,5 @@
 ---
-title: "Dr. Fran Li, Dr. Jin Zhao, and Dr. Qiwei Zhang co-authered a <b>Nature Energy</b> paper on "weather vulnerability of power systems""
+title: "Nature_Energy""
 layout: textlay
 excerpt: "Enliten Lab -- Projects"
 sitemap: false
