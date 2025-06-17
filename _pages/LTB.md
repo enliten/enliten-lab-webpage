@@ -9,15 +9,15 @@ permalink: /projects/LTB/
 # CURENT Large-Scale Testbed
 _The CURENT LTB for wide-area monitoring, modeling, control, and demonstration_
 
-[Download the LTB Fact Sheet]({{ site.url }}{{ site.baseurl }}/downloads//Fact_Sheet_Tomsovic_Li_LTB.pdf)
+[Download the LTB Fact Sheet]({{ site.url }}{{ site.baseurl }}/downloads//LTB_Factsheet_20241020_v2.pdf)
 
-[Download the LTB article on the IEEE Power and Energy Magazine](https://www.nxtbook.com/nxtbooks/pes/powerenergy_030420/index.php#/p/60)
+[Download the LTB article on the IEEE Power and Energy Magazine](https://ieeexplore.ieee.org/document/9007798)<!-- https://www.nxtbook.com/nxtbooks/pes/ powerenergy_030420/index.php#/p/60-->
 
-[Download the paper on LTB's cyber-physical simulation architecture](https://digital-library.theiet.org/content/journals/10.1049/iet-esi.2019.0084/)
+[Download the paper on LTB's cyber-physical simulation architecture](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-esi.2019.0084)
 
-[Download the paper on LTB's power system simulator ANDES](https://arxiv.org/abs/2002.09455)
+[Download the paper on LTB's power system simulator ANDES](https://ieeexplore.ieee.org/document/9169830)
 
-[Explore the source code of the ANDES simulator](https://github.com/cuihantao/andes)
+[Explore the source code of the ANDES simulator](https://github.com/CURENT/andes)
 
 ## Overview
 
