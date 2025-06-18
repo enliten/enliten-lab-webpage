@@ -9,7 +9,6 @@ permalink: /projects/LTB/
 # CURENT Large-Scale Testbed
 _The CURENT LTB for wide-area monitoring, modeling, control, and demonstration_
 
-[Download the LTB Fact Sheet](https://enliten.utk.edu/downloads/LTB_Factsheet_20241020_v2.pdf)
 
 [Download the LTB article on the IEEE Power and Energy Magazine](https://ieeexplore.ieee.org/document/9007798)<!-- https://www.nxtbook.com/nxtbooks/pes/ powerenergy_030420/index.php#/p/60-->
 
@@ -18,6 +17,9 @@ _The CURENT LTB for wide-area monitoring, modeling, control, and demonstration_
 [Download the paper on LTB's power system simulator ANDES](https://ieeexplore.ieee.org/document/9169830)
 
 [Explore the source code of the ANDES simulator](https://github.com/CURENT/andes)
+
+## LTB Fact Sheet
+<iframe src="https://enliten.utk.edu/downloads/LTB_Factsheet_20241020_v2.pdf" width="100%" height="1100" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 ## Overview
 
@@ -50,8 +52,4 @@ LTB provides a testing platform to validate and verify new models and control te
 ## Points of Contact
 
 Fran Li (865) 974-8401 (ph.), (865) 974-9723 (fax), fli6@utk.edu
-
-Kevin Tomsovic (865) 974-2693 (ph.), (865) 974-5483 (fax), tomsovic@utk.edu
-
-Hantao Cui (865) 974-5493 hcui7@utk.edu
 
