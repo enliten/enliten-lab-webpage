@@ -6,6 +6,11 @@ permalink: /pictures/
 ---
 
 # Pictures
+
+- July 2025, Cookout at Norris Dam<br>
+From left: Junjie Yin, Vince Wilson, Jinning Wang, Dr. Li, Heber Selvo, Jingzi Liu, Chenchen Li<br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic_2025cookout.jpg){: style="width: 800px; float: center; border: 10px"}
+
 - December 2023, Hooding at UTK<br>
 From left: Bo Gu, Junjie Yin, Vince Wilson, Xiaofei Wang, Dr. Li, Buxin She, Jinning Wang, Hang Shuai, Sufan Jiang<br>
 (missing: Haoyuan Sun, Jingzi Liu, Mishal Alonize, and Chenchen Li) <br>
