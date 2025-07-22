@@ -17,5 +17,5 @@ Dr. Jingzi’s dissertation made impactful contributions across four major areas
 - **Affordable energy market design**: Designed an innovative peer-to-peer (P2P) energy trading fusion market emphasizing energy justice and decentralization.  
 - **Grid benefit assessment**: Created a grid-level benefit assessment tool to support the deployment of air-source heat pumps integrated with thermal energy storage.
 
-![Dissertation Contributions](./images/newspic/jingzi_defense.png)
+![Dissertation Contributions](https://enliten.utk.edu/images/newspic/jingzi_defense.png)
 
