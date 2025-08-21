@@ -11,11 +11,12 @@
   photo: JinningWang.jpg
   duration: Jan 2020 - Jul 2025
   employment: GE Vernova
-  email: jwang175@vols.utk.edu
+  email: jwang175@alum.utk.edu
   alumni_role: Ph.D.
   number_educ: 0
 
 - name: Zack Malkmus
+  photo: Zack.jpg
   duration: Aug 2020 - May 2024
   employment: Pursuing his M.S. in UTK
   email: zmalkmus@vols.utk.edu
@@ -23,6 +24,7 @@
   number_educ: 0
 
 - name: Helia Zandi [📄](https://www.ornl.gov/staff-profile/helia-zandi)
+  photo:zandi.jpg
   duration: Aug 2016 - Apr 2024
   employment: Oak Ridge National Laboratory (ORNL)
   email: zandih@ornl.gov
@@ -57,7 +59,7 @@
   number_educ: 0
 
 - name: Waleed Aldosari
-  photo: 
+  photo: rock.jpg
   duration: Aug 2022 - May 2023
   employment: 
   email: waldosar@vols.utk.edu
@@ -129,7 +131,7 @@
 - name: Hantao Cui [📄](https://cui.eecps.com/)
   photo: HantaoCui.jpg
   duration: Aug 2013 - July 2021
-  employment: Oklahoma State University
+  employment: North Carolina State University
   alumni_role: Ph.D., Research Assistant Professor
   email: hcui7@utk.edu
   number_educ: 0
@@ -204,8 +206,7 @@
   employment: Assistant Professor with UNC Charlotte
   alumni_role: Ph.D.
   email: linquanbai@uncc.edu
-  number_educ: 1
-  education1: MS and BS, Tianjin University
+  number_educ: 0
 
 - name: Haoyu Yuan [📄](https://scholar.google.com/citations?user=KRg44XkAAAAJ&hl=en)
   photo: HaoyuYuan.jpg
@@ -213,7 +214,6 @@
   employment: Entergrid
   alumni_role: Ph.D.
   number_educ: 0
-  education1:
 
 - name: Can Huang [📄](https://people.llnl.gov/huang38)
   photo: CanHuang.jpg
@@ -221,15 +221,13 @@
   employment: Lawrence Livermore National Laboratory, Livermore, CA
   alumni_role: Ph.D.
   number_educ: 0
-  education1:
 
 - name: Xin Fang [📄](https://scholar.google.com/citations?user=lr3EP0AAAAAJ&hl=en)
   photo: XinFang.jpg
   duration: June 2016
-  employment: Mississippi State University
+  employment:  University of South Carolina
   alumni_role: Ph.D.
   number_educ: 0
-  education1:
 
 - name: Xue Li [📄](https://scholar.google.com/citations?user=HgMBLuIAAAAJ&hl=en)
   photo: XueLi.jpg
