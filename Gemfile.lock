@@ -68,3 +68,8 @@ DEPENDENCIES
 
 BUNDLED WITH
    2.7.2
+   
+gem 'logger'
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
