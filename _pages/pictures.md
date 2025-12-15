@@ -7,6 +7,15 @@ permalink: /pictures/
 
 # Pictures
 
+<span id="hooding-2025-12"></span>
+- December 2025, Hooding at UTK<br>
+From left: Mishal Alonize, Haoyuan Sun, Dr. Li, Jinning Wang, Jingzi Liu<br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic_2025hooding_1.jpg){: style="width: 800px; float: center; border: 10px"}
+<br>
+From left: Dr. Li, Mishal Alonize, Min Lin's brother, Min Lin, Xiaofei Wang, Haoyuan Sun, Jingzi Liu, Hongyu Li, Vince Wilson, Chenchen Li, Xinyu Feng, Junjie Yin<br>
+(missing: Heber Selvo, Jinning Wang) <br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic_2025hooding_2.jpg){: style="width: 800px; float: center; border: 10px"}
+
 - July 2025, Cookout at Norris Dam<br>
 From left: Junjie Yin, Vince Wilson, Jinning Wang, Dr. Li, Heber Selvo, Jingzi Liu, Chenchen Li<br>
 (missing: Haoyuan Sun and Mishal Alonize)<br>
