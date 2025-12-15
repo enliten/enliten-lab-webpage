@@ -7,7 +7,6 @@ permalink: /pictures/
 
 # Pictures
 
-<span id="hooding-2025-12"></span>
 - December 2025, Hooding at UTK<br>
 From left: Mishal Alonize, Haoyuan Sun, Dr. Li, Jinning Wang, Jingzi Liu<br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic_2025hooding_1.jpg){: style="width: 800px; float: center; border: 10px"}
