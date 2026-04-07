@@ -16,6 +16,17 @@ permalink: /projects/
 {:toc}
 
 
+--------------
+
+## Mitigation of Circular Flows in HVDC-Integrated Transmission Systems
+
+_Summary provided by Chenchen Li_  
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/chenchen_HVDC.png){: style="height: 150px; float:right; border 10px;"}
+
+This project aims to develop a market clearing approach that incorporates marginal loss price and mitigates the circular flows in HVDC-integrated transmission systems. Circular flows refer to abnormal loop flows between HVDC and AC lines, driven by negative generation offers, inaccurate power losses modeling, and binding transmission constraints. These flows may lead to operational inefficiencies and stability concerns in transmission systems. In addition, the proposed strategy must be compatible with existing ISO/RTO market clearing frameworks, which are integrated with established operational procedures, regulatory requirements, and software infrastructure. 
+To address these challenges, an optimization-based strategy is developed to enhance current market frameworks and effectively mitigate circular flows. The proposed approach consists of two main steps: HVDC power flow determination and market clearing. Several algorithms are proposed to determine HVDC power flows, including a multi-objective optimization methodology, an adjustment to renewable generator offers, and a modified mathematical program with equilibrium constraints (MPEC)-based formulation. The effectiveness of the proposed strategy is validated on a modified reliability test system developed by the National Laboratory of the Rockies (NLR), with case studies implemented in NLR’s Sienna platform. The results demonstrate that the proposed strategy provides system operators with a practical and flexible approach to mitigate circular flows in market clearing for HVDC-integrated transmission systems.
+
 
 
 --------------
