@@ -75,9 +75,9 @@ We are grateful for funding from [NSF](https://www.nsf.gov), [DOE](https://www.d
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ISONE.jpg" style="height: 60px;margin-right:10px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LLNL.png" style="height: 50px;margin-right:10px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DOD.png" style="height: 60px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CURENT.png" style="height: 60px;margin-right:10px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CURENT_logo.png" style="height: 60px;margin-right:10px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ESTCP.png" style="height: 60px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nlr.png" style="height: 60px;margin-right:10px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nlr.svg" style="height: 60px;margin-right:10px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Achillea_Research_Logo.jpg" style="height: 60px;margin-right:10px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RTX.png" style="height: 60px;margin-right:10px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/REVV.png" style="height: 60px;margin-right:10px;">
