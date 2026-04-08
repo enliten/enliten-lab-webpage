@@ -66,7 +66,7 @@ We are grateful for funding from [NSF](https://www.nsf.gov), [DOE](https://www.d
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF.png" style="height: 60px;margin-right:20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DOE.png" style="height: 60px;margin-right:20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DOD.png" style="height: 60px;margin-right:20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CURENT_logo.png" style="height: 60px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CURENT_logo.png" style="height: 60px;margin-right:20px;"><br>
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ORNL.png" style="height: 50px;margin-right:20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EPRI.png" style="height: 45px;margin-right:20px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DVP.png" style="height: 45px;margin-right:20px;"> 
