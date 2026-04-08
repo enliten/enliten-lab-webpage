@@ -63,23 +63,23 @@ We are with the Department of Electrical Engineering and Computer Science (EECS)
 We are grateful for funding from [NSF](https://www.nsf.gov), [DOE](https://www.doe.gov), [ORNL](https://www.ornl.gov), [EPRI](https://www.epri.com), [ISO-NE](https://www.iso-ne.com), [GEIRI-NA](https://geirina.sgcc.com.cn), [ESTCP](https://www.serdp-estcp.org/About-SERDP-and-ESTCP/About-ESTCP), [NREL](https://www.nrel.gov/), [AR](https://achillearesearch.com/), [RTX](https://www.rtx.com/), [RevV](https://www.ornl.gov/programs/revv) and multiple funding sources. See the list of funded projects here.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DOE.png" style="height: 60px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ORNL.png" style="height: 60px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF.png" style="height: 60px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EPRI.png" style="height: 60px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DVP.png" style="height: 60px;margin-right:10px;"> <br>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GCEP2.gif" style="height: 60px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GCEP.gif" style="height: 60px;margin-right:10px;"> <br>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UTRC.png" style="height: 60px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GEIRINA.png" style="height: 60px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ISONE.jpg" style="height: 60px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LLNL.png" style="height: 50px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DOD.png" style="height: 60px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CURENT_logo.png" style="height: 60px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ESTCP.png" style="height: 60px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nlr.svg" style="height: 60px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Achillea_Research_Logo.jpg" style="height: 60px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RTX.png" style="height: 60px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/REVV.png" style="height: 60px;margin-right:10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GridFruit.png" style="height: 60px;margin-right:10px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DOE.png" style="height: 60px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ORNL.png" style="height: 60px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF.png" style="height: 60px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EPRI.png" style="height: 60px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DVP.png" style="height: 60px;margin-right:20px;"> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GCEP2.gif" style="height: 60px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GCEP.gif" style="height: 60px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UTRC.png" style="height: 45px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GEIRINA.png" style="height: 60px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ISONE.jpg" style="height: 60px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LLNL.png" style="height: 45px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DOD.png" style="height: 60px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CURENT_logo.png" style="height: 60px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ESTCP.png" style="height: 60px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nlr.svg" style="height: 45px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Achillea_Research_Logo.jpg" style="height: 60px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RTX.png" style="height: 60px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/REVV.png" style="height: 60px;margin-right:20px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GridFruit.png" style="height: 60px;margin-right:20px;">
 </figure>
