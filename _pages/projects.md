@@ -14,6 +14,15 @@ permalink: /projects/
 
 * TOC
 {:toc}
+--------------
+
+## ADMM-based Virtual Inertia Scheduling (VIS) to Preserve Privacy in Networked Microgrids
+
+_Summary provided by Vince Wilson_  
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/admm.png){: style="height: 150px; float:right; border 10px;"}
+
+As microgrids (MG) proliferate, they may seek to coordinate their resources for mutual benefit. This will require sharing some degree of system information which raises several concerns about data availability, privacy, and device control authority. This project uses the alternating direction method of multipliers (ADMM) to enable the decentralized solving of a security-constrained economic dispatch problem. ADMM uses a consensus mechanism to allow networked MG to reach globally optimal decisions while only sharing information about certain coupled variables, hiding key topological, demand, and generation information. Virtual inertia and damping contributions from each MG are determined by rate of change of frequency (RoCoF), quasi-steady-state frequency, and frequency nadir constraints, the latter of which is linearized using a convex hull approach. To examine the effects of increased privacy, two additional approaches to ADMM which reduce or eliminate coupled variable information sharing are developed. ADMM scheduling results are validated by comparing their accuracy with traditional optimization solutions and through the use of ANDES to simulate the frequency response to load spikes. The results demonstrate that the decentralized approach satisfies the same constraints and can produce nearly identical objective values even when accounting for dispatch disparities caused by the ADMM process.
 
 
 --------------
