@@ -15,7 +15,3 @@ Dr. Vince’s dissertation made impactful contributions across four major areas:
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/newspic/Vince_defense.png){: style="width: 800px; float: center; border: 10px"}
-
-The attached images shows first the different costs associated with the scheduling results of the traditional centralized approach and ADMM while the second shows the actual dispatch decisions for different resources that produce these costs:
-
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/Vince_result1.png){: style="width: 800px; float: center; border: 10px"}![]({{ site.url }}{{ site.baseurl }}/images/newspic/Vince_result2.png){: style="width: 800px; float: center; border: 10px"}
