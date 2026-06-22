@@ -1,7 +1,7 @@
 ---
-title: "Enliten Lab - Team"
+title: "ENLITEN Lab - Team"
 layout: gridlay
-excerpt: "Enliten Lab: Team members"
+excerpt: "ENLITEN Lab: Team members"
 sitemap: false
 permalink: /team/
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Dr. Fangxing (Fran) Li: Enliten Lab Director"
+title: "Dr. Fangxing (Fran) Li: ENLITEN Lab Director"
 layout: about
-excerpt: "Enliten Lab: Director"
+excerpt: "ENLITEN Lab: Director"
 sitemap: false
 permalink: /drli/
 

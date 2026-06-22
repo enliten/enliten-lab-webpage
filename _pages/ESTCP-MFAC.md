@@ -1,7 +1,7 @@
 ---
-title: "Enliten Lab - ESTCP"
+title: "ENLITEN Lab - ESTCP"
 layout: textlay
-excerpt: "Enliten Lab -- ESTCP"
+excerpt: "ENLITEN Lab -- ESTCP"
 sitemap: false
 permalink: /projects/ESTCP-MFAC/
 ---

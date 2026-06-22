@@ -1,7 +1,7 @@
 ---
 title: "JinningWang_NAPS_Award"
 layout: textlay
-excerpt: "Enliten Lab -- Projects"
+excerpt: "ENLITEN Lab -- Projects"
 sitemap: false
 permalink: /news/JinningWang_NAPS_Award.html
 ---

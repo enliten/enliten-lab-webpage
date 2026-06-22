@@ -1,7 +1,7 @@
 ---
 title: "Jingzi_defense"
 layout: textlay
-excerpt: "Enliten Lab -- Projects"
+excerpt: "ENLITEN Lab -- Projects"
 sitemap: false
 permalink: /news/Jingzi_defense_Jul2025.html
 ---

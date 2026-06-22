@@ -1,12 +1,12 @@
 ---
-title: "Enliten Lab - Home"
+title: "ENLITEN Lab - Home"
 layout: homelay
-excerpt: "Enliten Lab at University of Tennessee."
+excerpt: "ENLITEN Lab at University of Tennessee."
 sitemap: false
 permalink: /
 ---
 
-The Enliten (Electric Network Laboratory for Intelligent Transactive ENergy) Lab is a research group led by [Professor Fangxing "Fran" Li](http://web.eecs.utk.edu/~fli6/) at the [University of Tennessee](https://eecs.utk.edu). Our goal is to enhance the secure and economic operation of electric power
+The ENLITEN (Electric Network Laboratory for Intelligent Transactive ENergy) Lab is a research group led by [Professor Fangxing "Fran" Li](http://web.eecs.utk.edu/~fli6/) at the [University of Tennessee](https://eecs.utk.edu). Our goal is to enhance the secure and economic operation of electric power
 systems using cutting-edge machine learning, optimization, and control techniques.  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

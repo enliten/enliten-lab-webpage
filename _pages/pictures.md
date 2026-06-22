@@ -1,7 +1,7 @@
 ---
-title: "Enliten Lab - Pictures"
+title: "ENLITEN Lab - Pictures"
 layout: piclay
-excerpt: "Enliten Lab -- Pictures"
+excerpt: "ENLITEN Lab -- Pictures"
 permalink: /pictures/
 ---
 

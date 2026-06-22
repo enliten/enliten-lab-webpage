@@ -4,13 +4,28 @@
 # - date: 17. June 2015
 #   headline: "Maarten wins the LION image award! Check out his <a href='https://www.physics.leidenuniv.nl/index.php?id=11573&news=757&type=lion&ln=EN'>submission</a>.<img src='/images/newspic/Contest.jpg' class='img-responsive' style='max-width:192px' />"
 
+- date: 13 May 2026
+  headline: Vince Wilson, advised by Dr. Fran Li, received the 2026 Handong Gui Outstanding Graduate Research Assistant Award in power systems. Congratulations to Vince Wilson!
+  link: ./news/Vince_CURENT_GRA_Award_May2026.html
+  link_text: Press releases
+
+- date: 30 Apr 2026
+  headline: Chenchen Li received the EECS Outstanding Graduate Research Assistants Award. Congratulations to Chenchen Li!
+  link: ./news/Chenchen_EECS_GRA_Award_Apr2026.html
+  link_text: Press releases
+
+- date: 16 Apr 2026
+  headline: Dr. Fran Li received the Moses E. & Mayme Brooks Distinguished Professor award at the Tickle College of Engineering Annual Award Banquet. Congratulations to Dr. Fran Li!
+  link: ./news/Dr.Li_Distinguished_Professor_Award_Apr2026.html
+  link_text: Press releases
+
 - date: 07 Apr 2026
   headline: Vince Wilson defended his dissertation on April 7th. His topic is “Control and Optimization of Heterogeneous Flexible Demand and Generation Resources for Grid Support”. Congratulations to Dr. Vince Wilson!
   link: ./news/Vince_defense_Apr2026.html
   link_text: Press releases
 
 - date: 12 Dec 2025
-  headline: Four group members were hooded by Dr. Li at the Spring 2025 commencement ceremony, followed by a joyful group celebration. 
+  headline: Four group members were hooded by Dr. Li at the Fall 2025 commencement ceremony, followed by a joyful group celebration. 
   link: ./news/Hooding_Dec2025.html
   link_text: Press releases
 

@@ -1,7 +1,7 @@
 ---
-title: "Enliten Lab - AMS"
+title: "ENLITEN Lab - AMS"
 layout: textlay
-excerpt: "Enliten Lab -- AMS"
+excerpt: "ENLITEN Lab -- AMS"
 sitemap: false
 permalink: /projects/AMS/
 ---

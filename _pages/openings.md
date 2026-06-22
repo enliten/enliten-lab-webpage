@@ -1,5 +1,5 @@
 ---
-title: "Enliten Lab - Openings"
+title: "ENLITEN Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

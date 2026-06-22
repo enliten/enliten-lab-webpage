@@ -1,7 +1,7 @@
 ---
 title: "Four Group Members Hooded by Dr. Li"
 layout: textlay
-excerpt: "Enliten Lab -- Projects"
+excerpt: "ENLITEN Lab -- Projects"
 sitemap: false
 permalink: /news/Hooding_Dec2025.html
 ---
@@ -10,7 +10,7 @@ permalink: /news/Hooding_Dec2025.html
 {:.no_toc}
 
 
-The official university-wide Spring 2025 commencement ceremonies were held on Friday, December 12, 2025, at Thompson-Boling Arena at Food City Center. The Doctoral Hooding Ceremony took place at 7:30 p.m., bringing together faculty, graduates, family members, and friends to celebrate this important academic milestone.
+The official university-wide Fall 2025 commencement ceremonies were held on Friday, December 12, 2025, at Thompson-Boling Arena at Food City Center. The Doctoral Hooding Ceremony took place at 7:30 p.m., bringing together faculty, graduates, family members, and friends to celebrate this important academic milestone.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Enliten Lab - AOA"
+title: "ENLITEN Lab - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: false

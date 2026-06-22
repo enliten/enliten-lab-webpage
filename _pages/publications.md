@@ -1,7 +1,7 @@
 ---
-title: "Enliten Lab - Publications"
+title: "ENLITEN Lab - Publications"
 layout: gridlay
-excerpt: "Enliten Lab -- Publications."
+excerpt: "ENLITEN Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

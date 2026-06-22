@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Enliten Lab at University of Tennessee."
+excerpt: "ENLITEN Lab at University of Tennessee."
 sitemap: false
 permalink: /allnews.html
 ---

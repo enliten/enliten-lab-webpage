@@ -1,7 +1,7 @@
 ---
 title: "Best Paper at International Journal of Electric Power and Energy"
 layout: textlay
-excerpt: "Enliten Lab -- Projects"
+excerpt: "ENLITEN Lab -- Projects"
 sitemap: false
 permalink: /news/BestPaper_Apr2024.html
 ---

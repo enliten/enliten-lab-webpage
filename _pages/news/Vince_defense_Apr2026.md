@@ -1,7 +1,7 @@
 ---
 title: "Vince_defense"
 layout: textlay
-excerpt: "Enliten Lab -- Projects"
+excerpt: "ENLITEN Lab -- Projects"
 sitemap: false
 permalink: /news/Vince_defense_Apr2026.html
 ---

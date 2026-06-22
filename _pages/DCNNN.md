@@ -1,7 +1,7 @@
 ---
-title: "Enliten Lab - DCNNN"
+title: "ENLITEN Lab - DCNNN"
 layout: textlay
-excerpt: "Enliten Lab -- DCNNN"
+excerpt: "ENLITEN Lab -- DCNNN"
 sitemap: false
 permalink: /projects/DCNNN/
 ---

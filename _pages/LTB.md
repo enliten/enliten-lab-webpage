@@ -1,7 +1,7 @@
 ---
-title: "Enliten Lab - LTB"
+title: "ENLITEN Lab - LTB"
 layout: textlay
-excerpt: "Enliten Lab -- LTB"
+excerpt: "ENLITEN Lab -- LTB"
 sitemap: false
 permalink: /projects/LTB/
 ---
