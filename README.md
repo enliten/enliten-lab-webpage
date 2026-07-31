@@ -1,11 +1,15 @@
 # ENLITEN Lab Website
 
-This is the website of our academic research group at University of Tennessee.
+This is the website of the ENLITEN Lab (Electric Network and Intelligent
+Transactive Energy), a research group in the EECS Department at the University of
+Tennessee, Knoxville.
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
+The site is powered by [Jekyll](https://jekyllrb.com) with
+[Bootstrap](https://getbootstrap.com) and [Bootswatch](https://bootswatch.com).
+Content lives in plain-text `.yml` data files (`_data/`) and markdown pages
+(`_pages/`), and is published with GitHub Pages from the `gh-pages` branch.
 
-Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
-
+The design is adapted from the [Allan Lab](https://www.allanlab.org) website template.
 
 Copyright ENLITEN Lab. Code released under the MIT License.
 
