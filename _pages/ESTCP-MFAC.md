@@ -25,7 +25,7 @@ A microgrid is an integrated system consisting of interconnected loads and distr
 
 With all these challenges, the principal investigator plans to investigate a model-free adaptive control (MFAC) for microgrid V-f regulation in islanded mode or P-Q regulation in utility-connected mode, in which the maximum power point and state of charging of the battery will be considered. The features and advantages of the proposed model-free adaptive control include: 1) it is based on measurement, rather than the microgrid system model. Thus, it is model-free and suitable for real-time applications, scalable to different sizes of microgrid with different number of devices, and portable to other microgrids. 2) The control gains are self-adjustable to track a pre-defined, desired trajectory such that a fast and smooth response can always be achieved in order to match the desired trajectory, regardless of external changes (load levels, distribution network, or solar PVs), designer experience for initial control gains, or any offline training studies. Therefore, it achieves the plug-and-play capability for microgrid V-f or P-Q regulation.
 
-## Mythology
+## Methodology
 
 To be updated.
 
