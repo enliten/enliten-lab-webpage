@@ -9,7 +9,7 @@ permalink: /news/NatureEnergy_Dec2024.html
 # <i>Nature Energy </i> paper on "weather vulnerability of power systems" is published
 {:.no_toc}
 
-**Dr. Fran Li, Dr. Jin Zhao, and Dr. Qiwei Zhang co-authered a <i>Nature Energy paper</i> on "weather vulnerability of power systems"** 
+**Dr. Fran Li, Dr. Jin Zhao, and Dr. Qiwei Zhang co-authored a <i>Nature Energy paper</i> on "weather vulnerability of power systems"** 
 
 Dr. Fangxing (Fran) Li, director of the CURENT and ENLITEN, along with Dr. Jin Zhao, a former postdoctoral researcher, and Dr. Qiwei Zhang, a former Ph.D. student, have co-authored a paper published in Nature Energy titled "Impacts of renewable energy resources on the weather vulnerability of power systems." The paper was officially published on October 21, 2024, in Nature Energy, volume 9, pages 1407–1414.
 
