@@ -12,7 +12,7 @@ permalink: /projects/DCNNN/
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNN_toolbox.jpg){: style="width: 600px; float: center; border: 10px"}
 
-The main idea behind DCNNN is to train a deep CNN for classifying system security status as well as obtaining system state parameters. Fig. 1. explains how the DCNNN toolbox works for fast contingency screening. Given a power system, the bus active/reactive power injection, and the bus self-susceptance elements are selected as the input to deep CNN. The deep CNN consists of two convolutional (Conv) layers and three fully-connected (FC) layer. The function of the convolutional layers is to extract features from the input power system raw data. The function of the fully-connected layer is to map the extracted features to the desired output.
+The main idea behind DCNNN is to train a deep CNN for classifying system security status as well as obtaining system state parameters. Fig. 1. explains how the DCNNN toolbox works for fast contingency screening. Given a power system, the bus active/reactive power injection, and the bus self-susceptance elements are selected as the input to deep CNN. The deep CNN consists of two convolutional (Conv) layers and three fully-connected (FC) layers. The function of the convolutional layers is to extract features from the input power system raw data. The function of the fully-connected layer is to map the extracted features to the desired output.
 
 There are two types of output from deep CNN: the first is a matrix containing bus voltage magnitude and bus voltage angle; the second is the system security status. It can be observed that the proposed deep CNN can realize two functions simultaneously: as an AC power flow (ACPF) regression tool to get system state parameters and as a classifier for system security assessment under N-1 contingency, which is a multi-task learning model. The system security status evaluates the system as whole, while the bus voltage can reflect the local vulnerability.
 
@@ -20,7 +20,7 @@ There are two types of output from deep CNN: the first is a matrix containing bu
 
 To validate the efficiency and accuracy of DCNNN, we compare the screening results and the calculation time from DCNNN with that of the model-based ACPF method, as shown in the following tables.
 
-In Table 1, the errors of sita and v are the per unit mean absolute value over the test set compared with the results from model-based ACPF calculation. The classification accuracy is the ratio between the number of test samples that have been correctly classified based on their security status and the total number of test samples. As the table shows, DCNNN model possesses considerably high accuracy for ACPF calculation, even for large-scale power systems. Also, the training time is within an acceptable range given that the training is completed off-line.
+In Table 1, the errors of theta and v are the per unit mean absolute value over the test set compared with the results from model-based ACPF calculation. The classification accuracy is the ratio between the number of test samples that have been correctly classified based on their security status and the total number of test samples. As the table shows, DCNNN model possesses considerably high accuracy for ACPF calculation, even for large-scale power systems. Also, the training time is within an acceptable range given that the training is completed off-line.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/DCNNNtable1.png){: style="width: 500px; float: center; border: 10px"}
 
