@@ -95,40 +95,4 @@ Front row: Hantao Cui, Xue Li, Dr. Li, Mwamba Bowa, Stephanie Steren-Ruta, Drew 
 Back rows: Can Huang, Linquan Bai, Qinran Hu, Riyasat Azim, Taylor Short, Fengzhang Luo, Cheng Zhang, Brad Bowles, Jake Colby, Derrick Menn, Matthew Burgamy, Tyler McGraw, Alex Joss, Ganyun Lyu, Houhe Chen, Li Guo
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic01.jpg){: style="width: 800px; float: center; border: 10px"}
 
-{% assign number_printed = 0 %}
-
-{% for pic in site.data.pictures_Leiden %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd > 2 %}
-</div>
-{% endif %}
-
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
-
 <p> &nbsp; </p>
