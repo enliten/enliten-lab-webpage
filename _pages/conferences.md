@@ -8,7 +8,7 @@ permalink: /conferences/
 
 # Conferences
 
-This page provides a full list of upcomimg conferences.
+This page provides a full list of upcoming conferences.
 
 ## Lists
 
