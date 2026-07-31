@@ -22,10 +22,10 @@
   authors: ["Shunfu Lin", "Fangxing Li", "Erwei Tian", "Yang Fu", "Dongdong Li"]
   year: "2018"
   title: "Clustering Load Profiles for Demand Response Applications"
-  venue: "IEEE Transactions on Smarg Grid"
+  venue: "IEEE Transactions on Smart Grid"
 
 - publicationType: "journal-papers"
-  authors: ["Linquan Bai", "Jianhui Wang", "Chengshan Wang", "chen Chen", "Fangxing Li"]
+  authors: ["Linquan Bai", "Jianhui Wang", "Chengshan Wang", "Chen Chen", "Fangxing Li"]
   year: "2017"
   title: "Distribution Locational Marginal Pricing (DLMP) for Congestion Management and Voltage Support"
   venue: "IEEE Transactions on Power Systems"
@@ -430,13 +430,13 @@
   authors: ["Haoyu Yuan", "Fangxing Li"]
   year: "2015"
   title: "Hybrid Voltage Stability Assessment (VSA) for N-1 Contingency"
-  venue: "Eletric Power Systems Research (Elsevier)"
+  venue: "Electric Power Systems Research (Elsevier)"
 
 - publicationType: "journal-papers"
   authors: ["Yao Xu", "Fangxing Li", "Zhiqiang Jin", "Can Huang"]
   year: "2015"
   title: "Flatness-based Adaptive Control (FBAC) for STATCOM"
-  venue: "Eletric Power Systems Research (Elsevier)"
+  venue: "Electric Power Systems Research (Elsevier)"
 
 - publicationType: "journal-papers"
   authors: ["Can Huang", "Fangxing Li", "Zhiqiang Jin"]
