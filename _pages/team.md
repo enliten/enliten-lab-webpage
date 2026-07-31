@@ -330,7 +330,7 @@ Navigate to [Faculty](#faculty), [Staff](#staff), [Graduate Students](#graduate-
     <td>Dr. Arif Karakas (February 2008 - January 2009), Visiting Scholar from Yildiz Technical University, Turkey</td>
   </tr>
   <tr>
-    <td>Dr. Yateendra Mishra (August 2008 - January 2009) Visitng Scholar from Univesity of Queensland, Australia; employer after visiting: Midwest ISO, Indianapolis, IN; currently with Queensland</td>
+    <td>Dr. Yateendra Mishra (August 2008 - January 2009), Visiting Scholar from University of Queensland, Australia; employer after visiting: Midwest ISO, Indianapolis, IN; currently with Queensland</td>
   </tr>
   <tr>
     <td>Dr. Yurong Wang (Sept. 2009 - August 2010), Visiting Ph.D. Student from Southeast University, China</td>
@@ -363,7 +363,7 @@ Navigate to [Faculty](#faculty), [Staff](#staff), [Graduate Students](#graduate-
     <td>Dr. Jun Li (August 2013 - August 2014), Visiting Scholar from Nanjing Inst. of Technology, China</td>
   </tr>
   <tr>
-    <td>Dr. Tao Ding (December 2013 - December 2014), Visting Ph.D. student from Tsinghua University</td>
+    <td>Dr. Tao Ding (December 2013 - December 2014), Visiting Ph.D. student from Tsinghua University</td>
   </tr>
   <tr>
     <td>Dr. Houhe Chen (March 2014 - April 2015), Visiting Scholar from Northeast Electric Power University, China</td>
