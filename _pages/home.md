@@ -56,7 +56,7 @@ Our lab develops mathematical optimization models for generation scheduling and 
 algorithms for power flow calculation, contingency screening, voltage stability analysis, and cyber security vulnerability mitigation. We also develop large-scale
 power system testbeds for research verification and demonstration (see [Projects](https://enliten.utk.edu/projects/)).
 
-We are with the Department of Electrical Engineering and Computer Science (EECS), UTK, which is located within driving distances to Nashville, Atlanta, and the Great Smoky Mountains. We are part of [CURENT](https://curent.utk.edu), an Education Research Center funded by the National Science Foundation (NSF) and Department of Energy (DOE).
+We are with the Department of Electrical Engineering and Computer Science (EECS), UTK, which is located within driving distances to Nashville, Atlanta, and the Great Smoky Mountains. We are part of [CURENT](https://curent.utk.edu), an Engineering Research Center funded by the National Science Foundation (NSF) and Department of Energy (DOE).
 
  **We have openings for new PhD students, Postdocs, and Master students!** [(details)](https://enliten.utk.edu/openings/)
 
