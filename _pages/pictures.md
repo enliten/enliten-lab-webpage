@@ -30,11 +30,11 @@ From left: Hang Shuai, Vince Wilson, Jinning Wang, Buxin She, Xin Fang, Dr. Li, 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic18.jpg){: style="width: 800px; float: center; border: 10px"}
 
 - June 2023, in front of Min H. Kao Building<br>
-Front fist row from left: Buxin She, Jinning Wang, Nicholas Parsly, Xiaofei Wang, Dr. Li; Back rows from left: Chenchen Li, Yichao Zhang, Vince Wilson, Sufan Jiang, Zack Malkmus, Hang Shuai<br>
+Front first row from left: Buxin She, Jinning Wang, Nicholas Parsly, Xiaofei Wang, Dr. Li; Back rows from left: Chenchen Li, Yichao Zhang, Vince Wilson, Sufan Jiang, Zack Malkmus, Hang Shuai<br>
 (missing: Haoyuan Sun, Jingzi Liu, and Mishal Alonize)
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic17.JPG){: style="width: 800px; float: center; border: 10px"}
 
-- June 2023, Monthly group meeing<br>
+- June 2023, Monthly group meeting<br>
 From left: Hang Shuai, Nicholas Parsly, Zack Malkmus, Jinning Wang, Buxin She, Dr. Li, Vince Wilson, Sufan Jiang, Xiaofei Wang, Chenchen Li, Yichao Zhang<br>
 (Haoyuan Sun is in the zoom; missing: Jingzi Liu and Mishal Alonize) 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/Group_pic16.JPG){: style="width: 800px; float: center; border: 10px"}
